@@ -33,7 +33,8 @@ $ py generate_json.py
 
 ## Informazioni
 - Nel JSON, il campo "casi_diagnosticati", corrisponde al numero di persone a cui è stato eseguito un tampone.
-- Dal 15 Marzo 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
+- Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
+- Dall'8 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - I report *gialli* iniziano dal 5 Marzo 2020.
 - I report *blu* iniziano dal 12 Marzo 2020.
 - I report *arancio* iniziano dall'11 Marzo 2020.
