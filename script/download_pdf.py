@@ -2,6 +2,7 @@ import urllib.request
 import sys
 
 gores_blu = (
+	("04_17_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu17042020_9.pdf"),
 	("04_16_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu16042020_9.pdf"),
 	("04_15_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu15042020_9.pdf"),
 	("04_14_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu14042020_9.pdf"),
@@ -41,6 +42,7 @@ gores_blu = (
 )
 
 gores_giallo = (
+	("04_17_2020.pdf", ""),
 	("04_16_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo16042020_12.pdf"),
 	("04_15_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/3Report%20schema%20sintetico%20monitoraggio%20agg%2015%20aprile%202020.xls.pdf"),
 	("04_14_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo14042020_12.pdf"),
@@ -87,6 +89,7 @@ gores_giallo = (
 )
 
 gores_arancio = (
+	("04_17_2020.pdf", ""),
 	("04_16_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio16042020_18.pdf"),
 	("04_15_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESARANCIO%2015042020.pdf"),
 	("04_14_2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/REPORT_sint_DECESSI_COVID19_aggiorn_14_APRILE_ore%2018.pdf"),
