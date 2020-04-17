@@ -1,0 +1,151 @@
+
+## JSON schema
+- `data` :
+- **file_pdf**
+  - **locale**
+    - `blu` :
+    - `giallo` :
+    - `arancio` :
+  - **online**
+    - `blu` :
+    - `giallo` :
+    - `arancio` :
+- **tamponi**
+  - **totali**
+    - `test_effettuati` :
+    - `casi_diagnosticati` :
+    - `casi_positivi` :
+  - **odierni**
+    - `test_effettuati` :
+    - `casi_diagnosticati` :
+    - `casi_positivi` :
+- **malati**:
+  - **totali**
+    - `persone` :
+    - **provincia**
+      - `pesaro_urbino` :
+      - `ancona` :
+      - `macerata` :
+      - `fermo` :
+      - `ascoli_piceno` :
+      - `extra_regione` :
+  - `dimessi_guarti` :
+  - **casi_attivi**
+    - `persone` :
+    - `isolamento_domiciliare` :
+    - **ricoverati**
+      - `totali` :
+      - **terapia_intensiva**
+        - `totali` :
+        - **strutture**
+          - `Pesaro_AO_Marche_Nord` :
+          - `Ancona_AO_OR_Torrette` :
+          - `Senigallia` :
+          - `Fermo` :
+          - `Civitanova_M` :
+          - `Jesi` :
+          - `Urbino` :
+          - `Camerino` :
+          - `San_Benedetto_dT` :
+          - `Macerata` :
+          - `INRCA_Ancona` :
+      - **semi_intensiva**
+        - `totali` :
+        - **strutture**
+          - `Civitanova_M` :
+          - `Camerino` :
+          - `San_Benedetto_dT` :
+          - `Jesi` :
+          - `Macerata` :
+          - `Urbino` :
+          - `Senigallia` :
+          - `Fermo` :
+          - `AO_Marche_Nord_Pesaro_SUBINT` :
+          - `AO_OR_Torrette_Ancona_SUBINT` :
+          - `Villa_Pini` :
+      - **post_critica**
+        - `totali` :
+        - **strutture**
+          - `Chiaravalle` :
+          - `Galantara` :
+          - `Fossombrone` :
+          - `Villa_dei_Pini` :
+          - `Campofilone_RSA` :
+          - `AO_Torrette_Ancona_post_critica` :
+          - `INRCA_Fermo` :
+          - `Ospedale_da_campo_milit_Jesi` :
+      - **non_intensiva**
+        - `totali` :
+        - **strutture**
+          - `MI_Fermo` :
+          - `Covid_Jesi` :
+          - `PS_Medicina__Urbino` :
+          - `PS_Macerata` :
+          - `Covid_Senigallia` :
+          - `Covid_Fabriano` :
+          - `Covid_Camerino` :
+          - `Covid_Civitanova_M` :
+          - `San_Benedetto_dT` :
+          - `INRCA_Ancona` :
+          - `AO_Marche_Nord_NON_INTENSIVI` :
+          - `AO_Torrette_Ancona__PS` :
+          - `Villa_Pini` :
+  - **quarantena_preventiva**
+    - `totali` :
+    - **attivi**
+      - `operatori_sanitari` :
+      - `sintomatici` :
+      - `asintomatici` :
+    - **provincia**
+      - **pesaro_urbino**
+        - `totali` :
+        - **attivi**
+          - `operatori_sanitari` :
+          - `sintomatici` :
+          - `asintomatici` :
+      - **ancona**
+        - `totali` :
+        - **attivi**
+          - `operatori_sanitari` :
+          - `sintomatici` :
+          - `asintomatici` :
+      - **macerata**
+        - `totali` :
+        - **attivi**
+          - `operatori_sanitari` :
+          - `sintomatici` :
+          - `asintomatici` :
+      - **fermo**
+        - `totali` :
+        - **attivi**
+          - `operatori_sanitari` :
+          - `sintomatici` :
+          - `asintomatici` :
+      - **ascoli_piceno**
+        - `totali` :
+        - **attivi**
+          - `operatori_sanitari` :
+          - `sintomatici` :
+          - `asintomatici` :
+- **decessi**:
+  - **totali** :
+    - `decessi`
+    - **sesso**
+      - `maschio` :
+      - `femmina` :
+    - **provincia**
+      - `pesaro_urbino` :
+      - `ancona` :
+      - `macerata` :
+      - `fermo` :
+      - `ascoli_piceno` :
+  - **odierni**
+    - `decessi` :
+    - **dettaglio**
+      - `id` :
+      - `luogo_decesso` :
+      - `sesso` :
+      - `eta` :
+      - `comune_domicilio` :
+      - `provincia_domicilio` :
+      - `pregresse_patologie` :

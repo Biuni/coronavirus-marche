@@ -160,13 +160,13 @@
     },
     "decessi": {
         "totali": {
-            "decessi": 785,
+            "decessi": 784,
             "sesso": {
                 "maschio": 492,
-                "femmina": 293
+                "femmina": 292
             },
             "provincia": {
-                "pesaro_urbino": 430,
+                "pesaro_urbino": 429,
                 "ancona": 167,
                 "macerata": 112,
                 "fermo": 59,
@@ -175,7 +175,7 @@
             }
         },
         "odierni": {
-            "decessi": 21,
+            "decessi": 20,
             "dettaglio": [
                 {
                     "id": 765,
@@ -307,22 +307,13 @@
                     "id": 779,
                     "luogo_decesso": "AORMN PESARO",
                     "sesso": "F",
-                    "eta": 63,
-                    "comune_domicilio": "MOMBAROCCIO",
-                    "provincia_domicilio": "PU",
-                    "pregresse_patologie": 1
-                },
-                {
-                    "id": 780,
-                    "luogo_decesso": "AORMN PESARO",
-                    "sesso": "F",
                     "eta": 80,
                     "comune_domicilio": "PESARO",
                     "provincia_domicilio": "PU",
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 781,
+                    "id": 780,
                     "luogo_decesso": "AORMN PESARO",
                     "sesso": "M",
                     "eta": 84,
@@ -331,7 +322,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 782,
+                    "id": 781,
                     "luogo_decesso": "AORMN PESARO",
                     "sesso": "F",
                     "eta": 83,
@@ -340,7 +331,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 783,
+                    "id": 782,
                     "luogo_decesso": "AORMN PESARO",
                     "sesso": "F",
                     "eta": 90,
@@ -349,7 +340,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 784,
+                    "id": 783,
                     "luogo_decesso": "CAMERINO",
                     "sesso": "F",
                     "eta": 88,
@@ -358,7 +349,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 785,
+                    "id": 784,
                     "luogo_decesso": "CAMERINO",
                     "sesso": "F",
                     "eta": 80,

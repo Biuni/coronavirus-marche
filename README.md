@@ -45,8 +45,6 @@ $ py generate_json.py
 - Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020.
 - Il report *blu* del 13 Marzo 2020 riporta erroneamente la data del 12 Marzo 2020.
 
-## JSON schema
-
 ## Crediti
 Questo progetto non è ne collegato ne sponsorizzato dalla *Regione Marche* in quanto ente. I dati raccolti provengono dal sito ufficiale http://www.regione.marche.it.
 
