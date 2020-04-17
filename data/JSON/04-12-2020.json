@@ -2,9 +2,9 @@
 	"data":"04-12-2020",
 	"file_pdf":{
 		"locale": {
-			"blu": "./data/PDF/GORES_Blu/04_12_2020.pdf",
-			"giallo": "./data/PDF/GORES_Giallo/04_12_2020.pdf",
-			"arancio": "./data/PDF/GORES_Arancio/04_12_2020.pdf"
+			"blu": "./data/PDF/GORES_Blu/04-12-2020.pdf",
+			"giallo": "./data/PDF/GORES_Giallo/04-12-2020.pdf",
+			"arancio": "./data/PDF/GORES_Arancio/04-12-2020.pdf"
 		},
 		"online": {
 			"blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu12042020_9.pdf",

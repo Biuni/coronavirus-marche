@@ -11,3 +11,7 @@ e poi eseguire il seguente comando per avviare lo script Python che permette di 
 ```bash
 $ py download_pdf.py -giallo
 ```
+o altrimenti, per scaricare uno specifico report, eseguire:
+```bash
+$ py download_pdf.py -giallo MM-DD-YYYY   # MM è il mese, DD il giorno e YYYY l'anno
+```
