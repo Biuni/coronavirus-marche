@@ -1,9 +1,16 @@
 {
 	"data":"04-16-2020",
 	"file_pdf":{
-		"blu":"http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu16042020_9.pdf",
-		"giallo":"http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo16042020_12.pdf",
-		"arancio":"http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio16042020_18.pdf"
+    "locale": {
+      "blu": "./data/PDF/GORES_Blu/04_16_2020.pdf",
+      "giallo": "./data/PDF/GORES_Giallo/04_16_2020.pdf",
+      "arancio": "./data/PDF/GORES_Arancio/04_16_2020.pdf"
+    },
+    "online": {
+      "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu16042020_9.pdf",
+      "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo16042020_12.pdf",
+      "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio16042020_18.pdf"
+    }
 	},
 	"tamponi":{
 		"totali":{

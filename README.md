@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="http://www.regione.marche.it/Portals/0/Images/LogoSmall.png" alt="Regione Marche"/>
+</p>
 # Dati JSON | Coronavirus - COVID-19 | Marche (Italia)
 Questo repository nasce con lo scopo di aggregare, in un formato utilizzabile per l'analisi, i dati forniti dalla regione Marche, in particolare dal GORES (Gruppo Operativo Regionale Emergenza Sanitaria), riguardanti il diffondersi del COVID-19 nel territtorio marchigiano.
 Di fatti, quotidianamente vengono rilasciati 3 diversi report:
@@ -24,7 +27,10 @@ $ py generate_json.py
 ```
 
 ## Informazioni
-- I report BLU iniziano dal 12 Marzo 2020, i report ARANCIO iniziano dall'11 Marzo 2020 mentre i report GIALLI iniziano dal 5 Marzo 2020.
+- I report GIALLI iniziano dal 5 Marzo 2020.
+- I report BLU iniziano dal 12 Marzo 2020.
+- I report ARANCIO iniziano dall'11 Marzo 2020.
+- Il report GIALLI del 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi N.tot", inverte i valori delle provincie di Pesaro Urbino ed Ancona.
 - Il report BLU del 18 Marzo 2020 riporta erroneamente la data del 17 Marzo 2020.
 - Il report BLU del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020.
 - Il report BLU del 13 Marzo 2020 riporta erroneamente la data del 12 Marzo 2020.

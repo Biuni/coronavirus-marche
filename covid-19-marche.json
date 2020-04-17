@@ -3,9 +3,16 @@
     {
       "data": "04-12-2020",
       "file_pdf": {
-        "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu12042020_9.pdf",
-        "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo12042020_12.pdf",
-        "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio12042020_18.pdf"
+        "locale": {
+          "blu": "./data/PDF/GORES_Blu/04_12_2020.pdf",
+          "giallo": "./data/PDF/GORES_Giallo/04_12_2020.pdf",
+          "arancio": "./data/PDF/GORES_Arancio/04_12_2020.pdf"
+        },
+        "online": {
+          "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu12042020_9.pdf",
+          "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo12042020_12.pdf",
+          "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio12042020_18.pdf"
+        }
       },
       "tamponi": {
         "totali": {
@@ -109,7 +116,7 @@
           },
           "provincia": {
             "pesaro_urbino": {
-              "totali": 6400,
+              "totali": 9989,
               "attivi": {
                 "operatori_sanitari": 523,
                 "sintomatici": 1904,
@@ -117,7 +124,7 @@
               }
             },
             "ancona": {
-              "totali": 9989,
+              "totali": 6400,
               "attivi": {
                 "operatori_sanitari": 345,
                 "sintomatici": 847,
@@ -294,9 +301,16 @@
     {
       "data": "04-13-2020",
       "file_pdf": {
-        "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu13042020_9.pdf",
-        "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo13042020_12.pdf",
-        "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio13042020_18.pdf"
+        "locale": {
+          "blu": "./data/PDF/GORES_Blu/04_13_2020.pdf",
+          "giallo": "./data/PDF/GORES_Giallo/04_13_2020.pdf",
+          "arancio": "./data/PDF/GORES_Arancio/04_13_2020.pdf"
+        },
+        "online": {
+          "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu13042020_9.pdf",
+          "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo13042020_12.pdf",
+          "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio13042020_18.pdf"
+        }
       },
       "tamponi": {
         "totali": {
@@ -400,7 +414,7 @@
           },
           "provincia": {
             "pesaro_urbino": {
-              "totali": 6450,
+              "totali": 10041,
               "attivi": {
                 "operatori_sanitari": 518,
                 "sintomatici": 1900,
@@ -408,7 +422,7 @@
               }
             },
             "ancona": {
-              "totali": 10041,
+              "totali": 6450,
               "attivi": {
                 "operatori_sanitari": 353,
                 "sintomatici": 852,
@@ -603,9 +617,16 @@
     {
       "data": "04-14-2020",
       "file_pdf": {
-        "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu14042020_9.pdf",
-        "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo14042020_12.pdf",
-        "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/REPORT_sint_DECESSI_COVID19_aggiorn_14_APRILE_ore%2018.pdf"
+        "locale": {
+          "blu": "./data/PDF/GORES_Blu/04_14_2020.pdf",
+          "giallo": "./data/PDF/GORES_Giallo/04_14_2020.pdf",
+          "arancio": "./data/PDF/GORES_Arancio/04_14_2020.pdf"
+        },
+        "online": {
+          "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu14042020_9.pdf",
+          "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo14042020_12.pdf",
+          "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/REPORT_sint_DECESSI_COVID19_aggiorn_14_APRILE_ore%2018.pdf"
+        }
       },
       "tamponi": {
         "totali": {
@@ -709,7 +730,7 @@
           },
           "provincia": {
             "pesaro_urbino": {
-              "totali": 6484,
+              "totali": 10103,
               "attivi": {
                 "operatori_sanitari": 521,
                 "sintomatici": 1919,
@@ -717,7 +738,7 @@
               }
             },
             "ancona": {
-              "totali": 10103,
+              "totali": 6484,
               "attivi": {
                 "operatori_sanitari": 346,
                 "sintomatici": 849,
@@ -948,9 +969,16 @@
     {
       "data": "04-15-2020",
       "file_pdf": {
-        "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu15042020_9.pdf",
-        "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/3Report%20schema%20sintetico%20monitoraggio%20agg%2015%20aprile%202020.xls.pdf",
-        "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESARANCIO%2015042020.pdf"
+        "locale": {
+          "blu": "./data/PDF/GORES_Blu/04_15_2020.pdf",
+          "giallo": "./data/PDF/GORES_Giallo/04_15_2020.pdf",
+          "arancio": "./data/PDF/GORES_Arancio/04_15_2020.pdf"
+        },
+        "online": {
+          "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu15042020_9.pdf",
+          "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/3Report%20schema%20sintetico%20monitoraggio%20agg%2015%20aprile%202020.xls.pdf",
+          "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESARANCIO%2015042020.pdf"
+        }
       },
       "tamponi": {
         "totali": {
@@ -1054,7 +1082,7 @@
           },
           "provincia": {
             "pesaro_urbino": {
-              "totali": 6678,
+              "totali": 10362,
               "attivi": {
                 "operatori_sanitari": 528,
                 "sintomatici": 1963,
@@ -1062,7 +1090,7 @@
               }
             },
             "ancona": {
-              "totali": 10362,
+              "totali": 6678,
               "attivi": {
                 "operatori_sanitari": 371,
                 "sintomatici": 857,
@@ -1284,9 +1312,16 @@
     {
       "data": "04-16-2020",
       "file_pdf": {
-        "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu16042020_9.pdf",
-        "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo16042020_12.pdf",
-        "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio16042020_18.pdf"
+        "locale": {
+          "blu": "./data/PDF/GORES_Blu/04_16_2020.pdf",
+          "giallo": "./data/PDF/GORES_Giallo/04_16_2020.pdf",
+          "arancio": "./data/PDF/GORES_Arancio/04_16_2020.pdf"
+        },
+        "online": {
+          "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu16042020_9.pdf",
+          "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo16042020_12.pdf",
+          "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio16042020_18.pdf"
+        }
       },
       "tamponi": {
         "totali": {
