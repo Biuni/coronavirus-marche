@@ -32,15 +32,19 @@ $ py generate_json.py
 ```
 
 ## Informazioni
+- Nel JSON, il campo "casi_diagnosticati", corrisponde al numero di persone a cui è stato eseguito un tampone.
+- Dal 15 Marzo 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - I report *gialli* iniziano dal 5 Marzo 2020.
 - I report *blu* iniziano dal 12 Marzo 2020.
 - I report *arancio* iniziano dall'11 Marzo 2020.
 
 ### Errori e refusi
-- I report *gialli* del 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
+- I report *gialli* del 09, 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
 - Il report *blu* del 18 Marzo 2020 riporta erroneamente la data del 17 Marzo 2020.
 - Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020.
 - Il report *blu* del 13 Marzo 2020 riporta erroneamente la data del 12 Marzo 2020.
+
+## JSON schema
 
 ## Crediti
 Questo progetto non è ne collegato ne sponsorizzato dalla *Regione Marche* in quanto ente. I dati raccolti provengono dal sito ufficiale http://www.regione.marche.it.

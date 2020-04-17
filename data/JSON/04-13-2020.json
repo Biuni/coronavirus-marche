@@ -14,12 +14,14 @@
 	},
 	"tamponi": {
 		"totali": {
-			"tamponi": 21513,
-			"positivi": 5381
+			"test_effettuati": 0,
+			"casi_diagnosticati": 21513,
+			"casi_positivi": 5381
 		},
 		"odierni": {
-			"tamponi": 456,
-			"positivi": 78
+      "test_effettuati": 0,
+			"casi_diagnosticati": 456,
+			"casi_positivi": 78
 		}
 	},
 	"malati": {
@@ -79,7 +81,7 @@
 						"Galantara": 42,
 						"Fossombrone": 26,
 						"Villa_dei_Pini": 3,
-						"Campofilone_(RSA)": 50,
+						"Campofilone_RSA": 50,
 						"AO_Torrette_Ancona_post_critica": 46,
 						"INRCA_Fermo": 17,
 						"Ospedale_da_campo_milit_Jesi": 6
@@ -90,13 +92,13 @@
 					"strutture": {
 						"MI_Fermo": 56,
 						"Covid_Jesi": 60,
-						"PS/Medicina__Urbino": 28,
+						"PS_Medicina__Urbino": 28,
 						"PS_Macerata": 26,
 						"Covid_Senigallia": 54,
 						"Covid_Fabriano": 0,
 						"Covid_Camerino": 50,
 						"Covid_Civitanova_M": 70,
-						"S._Benedetto_dT": 14,
+						"San_Benedetto_dT": 14,
 						"INRCA_Ancona": 49,
 						"AO_Marche_Nord_NON_INTENSIVI": 33,
 						"AO_Torrette_Ancona__PS": 2,
