@@ -37,7 +37,7 @@ $ py generate_json.py
 - I report *arancio* iniziano dall'11 Marzo 2020.
 
 ### Errori e refusi
-- I report *gialli* dell'11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
+- I report *gialli* del 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
 - Il report *blu* del 18 Marzo 2020 riporta erroneamente la data del 17 Marzo 2020.
 - Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020.
 - Il report *blu* del 13 Marzo 2020 riporta erroneamente la data del 12 Marzo 2020.
