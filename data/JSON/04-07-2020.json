@@ -110,6 +110,7 @@
         "quarantena_domiciliare": {
             "totali": 0,
             "attivi": {
+                "totali": 7335,
                 "operatori_sanitari": 1010,
                 "sintomatici": 2718,
                 "asintomatici": 4617
@@ -118,6 +119,7 @@
                 "pesaro_urbino": {
                     "totali": 0,
                     "attivi": {
+                        "totali": 3337,
                         "operatori_sanitari": 436,
                         "sintomatici": 1409,
                         "asintomatici": 1928
@@ -126,6 +128,7 @@
                 "ancona": {
                     "totali": 0,
                     "attivi": {
+                        "totali": 1962,
                         "operatori_sanitari": 275,
                         "sintomatici": 749,
                         "asintomatici": 1213
@@ -134,6 +137,7 @@
                 "macerata": {
                     "totali": 0,
                     "attivi": {
+                        "totali": 988,
                         "operatori_sanitari": 117,
                         "sintomatici": 268,
                         "asintomatici": 720
@@ -142,6 +146,7 @@
                 "fermo": {
                     "totali": 0,
                     "attivi": {
+                        "totali": 716,
                         "operatori_sanitari": 158,
                         "sintomatici": 189,
                         "asintomatici": 527
@@ -150,6 +155,7 @@
                 "ascoli_piceno": {
                     "totali": 0,
                     "attivi": {
+                        "totali": 332,
                         "operatori_sanitari": 24,
                         "sintomatici": 103,
                         "asintomatici": 229

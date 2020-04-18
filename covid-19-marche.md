@@ -54,6 +54,7 @@
   - **quarantena_domiciliare**
     - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva.
     - **attivi**
+      - `totali` : numero totale di persone positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare. (INFO: Questo valore è calcolato sommando asintomatici e sintomatici, nel cui conteggio sono già considerati gli operatori sanitari) 
       - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare. (INFO: Questo valore è già compreso nel conteggio di sintomatici e asintomatici)
       - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare.
       - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare.
@@ -61,30 +62,35 @@
       - **pesaro_urbino**
         - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Pesaro Urbino.
         - **attivi**
+          - `totali` : numero totale di persone positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Pesaro Urbino. (INFO: Questo valore è calcolato sommando asintomatici e sintomatici, nel cui conteggio sono già considerati gli operatori sanitari)
           - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Pesaro Urbino. (INFO: Questo valore è già compreso nel conteggio di sintomatici e asintomatici)
           - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Pesaro Urbino.
           - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Pesaro Urbino.
       - **ancona**
         - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Ancona.
         - **attivi**
+          - `totali` : numero totale di persone positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ancona. (INFO: Questo valore è calcolato sommando asintomatici e sintomatici, nel cui conteggio sono già considerati gli operatori sanitari)
           - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ancona. (INFO: Questo valore è già compreso nel conteggio di sintomatici e asintomatici)
           - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ancona.
           - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ancona.
       - **macerata**
         - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Macerata.
         - **attivi**
+          - `totali` : numero totale di persone positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Macerata. (INFO: Questo valore è calcolato sommando asintomatici e sintomatici, nel cui conteggio sono già considerati gli operatori sanitari)
           - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Macerata. (INFO: Questo valore è già compreso nel conteggio di sintomatici e asintomatici)
           - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Macerata.
           - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Macerata.
       - **fermo**
         - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Fermo.
         - **attivi**
+          - `totali` : numero totale di persone positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Fermo. (INFO: Questo valore è calcolato sommando asintomatici e sintomatici, nel cui conteggio sono già considerati gli operatori sanitari)
           - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Fermo. (INFO: Questo valore è già compreso nel conteggio di sintomatici e asintomatici)
           - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Fermo.
           - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Fermo.
       - **ascoli_piceno**
         - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Ascoli Piceno.
         - **attivi**
+          - `totali` : numero totale di persone positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ascoli Piceno. (INFO: Questo valore è calcolato sommando asintomatici e sintomatici, nel cui conteggio sono già considerati gli operatori sanitari)
           - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ascoli Piceno. (INFO: Questo valore è già compreso nel conteggio di sintomatici e asintomatici)
           - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ascoli Piceno.
           - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ascoli Piceno.

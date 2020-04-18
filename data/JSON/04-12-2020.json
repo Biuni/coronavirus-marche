@@ -33,7 +33,7 @@
                 "macerata": 818,
                 "fermo": 361,
                 "ascoli_piceno": 253,
-                "extra_regione": 144
+                "extra_regione": 141
             }
         },
         "dimessi_guariti": 1489,
@@ -88,7 +88,7 @@
                     }
                 },
                 "non_intensiva": {
-                    "totali": 495,
+                    "totali": 475,
                     "strutture": {
                         "MI_Fermo": 55,
                         "Covid_Jesi": 60,
@@ -110,6 +110,7 @@
         "quarantena_domiciliare": {
             "totali": 22632,
             "attivi": {
+                "totali": 8164,
                 "operatori_sanitari": 1166,
                 "sintomatici": 3362,
                 "asintomatici": 4802
@@ -118,6 +119,7 @@
                 "pesaro_urbino": {
                     "totali": 9989,
                     "attivi": {
+                        "totali": 3990,
                         "operatori_sanitari": 523,
                         "sintomatici": 1904,
                         "asintomatici": 2086
@@ -126,6 +128,7 @@
                 "ancona": {
                     "totali": 6400,
                     "attivi": {
+                        "totali": 2127,
                         "operatori_sanitari": 345,
                         "sintomatici": 847,
                         "asintomatici": 1280
@@ -134,6 +137,7 @@
                 "macerata": {
                     "totali": 3096,
                     "attivi": {
+                        "totali": 1029,
                         "operatori_sanitari": 145,
                         "sintomatici": 292,
                         "asintomatici": 737
@@ -142,6 +146,7 @@
                 "fermo": {
                     "totali": 1824,
                     "attivi": {
+                        "totali": 656,
                         "operatori_sanitari": 126,
                         "sintomatici": 209,
                         "asintomatici": 447
@@ -150,6 +155,7 @@
                 "ascoli_piceno": {
                     "totali": 1323,
                     "attivi": {
+                        "totali": 362,
                         "operatori_sanitari": 27,
                         "sintomatici": 110,
                         "asintomatici": 252

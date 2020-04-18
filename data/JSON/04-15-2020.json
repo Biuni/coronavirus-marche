@@ -88,7 +88,7 @@
                     }
                 },
                 "non_intensiva": {
-                    "totali": 471,
+                    "totali": 434,
                     "strutture": {
                         "MI_Fermo": 48,
                         "Covid_Jesi": 40,
@@ -110,6 +110,7 @@
         "quarantena_domiciliare": {
             "totali": 23427,
             "attivi": {
+                "totali": 7887,
                 "operatori_sanitari": 1190,
                 "sintomatici": 3426,
                 "asintomatici": 4461
@@ -118,6 +119,7 @@
                 "pesaro_urbino": {
                     "totali": 10362,
                     "attivi": {
+                        "totali": 3888,
                         "operatori_sanitari": 528,
                         "sintomatici": 1963,
                         "asintomatici": 1925
@@ -126,6 +128,7 @@
                 "ancona": {
                     "totali": 6678,
                     "attivi": {
+                        "totali": 2057,
                         "operatori_sanitari": 371,
                         "sintomatici": 857,
                         "asintomatici": 1200
@@ -134,6 +137,7 @@
                 "macerata": {
                     "totali": 3173,
                     "attivi": {
+                        "totali": 990,
                         "operatori_sanitari": 150,
                         "sintomatici": 296,
                         "asintomatici": 694
@@ -142,6 +146,7 @@
                 "fermo": {
                     "totali": 1860,
                     "attivi": {
+                        "totali": 612,
                         "operatori_sanitari": 114,
                         "sintomatici": 210,
                         "asintomatici": 402
@@ -150,6 +155,7 @@
                 "ascoli_piceno": {
                     "totali": 1354,
                     "attivi": {
+                        "totali": 340,
                         "operatori_sanitari": 27,
                         "sintomatici": 100,
                         "asintomatici": 240
