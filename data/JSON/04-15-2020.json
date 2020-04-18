@@ -36,8 +36,8 @@
                 "extra_regione": 154
             }
         },
-        "dimessi_guarti": 1660,
-        "casi_attivi": {
+        "dimessi_guariti": 1660,
+        "attivi": {
             "persone": 3097,
             "isolamento_domiciliare": 2103,
             "ricoverati": {
@@ -107,7 +107,7 @@
                 }
             }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
             "totali": 23427,
             "attivi": {
                 "operatori_sanitari": 1190,

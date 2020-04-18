@@ -2,9 +2,14 @@
   <img src="http://www.regione.marche.it/Portals/0/Images/LogoSmall.png" alt="Regione Marche"/>
 </p>
 
-# Dati JSON | Coronavirus - COVID-19 | Regione Marche
-Questo repository nasce con lo scopo di aggregare, in un formato utilizzabile per l'analisi, i dati forniti dalla regione Marche, in particolare dal GORES (Gruppo Operativo Regionale Emergenza Sanitaria), riguardanti il diffondersi del COVID-19 nel territtorio marchigiano.
-Di fatti, quotidianamente vengono rilasciati 3 diversi report:
+<p align="center">
+⚠️ <i>Progetto in fase di sviluppo</i> ⚠️
+</p>
+
+# 🧪 Regione Marche - Dati COVID-19 in JSON
+Questo repository nasce con lo scopo di aggregare, in un formato utilizzabile per l'analisi, i dati forniti dal *GORES* (Gruppo Operativo Regionale Emergenza Sanitaria) della *Regione Marche*, riguardanti il diffondersi del COVID-19 nel territtorio marchigiano.
+
+Quotidianamente vengono rilasciati 3 diversi report:
 - **Report Blu**: documento nel quale viene rilasciato il numero di tamponi effettuati e il numero di nuovi positivi nelle ultime 24h.
 - **Report Giallo**: documento nel quale viene aggiornata la panoramica sulla situazione dei casi risultati positivi al coronavirus (ricoverati, isolamento domiciliare, dimessi e guarti, ecc..).
 - **Report Arancio**: documento nel quale sono rilasciati i numeri e i dettagli sui decessi avvenuti nelle ultime 24h.
@@ -30,9 +35,10 @@ $ py download_pdf.py -blu|-giallo|-arancio MM-DD-YYYY   # MM è il mese, DD il g
 ```bash
 $ py generate_json.py
 ```
+## Descrizione JSON
+Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) sono descritti in dettaglio tutti i campi che compongono il JSON.
 
 ## Informazioni
-- Nel JSON, il campo "casi_diagnosticati", corrisponde al numero di persone a cui è stato eseguito un tampone.
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - Dall'8 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - I report *gialli* iniziano dal 5 Marzo 2020.

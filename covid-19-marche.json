@@ -38,8 +38,8 @@
             "extra_regione": 112
           }
         },
-        "dimessi_guarti": 342,
-        "casi_attivi": {
+        "dimessi_guariti": 342,
+        "attivi": {
           "persone": 3738,
           "isolamento_domiciliare": 2637,
           "ricoverati": {
@@ -109,7 +109,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 0,
           "attivi": {
             "operatori_sanitari": 1010,
@@ -419,8 +419,8 @@
             "extra_regione": 119
           }
         },
-        "dimessi_guarti": 645,
-        "casi_attivi": {
+        "dimessi_guariti": 645,
+        "attivi": {
           "persone": 3562,
           "isolamento_domiciliare": 2455,
           "ricoverati": {
@@ -490,7 +490,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 20774,
           "attivi": {
             "operatori_sanitari": 1116,
@@ -755,8 +755,8 @@
             "extra_regione": 123
           }
         },
-        "dimessi_guarti": 885,
-        "casi_attivi": {
+        "dimessi_guariti": 885,
+        "attivi": {
           "persone": 3401,
           "isolamento_domiciliare": 2323,
           "ricoverati": {
@@ -826,7 +826,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 21343,
           "attivi": {
             "operatori_sanitari": 1113,
@@ -1055,8 +1055,8 @@
             "extra_regione": 134
           }
         },
-        "dimessi_guarti": 1086,
-        "casi_attivi": {
+        "dimessi_guariti": 1086,
+        "attivi": {
           "persone": 3316,
           "isolamento_domiciliare": 2264,
           "ricoverati": {
@@ -1126,7 +1126,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 21833,
           "attivi": {
             "operatori_sanitari": 1135,
@@ -1301,8 +1301,8 @@
             "extra_regione": 139
           }
         },
-        "dimessi_guarti": 1291,
-        "casi_attivi": {
+        "dimessi_guariti": 1291,
+        "attivi": {
           "persone": 3231,
           "isolamento_domiciliare": 2153,
           "ricoverati": {
@@ -1372,7 +1372,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 22260,
           "attivi": {
             "operatori_sanitari": 1154,
@@ -1583,8 +1583,8 @@
             "extra_regione": 144
           }
         },
-        "dimessi_guarti": 1489,
-        "casi_attivi": {
+        "dimessi_guariti": 1489,
+        "attivi": {
           "persone": 3114,
           "isolamento_domiciliare": 2051,
           "ricoverati": {
@@ -1654,7 +1654,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 22632,
           "attivi": {
             "operatori_sanitari": 1166,
@@ -1883,8 +1883,8 @@
             "extra_regione": 144
           }
         },
-        "dimessi_guarti": 1588,
-        "casi_attivi": {
+        "dimessi_guariti": 1588,
+        "attivi": {
           "persone": 3080,
           "isolamento_domiciliare": 2013,
           "ricoverati": {
@@ -1954,7 +1954,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 22767,
           "attivi": {
             "operatori_sanitari": 1164,
@@ -2201,8 +2201,8 @@
             "extra_regione": 148
           }
         },
-        "dimessi_guarti": 1603,
-        "casi_attivi": {
+        "dimessi_guariti": 1603,
+        "attivi": {
           "persone": 3095,
           "isolamento_domiciliare": 2052,
           "ricoverati": {
@@ -2272,7 +2272,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 22873,
           "attivi": {
             "operatori_sanitari": 1158,
@@ -2555,8 +2555,8 @@
             "extra_regione": 154
           }
         },
-        "dimessi_guarti": 1660,
-        "casi_attivi": {
+        "dimessi_guariti": 1660,
+        "attivi": {
           "persone": 3097,
           "isolamento_domiciliare": 2103,
           "ricoverati": {
@@ -2626,7 +2626,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 23427,
           "attivi": {
             "operatori_sanitari": 1190,
@@ -2900,8 +2900,8 @@
             "extra_regione": 154
           }
         },
-        "dimessi_guarti": 1694,
-        "casi_attivi": {
+        "dimessi_guariti": 1694,
+        "attivi": {
           "persone": 3124,
           "isolamento_domiciliare": 2172,
           "ricoverati": {
@@ -2971,7 +2971,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 23766,
           "attivi": {
             "operatori_sanitari": 1208,
@@ -3236,7 +3236,7 @@
         "online": {
           "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu17042020_9.pdf",
           "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/2Report%20schema%20sintetico%20monitoraggio%20agg%2017%20aprile%202020.pdf",
-          "arancio": ""
+          "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio17042020_18.pdf"
         }
       },
       "tamponi": {
@@ -3263,8 +3263,8 @@
             "extra_regione": 163
           }
         },
-        "dimessi_guarti": 1726,
-        "casi_attivi": {
+        "dimessi_guariti": 1726,
+        "attivi": {
           "persone": 3157,
           "isolamento_domiciliare": 2224,
           "ricoverati": {
@@ -3334,7 +3334,7 @@
             }
           }
         },
-        "quarantena_preventiva": {
+        "quarantena_domiciliare": {
           "totali": 23968,
           "attivi": {
             "operatori_sanitari": 1247,

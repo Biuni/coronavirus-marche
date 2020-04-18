@@ -14,4 +14,4 @@ for json_file in JSONfiles:
 
 with open('../covid-19-marche.json', 'w') as outfile:
     json.dump(data, outfile, indent=2)
-    print('File written!')
+    print('\nFile "covid-19-marche.json" written!')

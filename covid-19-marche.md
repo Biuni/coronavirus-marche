@@ -1,151 +1,112 @@
 
 ## JSON schema
-- `data` :
+- `data` : giorno nel quale i tre report sono stati pubblicati. È importante sottolineare però, che i dati si riferiscono alle 24h precedenti.
 - **file_pdf**
   - **locale**
-    - `blu` :
-    - `giallo` :
-    - `arancio` :
+    - `blu` : percorso del file PDF blu.
+    - `giallo` : percorso del file PDF giallo.
+    - `arancio` : percorso del file PDF arancio.
   - **online**
-    - `blu` :
-    - `giallo` :
-    - `arancio` :
+    - `blu` : URL del file PDF blu nel sito della regione.
+    - `giallo` : URL del file PDF giallo nel sito della regione.
+    - `arancio` : URL del file PDF arancio nel sito della regione.
 - **tamponi**
   - **totali**
-    - `test_effettuati` :
-    - `casi_diagnosticati` :
-    - `casi_positivi` :
+    - `test_effettuati` : numero totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona, dall'inizio dell'epidemia.
+    - `casi_diagnosticati` : numero totale di persone a cui è stato eseguito un tampone dall'inizio dell'epidemia.
+    - `casi_positivi` : numero totale di persone risultate positive al tampone dall'inizio dell'epidemia.
   - **odierni**
-    - `test_effettuati` :
-    - `casi_diagnosticati` :
-    - `casi_positivi` :
+    - `test_effettuati` : numero dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona, nelle ultime 24h.
+    - `casi_diagnosticati` : numero di persone a cui è stato eseguito un tampone nelle ultime 24h.
+    - `casi_positivi` : numero di persone risultate positive al tampone nelle ultime 24.
 - **malati**:
   - **totali**
-    - `persone` :
+    - `persone` : numero totale di persone risultate positive al tampone dall'inizio dell'epidemia.
     - **provincia**
-      - `pesaro_urbino` :
-      - `ancona` :
-      - `macerata` :
-      - `fermo` :
-      - `ascoli_piceno` :
-      - `extra_regione` :
-  - `dimessi_guarti` :
-  - **casi_attivi**
-    - `persone` :
-    - `isolamento_domiciliare` :
+      - `pesaro_urbino` : numero totale di persone risultate positive al tampone, nella provincia di Pesaro Urbino, dall'inizio dell'epidemia.
+      - `ancona` : numero totale di persone risultate positive al tampone, nella provincia di Ancona, dall'inizio dell'epidemia.
+      - `macerata` : numero totale di persone risultate positive al tampone, nella provincia di Macerata, dall'inizio dell'epidemia.
+      - `fermo` : numero totale di persone risultate positive al tampone, nella provincia di Fermo, dall'inizio dell'epidemia.
+      - `ascoli_piceno` : numero totale di persone risultate positive al tampone, nella provincia di Ascoli Piceno, dall'inizio dell'epidemia.
+      - `extra_regione` : numero totale di persone risultate positive al tampone, non residenti nella regione Marche, dall'inizio dell'epidemia.
+  - `dimessi_guariti` : numero totale di persone dimesse e guarite. In questo valore sono considerate: sia le persone risultate negative al doppio tampone di controllo, sia le persone ancora positive ma che sono state dimesse dalle strutture ospedaliere.
+  - **attivi**
+    - `persone` : numero totale dei pazienti ricoverati o in isolamento domiciliare, attualmente positivi.
+    - `isolamento_domiciliare` : numero totale di pazienti attualmente positivi in isolamento domiciliare.
     - **ricoverati**
-      - `totali` :
+      - `totali` : numero totale di pazienti ricoverati in strutture ospedaliere.
       - **terapia_intensiva**
-        - `totali` :
+        - `totali` : numero totale di pazienti ricoverati in terapia intensiva.
         - **strutture**
-          - `Pesaro_AO_Marche_Nord` :
-          - `Ancona_AO_OR_Torrette` :
-          - `Senigallia` :
-          - `Fermo` :
-          - `Civitanova_M` :
-          - `Jesi` :
-          - `Urbino` :
-          - `Camerino` :
-          - `San_Benedetto_dT` :
-          - `Macerata` :
-          - `INRCA_Ancona` :
+          - _numero di ricoveri per ogni struttura_
       - **semi_intensiva**
-        - `totali` :
+        - `totali` : numero totale di pazienti ricoverati in aree di semi intensiva.
         - **strutture**
-          - `Civitanova_M` :
-          - `Camerino` :
-          - `San_Benedetto_dT` :
-          - `Jesi` :
-          - `Macerata` :
-          - `Urbino` :
-          - `Senigallia` :
-          - `Fermo` :
-          - `AO_Marche_Nord_Pesaro_SUBINT` :
-          - `AO_OR_Torrette_Ancona_SUBINT` :
-          - `Villa_Pini` :
+          - _numero di ricoveri per ogni struttura_
       - **post_critica**
-        - `totali` :
+        - `totali` : numero totale di pazienti ricoverati in degenze post critiche.
         - **strutture**
-          - `Chiaravalle` :
-          - `Galantara` :
-          - `Fossombrone` :
-          - `Villa_dei_Pini` :
-          - `Campofilone_RSA` :
-          - `AO_Torrette_Ancona_post_critica` :
-          - `INRCA_Fermo` :
-          - `Ospedale_da_campo_milit_Jesi` :
+          - _numero di ricoveri per ogni struttura_
       - **non_intensiva**
-        - `totali` :
+        - `totali` : numero totale di pazienti ricoverati in reparti non intensivi.
         - **strutture**
-          - `MI_Fermo` :
-          - `Covid_Jesi` :
-          - `PS_Medicina__Urbino` :
-          - `PS_Macerata` :
-          - `Covid_Senigallia` :
-          - `Covid_Fabriano` :
-          - `Covid_Camerino` :
-          - `Covid_Civitanova_M` :
-          - `San_Benedetto_dT` :
-          - `INRCA_Ancona` :
-          - `AO_Marche_Nord_NON_INTENSIVI` :
-          - `AO_Torrette_Ancona__PS` :
-          - `Villa_Pini` :
-  - **quarantena_preventiva**
-    - `totali` :
+          - _numero di ricoveri per ogni struttura_
+  - **quarantena_domiciliare**
+    - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva.
     - **attivi**
-      - `operatori_sanitari` :
-      - `sintomatici` :
-      - `asintomatici` :
+      - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare.
+      - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare.
+      - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare.
     - **provincia**
       - **pesaro_urbino**
-        - `totali` :
+        - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Pesaro Urbino.
         - **attivi**
-          - `operatori_sanitari` :
-          - `sintomatici` :
-          - `asintomatici` :
+          - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Pesaro Urbino.
+          - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Pesaro Urbino.
+          - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Pesaro Urbino.
       - **ancona**
-        - `totali` :
+        - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Ancona.
         - **attivi**
-          - `operatori_sanitari` :
-          - `sintomatici` :
-          - `asintomatici` :
+          - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ancona.
+          - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ancona.
+          - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ancona.
       - **macerata**
-        - `totali` :
+        - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Macerata.
         - **attivi**
-          - `operatori_sanitari` :
-          - `sintomatici` :
-          - `asintomatici` :
+          - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Macerata.
+          - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Macerata.
+          - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Macerata.
       - **fermo**
-        - `totali` :
+        - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Fermo.
         - **attivi**
-          - `operatori_sanitari` :
-          - `sintomatici` :
-          - `asintomatici` :
+          - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Fermo.
+          - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Fermo.
+          - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Fermo.
       - **ascoli_piceno**
-        - `totali` :
+        - `totali` : numero totale, dall'inizio dell'epidemia, di pazienti che sono risultati positivi al tampone o di persone che hanno avuto contatti con casi positivi, che sono attualmente o sono stati in quarantena preventiva, nella provincia di Ascoli Piceno.
         - **attivi**
-          - `operatori_sanitari` :
-          - `sintomatici` :
-          - `asintomatici` :
+          - `operatori_sanitari` : numero di operatori sanitari che sono positivi al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ascoli Piceno.
+          - `sintomatici` : numero di persone, con sintomi riconducibili al coronavirus, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ascoli Piceno.
+          - `asintomatici` : numero di persone, senza alcun sintomo, che sono positive al tampone o che hanno avuto contatti con casi positivi, attualmente in isolamento domiciliare, nella provincia di Ascoli Piceno.
 - **decessi**:
   - **totali** :
-    - `decessi`
+    - `decessi` : numero totale di decessi di persone risultate positive al coronavirus, dall'inizio dell'epidiemia.
     - **sesso**
-      - `maschio` :
-      - `femmina` :
+      - `maschio` : numero totale maschi deceduti.
+      - `femmina` : numero totale di femmine decedute.
     - **provincia**
-      - `pesaro_urbino` :
-      - `ancona` :
-      - `macerata` :
-      - `fermo` :
-      - `ascoli_piceno` :
+      - `pesaro_urbino` : numero totale di decessi di persone risultate positive al coronavirus, dall'inizio dell'epidiemia, nella provincia di Pesaro Urbino.
+      - `ancona` : numero totale di decessi di persone risultate positive al coronavirus, dall'inizio dell'epidiemia, nella provincia di Ancona.
+      - `macerata` : numero totale di decessi di persone risultate positive al coronavirus, dall'inizio dell'epidiemia, nella provincia di Macerata.
+      - `fermo` : numero totale di decessi di persone risultate positive al coronavirus, dall'inizio dell'epidiemia, nella provincia di Fermo.
+      - `ascoli_piceno` : numero totale di decessi di persone risultate positive al coronavirus, dall'inizio dell'epidiemia, nella provincia di Ascoli Piceno.
   - **odierni**
-    - `decessi` :
+    - `decessi` : numero di decessi di persone risultate positive al coronavirus, nelle ultime 24h.
     - **dettaglio**
-      - `id` :
-      - `luogo_decesso` :
-      - `sesso` :
-      - `eta` :
-      - `comune_domicilio` :
-      - `provincia_domicilio` :
-      - `pregresse_patologie` :
+      - `id` : numero identificativo incrementale di ogni deceduto.
+      - `luogo_decesso` : struttura ospedaliera o comune dove è avvenuto il decesso.
+      - `sesso` : sesso del deceduto.
+      - `eta` : età del deceduto.
+      - `comune_domicilio` : comune di domicilio del deceduto.
+      - `provincia_domicilio` : provincia di domicilio del deceduto.
+      - `pregresse_patologie` : se il valore è 1 il defunto era affetto da pregresse patologie, se il valore è 0 il defunto non era affetto dal alcuna pregressa patologia.
