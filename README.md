@@ -31,10 +31,17 @@ Per scaricare invece uno specifico report, eseguire:
 ```bash
 $ py download_pdf.py -blu|-giallo|-arancio MM-DD-YYYY   # MM è il mese, DD il giorno e YYYY l'anno
 ```
+
 - Lo script `generate_json.py` permette di generare il JSON `covid-19-marche.json` a partire dai file giornalieri presenti nella cartella `./data/JSON`.
 ```bash
 $ py generate_json.py
 ```
+
+- Lo script `check_error.py` controlla tutti i dati presenti nel JSON `covid-19-marche.json` e verifica se ci sono incongruenze.
+```bash
+$ py check_error.py
+```
+
 ## Descrizione JSON
 Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) sono descritti in dettaglio tutti i campi che compongono il JSON.
 
