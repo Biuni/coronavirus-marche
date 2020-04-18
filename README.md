@@ -40,7 +40,8 @@ Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) son
 
 ## Informazioni
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
-- Dall'8 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
+- Dal 08 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
+- Dal 04 Aprile 2020 vengono conteggiati insieme i pazienti dimessi dalle strutture ospedaliere ed i pazienti risultati negativi al doppio tampone (per allinearsi ai dati trasmessi dalle altre regioni). Quindi, fino al 03 Aprile 2020 il valore del campo "dimessi_guariti" corrisponde ai soli pazienti risultati negativi al doppio tampone.
 - I report *gialli* iniziano dal 5 Marzo 2020.
 - I report *blu* iniziano dal 12 Marzo 2020.
 - I report *arancio* iniziano dall'11 Marzo 2020.
