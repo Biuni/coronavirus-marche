@@ -20,16 +20,14 @@ def print_error(id):
     14: 'La somma dei decessi per provincia (decessi.totali.provincia) deve essere uguale alla somma totale dei decessi (decessi.totali.decessi).',
     15: 'La somma dei decessi odierni (decessi.odierni.decessi) e del totale dei decessi di ieri ([-1].decessi.totali.decessi) deve essere uguale al totale dei decessi di oggi (decessi.totali.decessi).',
     16: 'Gli ID (decessi.odierni.dettaglio.[].id) dei decessi devono essere incrementali ed univoci.',
-    17: 'Il dettaglio dei decessi (decessi.odierni.dettaglio) non deve avere valori vuoti o non consistenti (es: sesso diverso da M/F o patologie pregresse diverso da 0/1).'
+    17: 'Il dettaglio dei decessi (decessi.odierni.dettaglio) non deve avere valori vuoti o non consistenti (es: sesso diverso da M/F o patologie pregresse diverso da 0/1).',
+    18: 'La somma del dettaglio dei decessi (decessi.odierni.dettaglio) deve corrispondere al numero di decessi odierni (decessi.odierni.decessi).'
   }
   return '\033[91mERROR!\033[0m\n\033[93m{}\033[0m'.format(error_desc.get(id))
 
 def static_test():
   error = False
   check_id = []
-  prec_1 = 13678  # Tamponi di partenza
-  prec_2 = 4230   # Casi positivi di partenza
-  prec_3 = 574    # Decessi di partenza
 
   # Genero il file "covid-19-marche.json" aggiornato
   generate_json.generate(out=False)
@@ -37,6 +35,13 @@ def static_test():
   # Apro in lettura il file "covid-19-marche.json"
   with open('../covid-19-marche.json') as file:
     data = json.load(file)
+
+  # Tamponi di partenza
+  prec_1 = data['report'][0]['tamponi']['totali']['casi_diagnosticati'] - data['report'][0]['tamponi']['odierni']['casi_diagnosticati']
+  # Casi positivi di partenza
+  prec_2 = data['report'][0]['tamponi']['totali']['casi_positivi'] - data['report'][0]['tamponi']['odierni']['casi_positivi']
+  # Decessi di partenza
+  prec_3 = data['report'][0]['decessi']['totali']['decessi'] - data['report'][0]['decessi']['odierni']['decessi']
 
   for value in data['report']:
 
@@ -163,9 +168,17 @@ def static_test():
         error = True
         print('\nFile: %s.json' % value['data'], '=>' , print_error(17))
 
+    # La somma del dettaglio dei decessi deve corrispondere al numero di decessi odierni.
+    total_8 = 0
+    for dead in value['decessi']['odierni']['dettaglio']:
+      total_8 = total_8 + 1
+    if (value['decessi']['odierni']['decessi'] != total_8):
+        error = True
+        print('\nFile: %s.json' % value['data'], '=>' , print_error(18))
+
   # Se non è stato trovato nessun errore stampo l'output
   if not error:
-    print('\n\033[92m\tNessun errore trovato!\033[0m')
+    print('\n\033[92m- Nessun errore trovato!\033[0m')
 
 if __name__ == '__main__':
   static_test()
