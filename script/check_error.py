@@ -162,9 +162,9 @@ def static_test():
 
     # Il dettaglio dei decessi non deve avere valori vuoti o non consistenti.
     for dead in value['decessi']['odierni']['dettaglio']:
-      if (dead['luogo_decesso'] == '' or (dead['sesso'] != 'M' and dead['sesso'] != 'F') or
+      if (dead['luogo_decesso'] == '' or (dead['sesso'] != 'M' and dead['sesso'] != 'F' and dead['sesso'] != 'ND') or
          dead['comune_domicilio'] == '' or dead['provincia_domicilio'] == '' or
-         (dead['pregresse_patologie'] != 1 and dead['pregresse_patologie'] != 0)):
+         (dead['pregresse_patologie'] != 1 and dead['pregresse_patologie'] != 0 and dead['pregresse_patologie'] != -1)):
         error = True
         print('\nFile: %s.json' % value['data'], '=>' , print_error(17))
 

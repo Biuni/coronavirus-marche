@@ -54,6 +54,7 @@ Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) son
 - I report *arancio* iniziano dall'11 Marzo 2020.
 
 ### Errori e refusi
+- Il report *arancio* del 02 Aprile 2020 riporta 31 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 23 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 54 decessi. Va inoltre segnalato che sono disponibili solo i dettagli di 23 delle 54 persone defunte.
 - I report *gialli* del 08, 09, 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
 - Il report *blu* del 18 Marzo 2020 riporta erroneamente la data del 17 Marzo 2020.
 - Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020.
