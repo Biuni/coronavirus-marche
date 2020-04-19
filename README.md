@@ -37,7 +37,7 @@ $ py download_pdf.py -blu|-giallo|-arancio MM-DD-YYYY   # MM è il mese, DD il g
 $ py generate_json.py
 ```
 
-- Lo script `check_error.py` controlla tutti i dati presenti nel JSON `covid-19-marche.json` e verifica se ci sono incongruenze.
+- Lo script `check_error.py` genera il file `covid-19-marche.json` e controlla tutti i dati presenti nel JSON, verificando se ci sono incongruenze.
 ```bash
 $ py check_error.py
 ```

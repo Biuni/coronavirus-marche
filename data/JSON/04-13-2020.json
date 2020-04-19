@@ -239,15 +239,6 @@
                 },
                 {
                     "id": 720,
-                    "luogo_decesso": "AO TORRETTE MINF",
-                    "sesso": "M",
-                    "eta": 79,
-                    "comune_domicilio": "OFFAGNA",
-                    "provincia_domicilio": "AN",
-                    "pregresse_patologie": 1
-                },
-                {
-                    "id": 721,
                     "luogo_decesso": "CAMERINO",
                     "sesso": "F",
                     "eta": 84,
@@ -256,7 +247,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 722,
+                    "id": 721,
                     "luogo_decesso": "AORM PESARO",
                     "sesso": "F",
                     "eta": 89,
@@ -265,7 +256,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 723,
+                    "id": 722,
                     "luogo_decesso": "AORM PESARO",
                     "sesso": "F",
                     "eta": 93,
@@ -274,7 +265,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 724,
+                    "id": 723,
                     "luogo_decesso": "AORM PESARO",
                     "sesso": "F",
                     "eta": 97,
@@ -283,7 +274,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 725,
+                    "id": 724,
                     "luogo_decesso": "AORM PESARO",
                     "sesso": "F",
                     "eta": 61,
@@ -292,7 +283,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 726,
+                    "id": 725,
                     "luogo_decesso": "AORM PESARO",
                     "sesso": "F",
                     "eta": 84,
@@ -301,7 +292,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 727,
+                    "id": 726,
                     "luogo_decesso": "AORM PESARO",
                     "sesso": "F",
                     "eta": 91,
@@ -310,7 +301,7 @@
                     "pregresse_patologie": 1
                 },
                 {
-                    "id": 728,
+                    "id": 727,
                     "luogo_decesso": "AORM PESARO",
                     "sesso": "F",
                     "eta": 99,
