@@ -7,9 +7,9 @@
             "arancio": "./data/PDF/GORES_Arancio/03-28-2020.pdf"
         },
         "online": {
-            "blu": "",
-            "giallo": "",
-            "arancio": ""
+            "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESblu28032020_9.pdf",
+            "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Report_28marzo_schema_sintetico_monitoraggio_Marche_ORE_12.pdf",
+            "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESarancio28032020_18.pdf"
         }
     },
     "tamponi": {
