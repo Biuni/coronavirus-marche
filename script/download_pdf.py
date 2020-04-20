@@ -105,7 +105,7 @@ gores_giallo = (
 )
 
 gores_arancio = (
-    ("04-20-2020.pdf", ""),
+    ("04-20-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/Report%20decessi%2020aprile.pdf"),
     ("04-19-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio19042020_18.pdf"),
     ("04-18-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio18042020_18.pdf"),
     ("04-17-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio17042020_18.pdf"),
