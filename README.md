@@ -49,13 +49,13 @@ Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) son
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - Dal 08 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - Dal 04 Aprile 2020 vengono conteggiati insieme i pazienti dimessi dalle strutture ospedaliere ed i pazienti risultati negativi al doppio tampone (per allinearsi ai dati trasmessi dalle altre regioni). Quindi, fino al 03 Aprile 2020 il valore del campo "dimessi_guariti" corrisponde ai soli pazienti risultati negativi al doppio tampone.
+- Il report *arancio* del 24 Marzo 2020 riporta 32 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 21 avvenuti nelle settimane precedenti e 4 di residenti fuori regione. Quindi, il totale inerente a questo report è di 57 decessi.
+- Il report *arancio* del 02 Aprile 2020 riporta 31 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 23 avvenuti nelle settimane precedenti di cui 1 residente fuori regione. Quindi, il totale inerente a questo report è di 54 decessi.
 - I report *gialli* iniziano dal 5 Marzo 2020.
 - I report *blu* iniziano dal 12 Marzo 2020.
 - I report *arancio* iniziano dall'11 Marzo 2020.
 
 ### Errori e refusi
-- Nel report *arancio* del 24 Marzo 2020 il totale delle persone decedute è 287 e non 283 come segnalato. Di conseguenza sono 197 i maschi e 90 le donne defunte (questo valore è stato dedotto dal report del giorno successivo). Inoltre, sono riportati 32 decessi giornalieri ai quali però vanno aggiunti 4 residenti fuori dalla regione e 21 deceduti nelle settimane precedenti, per un totale di 57 persone. Oltre a ciò va segnalato che sono disponibili solo i dettagli di 25 delle 57 persone defunte.
-- Il report *arancio* del 02 Aprile 2020 riporta 31 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 23 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 54 decessi. Va inoltre segnalato che sono disponibili solo i dettagli di 23 delle 54 persone defunte.
 - I report *gialli* del 08, 09, 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
 - Il report *blu* del 18 Marzo 2020 riporta erroneamente la data del 17 Marzo 2020.
 - Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020.

@@ -412,291 +412,291 @@
             },
             {
               "id": 256,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "AORMN PESARO",
+              "sesso": "F",
+              "eta": 94,
+              "comune_domicilio": "FANO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 257,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "AORMN PESARO",
+              "sesso": "M",
+              "eta": 75,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 258,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "AORMN PESARO",
+              "sesso": "M",
+              "eta": 84,
+              "comune_domicilio": "MONDOLFO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 259,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "URBINO MED",
+              "sesso": "M",
+              "eta": 55,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 260,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "MACERATA MURGE",
+              "sesso": "M",
+              "eta": 60,
+              "comune_domicilio": "MOGLIANO",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             },
             {
               "id": 261,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "MACERATA MURGE",
+              "sesso": "M",
+              "eta": 60,
+              "comune_domicilio": "CORRIDONIA",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             },
             {
               "id": 262,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "MACERATA MURGE",
+              "sesso": "M",
+              "eta": 86,
+              "comune_domicilio": "MACERATA",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             },
             {
               "id": 263,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI TINT",
+              "sesso": "M",
+              "eta": 66,
+              "comune_domicilio": "MONDOLFO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 264,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI TINT",
+              "sesso": "F",
+              "eta": 68,
+              "comune_domicilio": "CINGOLI",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             },
             {
               "id": 265,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 3 PNEUM",
+              "sesso": "M",
+              "eta": 70,
+              "comune_domicilio": "CINGOLI",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             },
             {
               "id": 266,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI TINT",
+              "sesso": "F",
+              "eta": 81,
+              "comune_domicilio": "JESI",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
             },
             {
               "id": 267,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 1 ORT",
+              "sesso": "M",
+              "eta": 84,
+              "comune_domicilio": "JESI",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 0
             },
             {
               "id": 268,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 3 PNEUM",
+              "sesso": "M",
+              "eta": 83,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 269,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 1 ORT",
+              "sesso": "M",
+              "eta": 80,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 270,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI TINT",
+              "sesso": "F",
+              "eta": 58,
+              "comune_domicilio": "CINGOLI",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             },
             {
               "id": 271,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 3 PNEUM",
+              "sesso": "F",
+              "eta": 93,
+              "comune_domicilio": "MONTEMARCIANO",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
             },
             {
               "id": 272,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 2 CARD",
+              "sesso": "M",
+              "eta": 57,
+              "comune_domicilio": "MONSANO",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
             },
             {
               "id": 273,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI TINT",
+              "sesso": "M",
+              "eta": 67,
+              "comune_domicilio": "CINGOLI",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             },
             {
               "id": 274,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI TINT",
+              "sesso": "M",
+              "eta": 55,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 275,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 2 CARD",
+              "sesso": "M",
+              "eta": 87,
+              "comune_domicilio": "MACERATA",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             },
             {
               "id": 276,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 2 CARD",
+              "sesso": "M",
+              "eta": 89,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 277,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 3 PNEUM",
+              "sesso": "M",
+              "eta": 80,
+              "comune_domicilio": "FANO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 278,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 1 ORT",
+              "sesso": "M",
+              "eta": 89,
+              "comune_domicilio": "FANO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 279,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 4 CHIR",
+              "sesso": "F",
+              "eta": 80,
+              "comune_domicilio": "VALLEFOGLIA",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 280,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI COV 3 PNEUM",
+              "sesso": "M",
+              "eta": 76,
+              "comune_domicilio": "MERGO",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
             },
             {
               "id": 281,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "JESI MED B",
+              "sesso": "F",
+              "eta": 84,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 282,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "FOSSOMBRONE",
+              "sesso": "M",
+              "eta": 88,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 283,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "MACERATA NEFRO",
+              "sesso": "M",
+              "eta": 92,
+              "comune_domicilio": "CIVITANOVA M",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             },
             {
               "id": 284,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
+              "luogo_decesso": "OSP SENIGALLIA",
+              "sesso": "F",
+              "eta": 77,
+              "comune_domicilio": "CAGLIARI",
               "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "pregresse_patologie": 1
             },
             {
               "id": 285,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
+              "luogo_decesso": "JESI TINT",
+              "sesso": "M",
+              "eta": 72,
+              "comune_domicilio": "SAN DONATO MILANESE",
               "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "pregresse_patologie": 0
             },
             {
               "id": 286,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
+              "luogo_decesso": "CIVITANOVA",
+              "sesso": "M",
+              "eta": 75,
+              "comune_domicilio": "SIRACUSA",
               "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "pregresse_patologie": 1
             },
             {
               "id": 287,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
+              "luogo_decesso": "CIVITANOVA MED",
+              "sesso": "M",
+              "eta": 88,
+              "comune_domicilio": "PERUGIA",
               "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "pregresse_patologie": 1
             }
           ]
         }
@@ -4561,273 +4561,273 @@
             },
             {
               "id": 528,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "F",
+              "eta": 91,
+              "comune_domicilio": "MOMBAROCCIO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 529,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "M",
+              "eta": 79,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 530,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "F",
+              "eta": 91,
+              "comune_domicilio": "SENIGALLIA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
             },
             {
               "id": 531,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "URBINO MED",
+              "sesso": "F",
+              "eta": 76,
+              "comune_domicilio": "FERMIGNANO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 532,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "URBINO MED",
+              "sesso": "F",
+              "eta": 93,
+              "comune_domicilio": "FERMIGNANO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 533,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "URBINO PS",
+              "sesso": "F",
+              "eta": 87,
+              "comune_domicilio": "CAGLI",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 534,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "URBINO MED",
+              "sesso": "M",
+              "eta": 83,
+              "comune_domicilio": "TERRE ROVERESCHE",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 535,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SAN BENEDETTO DT",
+              "sesso": "F",
+              "eta": 68,
+              "comune_domicilio": "S. BENEDETTO DT",
+              "provincia_domicilio": "AP",
+              "pregresse_patologie": 1
             },
             {
               "id": 536,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "FERMO",
+              "sesso": "M",
+              "eta": 81,
+              "comune_domicilio": "PORTO SANT'ELPIDIO",
+              "provincia_domicilio": "FM",
+              "pregresse_patologie": 1
             },
             {
               "id": 537,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "FERMO",
+              "sesso": "M",
+              "eta": 80,
+              "comune_domicilio": "PORTO SANT'ELPIDIO",
+              "provincia_domicilio": "FM",
+              "pregresse_patologie": 1
             },
             {
               "id": 538,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "FERMO",
+              "sesso": "M",
+              "eta": 71,
+              "comune_domicilio": "MONTAPPONE",
+              "provincia_domicilio": "FM",
+              "pregresse_patologie": 1
             },
             {
               "id": 539,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "FERMO",
+              "sesso": "M",
+              "eta": 88,
+              "comune_domicilio": "AMANDOLA",
+              "provincia_domicilio": "FM",
+              "pregresse_patologie": 1
             },
             {
               "id": 540,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "F",
+              "eta": 78,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 541,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "M",
+              "eta": 65,
+              "comune_domicilio": "ARCEVIA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 0
             },
             {
               "id": 542,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "M",
+              "eta": 86,
+              "comune_domicilio": "FANO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 543,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "F",
+              "eta": 79,
+              "comune_domicilio": "SENIGALLIA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
             },
             {
               "id": 544,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "M",
+              "eta": 81,
+              "comune_domicilio": "SENIGALLIA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
             },
             {
               "id": 545,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "F",
+              "eta": 83,
+              "comune_domicilio": "ACQUALAGNA",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 546,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "F",
+              "eta": 90,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 547,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "F",
+              "eta": 92,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 548,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA OBI",
+              "sesso": "F",
+              "eta": 85,
+              "comune_domicilio": "ARCEVIA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
             },
             {
               "id": 549,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA OBI",
+              "sesso": "M",
+              "eta": 88,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 550,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA RIA",
+              "sesso": "F",
+              "eta": 68,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 551,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA RIA",
+              "sesso": "F",
+              "eta": 69,
+              "comune_domicilio": "VALLEFOGLIA",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 552,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA MED",
+              "sesso": "M",
+              "eta": 76,
+              "comune_domicilio": "FANO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 553,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "SENIGALLIA MED",
+              "sesso": "M",
+              "eta": 87,
+              "comune_domicilio": "COLBORDOLO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 554,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "CAMERINO",
+              "sesso": "M",
+              "eta": 82,
+              "comune_domicilio": "PESARO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
             },
             {
               "id": 555,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "CAMERINO",
+              "sesso": "M",
+              "eta": 89,
+              "comune_domicilio": "CHIARAVALLE",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
             },
             {
               "id": 556,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "M",
+              "eta": 82,
+              "comune_domicilio": "FOLIGNO",
               "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "pregresse_patologie": 1
             },
             {
               "id": 557,
-              "luogo_decesso": "ND",
-              "sesso": "ND",
-              "eta": 0,
-              "comune_domicilio": "ND",
-              "provincia_domicilio": "ND",
-              "pregresse_patologie": -1
+              "luogo_decesso": "VILLA PINI",
+              "sesso": "M",
+              "eta": 89,
+              "comune_domicilio": "CIVITANOVA M",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
             }
           ]
         }
