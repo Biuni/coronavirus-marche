@@ -87,7 +87,7 @@ gores_giallo = (
     ("03-24-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESgiallo24032020_12.pdf"),
     ("03-23-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESgiallo23032020_12.pdf"),
     ("03-22-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESgiallo22032020_12.pdf"),
-    ("03-21-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESgiallo210320_12_ag"),
+    ("03-21-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESgiallo210320_12_agg.pdf"),
     ("03-20-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESgiallo20032020_12.pdf"),
     ("03-19-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORES-giallo-19032020_ore12.pdf"),
     ("03-18-2020.pdf", "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORES_giallo_18032020_ore12.pdf"),
