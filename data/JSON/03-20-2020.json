@@ -1,15 +1,15 @@
 {
-    "data": "03-21-2020",
+    "data": "03-20-2020",
     "file_pdf": {
         "locale": {
-            "blu": "./data/PDF/GORES_Blu/03-21-2020.pdf",
-            "giallo": "./data/PDF/GORES_Giallo/03-21-2020.pdf",
-            "arancio": "./data/PDF/GORES_Arancio/03-21-2020.pdf"
+            "blu": "./data/PDF/GORES_Blu/03-20-2020.pdf",
+            "giallo": "./data/PDF/GORES_Giallo/03-20-2020.pdf",
+            "arancio": "./data/PDF/GORES_Arancio/03-20-2020.pdf"
         },
         "online": {
-            "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESblu21032020_9.pdf",
-            "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESgiallo210320_12_agg.pdf",
-            "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESarancio21032020_18.pdf"
+            "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESblu20022020_9.pdf",
+            "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESgiallo20032020_12.pdf",
+            "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESarancio20032020_18_agg.pdf"
         }
     },
     "tamponi": {
