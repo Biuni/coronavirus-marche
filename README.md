@@ -49,14 +49,15 @@ Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) son
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - Dal 08 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - Dal 04 Aprile 2020 vengono conteggiati insieme i pazienti dimessi dalle strutture ospedaliere ed i pazienti risultati negativi al doppio tampone (per allinearsi ai dati trasmessi dalle altre regioni). Quindi, fino al 03 Aprile 2020 il valore del campo "dimessi_guariti" corrisponde ai soli pazienti risultati negativi al doppio tampone.
-- Il report *arancio* del 24 Marzo 2020 riporta 32 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 21 avvenuti nelle settimane precedenti e 4 di residenti fuori regione. Quindi, il totale inerente a questo report è di 57 decessi.
 - Il report *arancio* del 02 Aprile 2020 riporta 31 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 23 avvenuti nelle settimane precedenti di cui 1 residente fuori regione. Quindi, il totale inerente a questo report è di 54 decessi.
+- Il report *arancio* del 24 Marzo 2020 riporta 32 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 21 avvenuti nelle settimane precedenti e 4 di residenti fuori regione. Quindi, il totale inerente a questo report è di 57 decessi.
 - I report *gialli* iniziano dal 5 Marzo 2020.
 - I report *blu* iniziano dal 12 Marzo 2020.
 - I report *arancio* iniziano dall'11 Marzo 2020.
 
 ### Errori e refusi
 - I report *gialli* del 08, 09, 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
+- Il report *blu* del 23 Marzo 2020 riporta 148 casi positivi su 391 casi diagnosticati mentre il report del giorno successivo correge questi dati portandoli a 130 casi positivi su 373 casi diagnosticati. Di conseguenza anche il numero totale di casi positivi è corretto a 2551 e quello dei casi diagnosticati a 6764. Rimane però incongruenza con il dato del report *giallo* del 23 Marzo 2020 dove sono segnalati 2569 malati e del quale non è stata fornita alcuna correzione. Per tanto è stato lasciato quel valore in eccesso di 18 persone.
 - Il report *blu* del 18 Marzo 2020 riporta erroneamente la data del 17 Marzo 2020.
 - Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020.
 - Il report *blu* del 13 Marzo 2020 riporta erroneamente la data del 12 Marzo 2020.
