@@ -195,11 +195,12 @@ def static_test():
         prec_3 = value['decessi']['totali']['decessi']
 
         # Gli ID dei decessi devono essere incrementali.
-        for get_id in value['decessi']['odierni']['dettaglio']:
-            check_id.append(get_id['id'])
-        if list(range(min(check_id), max(check_id) + 1)) != check_id:
-            error = True
-            print('\nFile: %s.json' % value['data'], '=>', print_error(16))
+        if len(value['decessi']['odierni']['dettaglio']) > 0:
+            for get_id in value['decessi']['odierni']['dettaglio']:
+                check_id.append(get_id['id'])
+            if list(range(min(check_id), max(check_id) + 1)) != check_id:
+                error = True
+                print('\nFile: %s.json' % value['data'], '=>', print_error(16))
 
         # Il dettaglio dei decessi non deve avere valori vuoti o non
         # consistenti.
