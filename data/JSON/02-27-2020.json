@@ -1,5 +1,5 @@
 {
-    "data": "02-28-2020",
+    "data": "02-27-2020",
     "file_pdf": {
         "locale": {
             "blu": "",
@@ -15,13 +15,13 @@
     "tamponi": {
         "totali": {
             "test_effettuati": 0,
-            "casi_diagnosticati": 46,
-            "casi_positivi": 6
+            "casi_diagnosticati": 27,
+            "casi_positivi": 3
         },
         "odierni": {
             "test_effettuati": 0,
-            "casi_diagnosticati": 19,
-            "casi_positivi": 3
+            "casi_diagnosticati": 8,
+            "casi_positivi": 2
         }
     },
     "malati": {
