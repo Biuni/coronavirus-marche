@@ -181,8 +181,44 @@
             }
         },
         "odierni": {
-            "decessi": 4,
+            "decessi": 8,
             "dettaglio": [
+                {
+                    "id": 11,
+                    "luogo_decesso": "RIA MN",
+                    "sesso": "M",
+                    "eta": 87,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 12,
+                    "luogo_decesso": "MI MN",
+                    "sesso": "F",
+                    "eta": 80,
+                    "comune_domicilio": "FANO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 13,
+                    "luogo_decesso": "MI MN",
+                    "sesso": "M",
+                    "eta": 93,
+                    "comune_domicilio": "CARTOCETO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 14,
+                    "luogo_decesso": "MI FERMO",
+                    "sesso": "F",
+                    "eta": 84,
+                    "comune_domicilio": "MONTE CERIGNONE",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
                 {
                     "id": 15,
                     "luogo_decesso": "OSP SENIGALLIA",
