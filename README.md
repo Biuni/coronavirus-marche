@@ -53,21 +53,18 @@ Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) son
 - Il report *arancio* del 24 Marzo 2020 riporta 32 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 21 avvenuti nelle settimane precedenti e 4 di residenti fuori regione. Quindi, il totale inerente a questo report è di 57 decessi.
 - Il report *arancio* del 24 Marzo 2020 riporta 14 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 8 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 22 decessi.
 - Il report *giallo* del 23 Marzo 2020 non ha aggiornamenti sui casi e contatti in isolamento domiciliare.
-- I report *gialli* iniziano dal 5 Marzo 2020.
 - I report *blu* iniziano dal 12 Marzo 2020.
 - I report *arancio* iniziano dall'11 Marzo 2020.
+- I report *gialli* iniziano dal 5 Marzo 2020.
 
 ### Errori e refusi
 - I report *gialli* del 08, 09, 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
 - Il report *blu* del 23 Marzo 2020 riporta 148 casi positivi su 391 casi diagnosticati mentre il report del giorno successivo correge questi dati portandoli a 130 casi positivi su 373 casi diagnosticati. Di conseguenza anche il numero totale di casi positivi è corretto a 2551 e quello dei casi diagnosticati a 6764. Rimane però incongruenza con il dato del report *giallo* del 23 Marzo 2020 dove sono segnalati 2569 malati e del quale non è stata fornita alcuna correzione. Per tanto è stato lasciato quel valore in eccesso di 18 persone.
-- Il report *blu* del 19 Marzo 2020 riporta 170 casi positivi su 403 casi diagnosticati mentre il report del giorno successivo correge questi dati portandoli a 164 casi positivi su 403 casi diagnosticati. Di conseguenza anche il numero totale di casi positivi è corretto a 1731. Rimane però incongruenza con il dato del report *giallo* del 19 Marzo 2020 dove sono segnalati 1737 malati e del quale non è stata fornita alcuna correzione. Per tanto è stato lasciato quel valore in eccesso di 6 persone.
-- Il report *blu* del 17 Marzo 2020 riporta 127 casi positivi su 312 casi diagnosticati mentre il report del giorno successivo correge questi dati portandoli a 129 casi positivi su 335 casi diagnosticati. Di conseguenza anche il numero totale di casi positivi è corretto a 1371 e quello dei casi diagnosticati a 3572.
-- Il report *blu* del 16 Marzo 2020 riporta 120 casi positivi su 300 casi diagnosticati mentre il report del giorno successivo correge questi dati portandoli a 109 casi positivi su 300 casi diagnosticati. Di conseguenza anche il numero totale di casi positivi è corretto a 1242 e quello dei casi diagnosticati a 3237.
-- Il report *blu* del 15 Marzo 2020 riporta 235 casi positivi su 385 casi diagnosticati mentre il report del giorno successivo correge questi dati portandoli a 235 casi positivi su 386 casi diagnosticati. Di conseguenza anche il numero totale di casi positivi è corretto a 1133 e quello dei casi diagnosticati a 2937.
-- Il report *blu* del 14 Marzo 2020 riporta 174 casi positivi su 343 casi diagnosticati mentre il report del giorno successivo correge questi dati portandoli a 175 casi positivi su 333 casi diagnosticati. Di conseguenza anche il numero totale di casi positivi è corretto a 898 e quello dei casi diagnosticati a 2551. Rimane però incongruenza con il dato del report *giallo* del 14 Marzo 2020 dove sono segnalati 899 malati e del quale non è stata fornita alcuna correzione. Per tanto è stato lasciato quel valore in eccesso di 1 persona.
+- I report *blu* del 13, 14, 15, 16, 17, 18 e 19 Marzo 2020 riportano errori sul numero di casi positivi e di casi diagnosticati che si ripercuotono anche sul calcolo aggregato di questi valori. Effettuando però un controllo incrociato con i report dei giorni successivi sono stati corretti.
+- I report *gialli* del 15, 16, 17 e 19 Marzo 2020 riportano incongruenze tra il numero di casi positivi (corretto) ed il numero dei malati. Nel dettaglio i report del 15, 16 e 17 Marzo hanno un malato in meno mentre quello del 19 Marzo ne considera 6 in eccesso.
 - Il report *blu* del 18 Marzo 2020 riporta erroneamente la data del 17 Marzo 2020.
-- Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020.
 - Il report *blu* del 13 Marzo 2020 riporta erroneamente la data del 12 Marzo 2020.
+- Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020. 
 
 ## Crediti
 Questo progetto non è ne collegato ne sponsorizzato dalla *Regione Marche* in quanto ente. I dati raccolti provengono dal sito ufficiale http://www.regione.marche.it.
