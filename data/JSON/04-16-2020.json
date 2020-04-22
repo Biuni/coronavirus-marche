@@ -45,11 +45,11 @@
                 "terapia_intensiva": {
                     "totali": 102,
                     "strutture": {
-                        "Pesaro_AO_Marche_Nord": 16,
-                        "Ancona_AO_OR_Torrette": 28,
+                        "AO_Marche_Nord": 16,
+                        "AO_Ancona_Torrette": 28,
                         "Senigallia": 4,
                         "Fermo": 6,
-                        "Civitanova_M": 9,
+                        "Civitanova": 9,
                         "Jesi": 9,
                         "Urbino": 6,
                         "Camerino": 9,
@@ -61,7 +61,7 @@
                 "semi_intensiva": {
                     "totali": 214,
                     "strutture": {
-                        "Civitanova_M": 3,
+                        "Civitanova": 3,
                         "Camerino": 6,
                         "San_Benedetto_dT": 16,
                         "Jesi": 10,
@@ -69,8 +69,8 @@
                         "Urbino": 9,
                         "Senigallia": 5,
                         "Fermo": 6,
-                        "AO_Marche_Nord_Pesaro_SUBINT": 90,
-                        "AO_OR_Torrette_Ancona_SUBINT": 61,
+                        "AO_Marche_Nord": 90,
+                        "AO_Ancona_Torrette": 61,
                         "Villa_Pini": 8
                     }
                 },
@@ -80,28 +80,28 @@
                         "Chiaravalle": 33,
                         "Galantara": 42,
                         "Fossombrone": 26,
-                        "Villa_dei_Pini": 3,
-                        "Campofilone_RSA": 55,
-                        "AO_Torrette_Ancona_post_critica": 46,
+                        "Villa_Pini": 3,
+                        "RSA_Campofilone": 55,
+                        "AO_Ancona_Torrette": 46,
                         "INRCA_Fermo": 20,
-                        "Ospedale_da_campo_milit_Jesi": 6
+                        "OspedaleDaCampo_Jesi": 6
                     }
                 },
                 "non_intensiva": {
                     "totali": 405,
                     "strutture": {
-                        "MI_Fermo": 40,
-                        "Covid_Jesi": 34,
-                        "PS_Medicina__Urbino": 22,
-                        "PS_Macerata": 26,
-                        "Covid_Senigallia": 49,
-                        "Covid_Fabriano": 0,
-                        "Covid_Camerino": 46,
-                        "Covid_Civitanova_M": 56,
+                        "Fermo": 40,
+                        "Jesi": 34,
+                        "Urbino": 22,
+                        "Macerata": 26,
+                        "Senigallia": 49,
+                        "Fabriano": 0,
+                        "Camerino": 46,
+                        "Civitanova": 56,
                         "San_Benedetto_dT": 10,
                         "INRCA_Ancona": 44,
-                        "AO_Marche_Nord_NON_INTENSIVI": 34,
-                        "AO_Torrette_Ancona__PS": 0,
+                        "AO_Marche_Nord": 34,
+                        "AO_Ancona_Torrette": 0,
                         "Villa_Pini": 44
                     }
                 }
