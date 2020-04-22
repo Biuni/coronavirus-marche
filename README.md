@@ -60,7 +60,7 @@ Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) son
 ### Errori e refusi
 - I report *gialli* del 08, 09, 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
 - I report *blu* del 13, 14, 15, 16, 17, 18, 19 e 23 Marzo 2020 riportano errori sul numero di casi positivi e di casi diagnosticati che si ripercuotono anche sul calcolo aggregato di questi valori. Effettuando però un controllo incrociato con i report dei giorni successivi sono stati corretti.
-- I report *gialli* del 08, 15, 16, 17, 19 e 23 Marzo 2020 riportano incongruenze tra il numero di casi positivi (corretto) ed il numero dei malati. Nel dettaglio i report del 15, 16 e 17 Marzo hanno un malato in meno mentre quello del 08, 19 e 23 Marzo ne considerano rispettivamente 6, 18 e 2 in eccesso.
+- I report *gialli* del 07, 08, 15, 16, 17, 19 e 23 Marzo 2020 riportano incongruenze tra il numero di casi positivi (corretto) ed il numero dei malati. Nel dettaglio i report del 15, 16 e 17 Marzo hanno un malato in meno, quello del 07 Marzo ha 7 malati in meno mentre quello del 08, 19 e 23 Marzo ne considerano rispettivamente 6, 18 e 2 in eccesso.
 - Il report *blu* del 18 Marzo 2020 riporta erroneamente la data del 17 Marzo 2020.
 - Il report *blu* del 13 Marzo 2020 riporta erroneamente la data del 12 Marzo 2020.
 - Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020. 
