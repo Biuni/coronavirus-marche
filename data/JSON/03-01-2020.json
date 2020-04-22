@@ -1,5 +1,5 @@
 {
-    "data": "03-02-2020",
+    "data": "03-01-2020",
     "file_pdf": {
         "locale": {
             "blu": "",
@@ -15,13 +15,13 @@
     "tamponi": {
         "totali": {
             "test_effettuati": 0,
-            "casi_diagnosticati": 134,
-            "casi_positivi": 35
+            "casi_diagnosticati": 98,
+            "casi_positivi": 25
         },
         "odierni": {
             "test_effettuati": 0,
-            "casi_diagnosticati": 36,
-            "casi_positivi": 10
+            "casi_diagnosticati": 33,
+            "casi_positivi": 14
         }
     },
     "malati": {
@@ -166,13 +166,13 @@
     },
     "decessi": {
         "totali": {
-            "decessi": 1,
+            "decessi": 0,
             "sesso": {
-                "maschio": 1,
+                "maschio": 0,
                 "femmina": 0
             },
             "provincia": {
-                "pesaro_urbino": 1,
+                "pesaro_urbino": 0,
                 "ancona": 0,
                 "macerata": 0,
                 "fermo": 0,
@@ -181,18 +181,8 @@
             }
         },
         "odierni": {
-            "decessi": 1,
-            "dettaglio": [
-                {
-                    "id": 1,
-                    "luogo_decesso": "TI FANO",
-                    "sesso": "M",
-                    "eta": 87,
-                    "comune_domicilio": "FANO",
-                    "provincia_domicilio": "PU",
-                    "pregresse_patologie": 1
-                }
-            ]
+            "decessi": 0,
+            "dettaglio": []
         }
     }
 }
