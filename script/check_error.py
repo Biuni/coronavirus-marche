@@ -53,15 +53,15 @@ def static_test():
         # Ogni file PDF deve corrispondere al corretto colore del report e alla
         # corretta data.
         if value['file_pdf']['locale']['blu'] != './data/PDF/GORES_Blu/' + \
-                value['data'] + '.pdf':
+                value['data'] + '.pdf' and value['file_pdf']['locale']['blu'] != '':
             error = True
             print('\nFile: %s.json' % value['data'], '=>', print_error(0))
         if value['file_pdf']['locale']['giallo'] != './data/PDF/GORES_Giallo/' + \
-                value['data'] + '.pdf':
+                value['data'] + '.pdf' and value['file_pdf']['locale']['giallo'] != '':
             error = True
             print('\nFile: %s.json' % value['data'], '=>', print_error(1))
         if value['file_pdf']['locale']['arancio'] != './data/PDF/GORES_Arancio/' + \
-                value['data'] + '.pdf':
+                value['data'] + '.pdf' and value['file_pdf']['locale']['arancio'] != '':
             error = True
             print('\nFile: %s.json' % value['data'], '=>', print_error(2))
 
