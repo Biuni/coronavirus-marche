@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-⚠️ <i>Progetto in fase di sviluppo</i> ⚠️
+📅 <i>Dati dal 25/02/2020 al 22/04/2020</i>
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in JSON
@@ -46,6 +46,7 @@ $ py check_error.py
 Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) sono descritti in dettaglio tutti i campi che compongono il JSON.
 
 ## Informazioni
+- I dati iniziano il 25 Febbraio 2020 ma fino al 05 Marzo 2020, data del primo report *giallo* del GORES, le uniche informazioni disponibili riguardano il numero dei tamponi.
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - Dal 08 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - Dal 04 Aprile 2020 vengono conteggiati insieme i pazienti dimessi dalle strutture ospedaliere ed i pazienti risultati negativi al doppio tampone (per allinearsi ai dati trasmessi dalle altre regioni). Quindi, fino al 03 Aprile 2020 il valore del campo "dimessi_guariti" corrisponde ai soli pazienti risultati negativi al doppio tampone.
@@ -66,6 +67,6 @@ Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) son
 - Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020. 
 
 ## Crediti
-Questo progetto non è ne collegato ne sponsorizzato dalla *Regione Marche* in quanto ente. I dati raccolti provengono dal sito ufficiale http://www.regione.marche.it.
+Questo progetto non è ne collegato ne sponsorizzato dall'ente *Regione Marche*. I dati raccolti provengono dal sito ufficiale http://www.regione.marche.it.
 
 Le informazioni presenti in questo repository sono coperte da licenza MIT. È quindi libero l'uso commerciale e privato, la modifica e la distribuzione con la condizione unica di menzionare la fonte e l'autore.
