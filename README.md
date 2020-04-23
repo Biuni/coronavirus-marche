@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati dal 25/02/2020 al 22/04/2020</i>
+📅 <i>Dati dal 25/02/2020 al 22/04/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in JSON
@@ -46,13 +46,16 @@ $ py check_error.py
 Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) sono descritti in dettaglio tutti i campi che compongono il JSON.
 
 ## Informazioni
-- I dati iniziano il 25 Febbraio 2020 ma fino al 05 Marzo 2020, data del primo report *giallo* del GORES, le uniche informazioni disponibili riguardano il numero dei tamponi.
+- I dati sui tamponi iniziano il 25 Febbraio 2020, il primo decesso risale al 02 Marzo 2020 e le prime informazioni riguardo i malati iniziano il 05 Marzo 2020.
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - Dal 08 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - Dal 04 Aprile 2020 vengono conteggiati insieme i pazienti dimessi dalle strutture ospedaliere ed i pazienti risultati negativi al doppio tampone (per allinearsi ai dati trasmessi dalle altre regioni). Quindi, fino al 03 Aprile 2020 il valore del campo "dimessi_guariti" corrisponde ai soli pazienti risultati negativi al doppio tampone.
+- Il report *arancio* del 20 Aprile 2020 riporta 9 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 3 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 12 decessi.
+- Il report *arancio* del 17 Aprile 2020 riporta 7 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 5 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 12 decessi.
+- Il report *arancio* del 15 Aprile 2020 riporta 13 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 5 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 18 decessi.
 - Il report *arancio* del 02 Aprile 2020 riporta 31 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 23 avvenuti nelle settimane precedenti di cui 1 residente fuori regione. Quindi, il totale inerente a questo report è di 54 decessi.
 - Il report *arancio* del 24 Marzo 2020 riporta 32 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 21 avvenuti nelle settimane precedenti e 4 di residenti fuori regione. Quindi, il totale inerente a questo report è di 57 decessi.
-- Il report *arancio* del 24 Marzo 2020 riporta 14 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 8 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 22 decessi.
+- Il report *arancio* del 17 Marzo 2020 riporta 14 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 8 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 22 decessi.
 - Il report *giallo* del 23 Marzo 2020 non ha aggiornamenti sui casi e contatti in isolamento domiciliare.
 - I report *blu* iniziano dal 12 Marzo 2020.
 - I report *arancio* iniziano dall'11 Marzo 2020.
