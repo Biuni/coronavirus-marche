@@ -44,7 +44,7 @@ $ py generate_json.py
 $ py generate_csv.py
 ```
 
-- Lo script `check_error.py` genera il file `covid-19-marche.json` e controlla tutti i dati presenti nel JSON, verificando se ci sono incongruenze.
+- Lo script `check_error.py` effettua un test statico che controlla tutti i file giornalieri presenti nella cartella `./data/JSON`, verificando se ci sono incongruenze.
 ```bash
 $ py check_error.py
 ```

@@ -1,5 +1,8 @@
 import json
-import generate_json
+import glob
+
+
+JSONfiles = glob.glob('../data/JSON/*.json')
 
 
 def print_error(id):
@@ -31,12 +34,12 @@ def static_test():
     error = False
     check_id = []
 
-    # Genero il file "covid-19-marche.json" aggiornato
-    generate_json.generate(out=False)
-
-    # Apro in lettura il file "covid-19-marche.json"
-    with open('../covid-19-marche.json') as file:
-        data = json.load(file)
+    data = {}
+    data['report'] = []
+    # Genero il JSON aggregato
+    for json_file in JSONfiles:
+        with open(json_file) as file:
+            data['report'].append(json.load(file))
 
     # Tamponi di partenza
     prec_1 = data['report'][0]['tamponi']['totali']['casi_diagnosticati'] - \
