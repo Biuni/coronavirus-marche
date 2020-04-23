@@ -77,6 +77,8 @@ Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) son
 - Il report *blu* del 15 Marzo 2020 riporta erroneamente la data del 14 Marzo 2020. 
 
 ## Crediti
-Questo progetto non è ne collegato ne sponsorizzato dall'ente *Regione Marche*. I dati raccolti provengono dal sito ufficiale http://www.regione.marche.it.
+Questo progetto non è ne collegato ne sponsorizzato dalla *Regione Marche*. I dati raccolti provengono dal sito ufficiale www.regione.marche.it e le informazioni presenti in questo repository sono coperte da licenza MIT. È libero l'uso commerciale, l'uso privato, la modifica e la distribuzione con la condizione unica di menzionare la fonte e l'autore.
 
-Le informazioni presenti in questo repository sono coperte da licenza MIT. È quindi libero l'uso commerciale e privato, la modifica e la distribuzione con la condizione unica di menzionare la fonte e l'autore.
+&copy; Gianluca Bonifazi - https://biuni.it
+
+[![BuyMeACoffee](https://i.ibb.co/gynFwS1/rsz-default-orange.png "Make a donation")](https://www.buymeacoffee.com/Biuni)
