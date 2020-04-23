@@ -6,7 +6,7 @@
 📅 <i>Dati dal 25/02/2020 al 22/04/2020</i> 📅
 </p>
 
-# 🧪 Regione Marche - Dati COVID-19 in JSON
+# 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
 Questo repository nasce con lo scopo di aggregare, in un formato utilizzabile per l'analisi, i dati forniti dal *GORES* (Gruppo Operativo Regionale Emergenza Sanitaria) della *Regione Marche*, riguardanti il diffondersi del COVID-19 nel territtorio marchigiano.
 
 Quotidianamente vengono rilasciati 3 diversi report:
@@ -14,10 +14,12 @@ Quotidianamente vengono rilasciati 3 diversi report:
 - **Report Giallo**: documento nel quale viene aggiornata la panoramica sulla situazione dei casi risultati positivi al coronavirus (ricoverati, isolamento domiciliare, dimessi e guarti, ecc..).
 - **Report Arancio**: documento nel quale sono rilasciati i numeri e i dettagli sui decessi avvenuti nelle ultime 24h.
 
-## Aggiornamento giornaliero
+## Aggiornamento giornaliero ~ Ore 18:30 (circa)
 Ogni giorno vengono aggiornati i seguenti file:
 - Aggiornamento della cartella `./data/JSON/` con il JSON giornaliero che aggrega i 3 report.
 - Update del file `covid-19-marche.json` completo di tutti i report.
+- Update del file `covid-19-marche.csv` completo di tutti i report.
+- Update del file `./data/CSV/dettagli_decessi.csv` con i dettagli dei decessi di ogni report.
 - Aggiornamento delle liste "gores_blu", "gores_giallo" e "gores_arancio" in `download_pdf.py`.
 
 ## Script Python
@@ -37,13 +39,18 @@ $ py download_pdf.py -blu|-giallo|-arancio MM-DD-YYYY   # MM è il mese, DD il g
 $ py generate_json.py
 ```
 
+- Lo script `generate_csv.py` genera il file CSV `covid-19-marche.csv` e `./data/CSV/dettagli_decessi.csv` a partire dai file giornalieri presenti nella cartella `./data/JSON`.
+```bash
+$ py generate_csv.py
+```
+
 - Lo script `check_error.py` genera il file `covid-19-marche.json` e controlla tutti i dati presenti nel JSON, verificando se ci sono incongruenze.
 ```bash
 $ py check_error.py
 ```
 
-## Descrizione JSON
-Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) sono descritti in dettaglio tutti i campi che compongono il JSON.
+## Descrizione JSON e CSV
+Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) sono descritti in dettaglio tutti i campi che compongono il JSON ed il CSV.
 
 ## Informazioni
 - I dati sui tamponi iniziano il 25 Febbraio 2020, il primo decesso risale al 02 Marzo 2020 e le prime informazioni riguardo i malati iniziano il 05 Marzo 2020.

@@ -1,5 +1,5 @@
 
-## JSON schema
+## JSON e CSV schema
 - `data` : giorno nel quale i tre report sono stati pubblicati. È importante sottolineare però, che i dati si riferiscono alle 24h precedenti.
 - **file_pdf**
   - **locale**
@@ -108,7 +108,7 @@
       - `ascoli_piceno` : numero totale di decessi di persone risultate positive al coronavirus, dall'inizio dell'epidiemia, nella provincia di Ascoli Piceno.
   - **odierni**
     - `decessi` : numero di decessi di persone risultate positive al coronavirus, nelle ultime 24h.
-    - **dettaglio**
+    - **dettaglio** (*INFO: Nel formato CSV questi valori sono nel file "dettagli-decessi.csv"*)
       - `id` : numero identificativo incrementale di ogni deceduto.
       - `luogo_decesso` : struttura ospedaliera o comune dove è avvenuto il decesso. (*INFO: Se non disponibile, il valore sarà "ND"*)
       - `sesso` : sesso del deceduto. (*INFO: Se non disponibile, il valore sarà "ND"*)
