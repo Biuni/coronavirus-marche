@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati dal 25/02/2020 al 23/04/2020</i> 📅
+📅 <i>Dati dal 25/02/2020 al 24/04/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
