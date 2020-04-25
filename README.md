@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati dal 25/02/2020 al 24/04/2020</i> 📅
+📅 <i>Dati aggiornati al 25/04/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
@@ -14,7 +14,7 @@ Quotidianamente vengono rilasciati 3 diversi report:
 - **Report Giallo**: documento nel quale viene aggiornata la panoramica sulla situazione dei casi risultati positivi al coronavirus (ricoverati, isolamento domiciliare, dimessi e guarti, ecc..).
 - **Report Arancio**: documento nel quale sono rilasciati i numeri e i dettagli sui decessi avvenuti nelle ultime 24h.
 
-## Aggiornamento giornaliero ~ Ore 18:30 (circa)
+## Aggiornamento giornaliero ~ Ore 19:00 (circa)
 Ogni giorno vengono aggiornati i seguenti file:
 - Aggiornamento della cartella `./data/JSON/` con il JSON giornaliero che aggrega i 3 report.
 - Update del file `covid-19-marche.json` completo di tutti i report.
