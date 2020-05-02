@@ -20897,6 +20897,294 @@
           ]
         }
       }
+    },
+    {
+      "data": "05-02-2020",
+      "file_pdf": {
+        "locale": {
+          "blu": "./data/PDF/GORES_Blu/05-02-2020.pdf",
+          "giallo": "./data/PDF/GORES_Giallo/05-02-2020.pdf",
+          "arancio": "./data/PDF/GORES_Arancio/05-02-2020.pdf"
+        },
+        "online": {
+          "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblus02052020_9.pdf",
+          "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo02052020_12.pdf",
+          "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio02052020_18.pdf"
+        }
+      },
+      "tamponi": {
+        "totali": {
+          "test_effettuati": 62834,
+          "casi_diagnosticati": 41156,
+          "casi_positivi": 6298
+        },
+        "odierni": {
+          "test_effettuati": 1593,
+          "casi_diagnosticati": 1033,
+          "casi_positivi": 23
+        }
+      },
+      "malati": {
+        "totali": {
+          "persone": 6298,
+          "provincia": {
+            "pesaro_urbino": 2529,
+            "ancona": 1814,
+            "macerata": 1026,
+            "fermo": 449,
+            "ascoli_piceno": 282,
+            "extra_regione": 198
+          }
+        },
+        "dimessi_guariti": 2177,
+        "attivi": {
+          "persone": 3205,
+          "isolamento_domiciliare": 2760,
+          "ricoverati": {
+            "totali": 445,
+            "terapia_intensiva": {
+              "totali": 46,
+              "strutture": {
+                "AO_Marche_Nord": 8,
+                "AO_Ancona_Torrette": 14,
+                "Senigallia": 3,
+                "Fermo": 4,
+                "Civitanova": 3,
+                "Jesi": 2,
+                "Urbino": 0,
+                "Camerino": 6,
+                "San_Benedetto_dT": 4,
+                "Macerata": 0,
+                "INRCA_Ancona": 2
+              }
+            },
+            "semi_intensiva": {
+              "totali": 117,
+              "strutture": {
+                "Civitanova": 3,
+                "Camerino": 4,
+                "San_Benedetto_dT": 7,
+                "Jesi": 0,
+                "Macerata": 0,
+                "Urbino": 0,
+                "Senigallia": 3,
+                "Fermo": 4,
+                "AO_Marche_Nord": 61,
+                "AO_Ancona_Torrette": 29,
+                "Villa_Pini": 6
+              }
+            },
+            "post_critica": {
+              "totali": 207,
+              "strutture": {
+                "Chiaravalle": 32,
+                "Galantara": 60,
+                "Fossombrone": 26,
+                "Villa_Pini": 0,
+                "RSA_Campofilone": 60,
+                "AO_Ancona_Torrette": 4,
+                "INRCA_Fermo": 25,
+                "OspedaleDaCampo_Jesi": 0
+              }
+            },
+            "non_intensiva": {
+              "totali": 221,
+              "strutture": {
+                "Fermo": 12,
+                "Jesi": 16,
+                "Urbino": 0,
+                "Macerata": 19,
+                "Senigallia": 25,
+                "Fabriano": 0,
+                "Camerino": 38,
+                "Civitanova": 23,
+                "San_Benedetto_dT": 7,
+                "INRCA_Ancona": 16,
+                "AO_Marche_Nord": 35,
+                "AO_Ancona_Torrette": 0,
+                "Villa_Pini": 30
+              }
+            }
+          }
+        },
+        "quarantena_domiciliare": {
+          "totali": 28316,
+          "attivi": {
+            "totali": 8000,
+            "operatori_sanitari": 1089,
+            "sintomatici": 3306,
+            "asintomatici": 4694
+          },
+          "provincia": {
+            "pesaro_urbino": {
+              "totali": 13178,
+              "attivi": {
+                "totali": 4756,
+                "operatori_sanitari": 493,
+                "sintomatici": 2189,
+                "asintomatici": 2567
+              }
+            },
+            "ancona": {
+              "totali": 8005,
+              "attivi": {
+                "totali": 1628,
+                "operatori_sanitari": 301,
+                "sintomatici": 611,
+                "asintomatici": 1017
+              }
+            },
+            "macerata": {
+              "totali": 3561,
+              "attivi": {
+                "totali": 955,
+                "operatori_sanitari": 203,
+                "sintomatici": 320,
+                "asintomatici": 635
+              }
+            },
+            "fermo": {
+              "totali": 2122,
+              "attivi": {
+                "totali": 427,
+                "operatori_sanitari": 75,
+                "sintomatici": 126,
+                "asintomatici": 301
+              }
+            },
+            "ascoli_piceno": {
+              "totali": 1450,
+              "attivi": {
+                "totali": 234,
+                "operatori_sanitari": 17,
+                "sintomatici": 60,
+                "asintomatici": 174
+              }
+            }
+          }
+        }
+      },
+      "decessi": {
+        "totali": {
+          "decessi": 927,
+          "sesso": {
+            "maschio": 560,
+            "femmina": 367
+          },
+          "provincia": {
+            "pesaro_urbino": 492,
+            "ancona": 204,
+            "macerata": 147,
+            "fermo": 64,
+            "ascoli_piceno": 12,
+            "extra_regione": 8
+          }
+        },
+        "odierni": {
+          "decessi": 11,
+          "dettaglio": [
+            {
+              "id": 917,
+              "luogo_decesso": "MACERATA",
+              "sesso": "M",
+              "eta": 86,
+              "comune_domicilio": "MORROVALLE",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 918,
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "F",
+              "eta": 92,
+              "comune_domicilio": "SENIGALLIA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 919,
+              "luogo_decesso": "SENIGALLIA",
+              "sesso": "M",
+              "eta": 89,
+              "comune_domicilio": "SENIGALLIA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 920,
+              "luogo_decesso": "CAMERINO",
+              "sesso": "M",
+              "eta": 83,
+              "comune_domicilio": "CAGLI",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 921,
+              "luogo_decesso": "AORMN PESARO",
+              "sesso": "F",
+              "eta": 79,
+              "comune_domicilio": "URBINO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 922,
+              "luogo_decesso": "AOR TORRETTE",
+              "sesso": "M",
+              "eta": 83,
+              "comune_domicilio": "ANCONA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 923,
+              "luogo_decesso": "AOR TORRETTE",
+              "sesso": "M",
+              "eta": 73,
+              "comune_domicilio": "ANCONA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 924,
+              "luogo_decesso": "SAN BENEDETTO DT",
+              "sesso": "F",
+              "eta": 95,
+              "comune_domicilio": "MONTELUPONE",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 925,
+              "luogo_decesso": "INRCA ANCONA",
+              "sesso": "M",
+              "eta": 83,
+              "comune_domicilio": "FALCONARA M",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 926,
+              "luogo_decesso": "INRCA ANCONA",
+              "sesso": "F",
+              "eta": 88,
+              "comune_domicilio": "ANCONA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 927,
+              "luogo_decesso": "INRCA FERMO",
+              "sesso": "F",
+              "eta": 85,
+              "comune_domicilio": "OFFAGNA",
+              "provincia_domicilio": "AN",
+              "pregresse_patologie": 1
+            }
+          ]
+        }
+      }
     }
   ]
 }
