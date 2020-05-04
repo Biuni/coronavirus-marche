@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati aggiornati al 03/05/2020</i> 📅
+📅 <i>Dati aggiornati al 04/05/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
@@ -57,7 +57,9 @@ Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) son
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - Dal 08 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - Dal 04 Aprile 2020 vengono conteggiati insieme i pazienti dimessi dalle strutture ospedaliere ed i pazienti risultati negativi al doppio tampone (per allinearsi ai dati trasmessi dalle altre regioni). Quindi, fino al 03 Aprile 2020 il valore del campo "dimessi_guariti" corrisponde ai soli pazienti risultati negativi al doppio tampone.
+- Dal 04 Maggio 2020 nel report *giallo* è stata aggiunta Villa Fastiggi come degenza post critica. Per non creare confusione, essendo pazienti locati nella zona Marche Nord, il dato verrà sommato alla RSA Galantara.
 - Dal 30 Aprile 2020 nel report *giallo* le degenze post critiche sono state divise tra: degenze post critiche acute o meno. Nel conteggio vengono comunque considerate insieme sotto la categoria post critiche.
+- Il report *arancio* del 04 Maggio 2020 riporta 3 decessi ma, nella stessa giornata, ne è stato conteggiato anche 1 avvenuto nelle settimane precedenti. Quindi, il totale inerente a questo report è di 4 decessi.
 - Il report *arancio* del 03 Maggio 2020 riporta 3 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 2 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 5 decessi.
 - Il report *arancio* del 01 Maggio 2020 riporta 3 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 2 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 5 decessi.
 - Il report *arancio* del 28 Aprile 2020 riporta 4 decessi ma, nella stessa giornata, sono stati conteggiati anche altri 2 avvenuti nelle settimane precedenti. Quindi, il totale inerente a questo report è di 6 decessi.
