@@ -251,7 +251,7 @@
                     "luogo_decesso": "CIVITANOVA M MED",
                     "sesso": "F",
                     "eta": 96,
-                    "comune_domicilio": "S SEVERINO M",
+                    "comune_domicilio": "SAN SEVERINO MARCHE",
                     "provincia_domicilio": "MC",
                     "pregresse_patologie": 1
                 },
@@ -467,7 +467,7 @@
                     "luogo_decesso": "SAN BENEDETTO DT",
                     "sesso": "F",
                     "eta": 68,
-                    "comune_domicilio": "S. BENEDETTO DT",
+                    "comune_domicilio": "SAN BENEDETTO DT",
                     "provincia_domicilio": "AP",
                     "pregresse_patologie": 1
                 },

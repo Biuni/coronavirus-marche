@@ -224,7 +224,7 @@
                     "luogo_decesso": "URBINO MED",
                     "sesso": "M",
                     "eta": 70,
-                    "comune_domicilio": "CIVITANOVA MARCHE",
+                    "comune_domicilio": "CIVITANOVA M",
                     "provincia_domicilio": "MC",
                     "pregresse_patologie": 1
                 },
@@ -296,7 +296,7 @@
                     "luogo_decesso": "CIVITANOVA MED",
                     "sesso": "M",
                     "eta": 92,
-                    "comune_domicilio": "CIVITANOVA MARCHE",
+                    "comune_domicilio": "CIVITANOVA M",
                     "provincia_domicilio": "MC",
                     "pregresse_patologie": 1
                 },
@@ -485,7 +485,7 @@
                     "luogo_decesso": "INRCA FERMO",
                     "sesso": "M",
                     "eta": 93,
-                    "comune_domicilio": "CAMPOLFILONE",
+                    "comune_domicilio": "CAMPOFILONE",
                     "provincia_domicilio": "FM",
                     "pregresse_patologie": 1
                 },
