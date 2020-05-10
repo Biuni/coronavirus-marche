@@ -203,7 +203,7 @@
                 },
                 {
                     "id": 633,
-                    "luogo_decesso": "SAN BENEDETTO DT",
+                    "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                     "sesso": "M",
                     "eta": 91,
                     "comune_domicilio": "FANO",
@@ -314,7 +314,7 @@
                     "luogo_decesso": "AO TORRETTE RIA",
                     "sesso": "M",
                     "eta": 59,
-                    "comune_domicilio": "SAN BENEDETTO DT",
+                    "comune_domicilio": "SAN BENEDETTO DEL TRONTO",
                     "provincia_domicilio": "AP",
                     "pregresse_patologie": 1
                 },

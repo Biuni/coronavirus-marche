@@ -329,7 +329,7 @@
                 },
                 {
                     "id": 381,
-                    "luogo_decesso": "SAN BENEDETTO DT",
+                    "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                     "sesso": "F",
                     "eta": 88,
                     "comune_domicilio": "PESARO",
@@ -377,7 +377,7 @@
                     "luogo_decesso": "URBINO RIA",
                     "sesso": "M",
                     "eta": 72,
-                    "comune_domicilio": "ROMANIA (ESTERO)",
+                    "comune_domicilio": "ROMANIA",
                     "provincia_domicilio": "ND",
                     "pregresse_patologie": 1
                 }

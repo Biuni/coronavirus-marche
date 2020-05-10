@@ -248,7 +248,7 @@
                 },
                 {
                     "id": 924,
-                    "luogo_decesso": "SAN BENEDETTO DT",
+                    "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                     "sesso": "F",
                     "eta": 95,
                     "comune_domicilio": "MONTELUPONE",
@@ -260,7 +260,7 @@
                     "luogo_decesso": "INRCA ANCONA",
                     "sesso": "M",
                     "eta": 83,
-                    "comune_domicilio": "FALCONARA M",
+                    "comune_domicilio": "FALCONARA MARITTIMA",
                     "provincia_domicilio": "AN",
                     "pregresse_patologie": 1
                 },

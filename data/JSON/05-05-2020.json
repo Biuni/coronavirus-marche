@@ -221,10 +221,10 @@
                 },
                 {
                     "id": 941,
-                    "luogo_decesso": "SAN BENEDETTO DT",
+                    "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                     "sesso": "M",
                     "eta": 88,
-                    "comune_domicilio": "SAN BENEDETTO DT",
+                    "comune_domicilio": "SAN BENEDETTO DEL TRONTO",
                     "provincia_domicilio": "AP",
                     "pregresse_patologie": 1
                 },
