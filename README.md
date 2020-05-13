@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati aggiornati al 11/05/2020</i> 📅
+📅 <i>Dati aggiornati al 12/05/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
@@ -51,6 +51,12 @@ $ py check_error.py
 
 ## Descrizione JSON e CSV
 Per maggiori informazioni, nel file [covid-19-marche.md](covid-19-marche.md) sono descritti in dettaglio tutti i campi che compongono il JSON ed il CSV.
+
+## Analisi dei dati
+Nella cartella [notebook](notebook) sono presenti 3 Jupyter Notebook nei quali sono riportate delle analisi inerenti ai dati presenti in questo repository.
+- `Andamento_Positivi`: analisi dell'andamento dei casi positivi ([articolo su Medium](https://medium.com/p/319edb8d1cda)).
+- `Andamento_Ricoveri_Guariti`: situazione dei ricoveri e dei guariti ([articolo su Medium](https://medium.com/p/6fe38c9def00)).
+- `Andamento_Decessi`: panoramica sui decessi avvenuti nella Regione Marche ([articolo su Medium](https://medium.com/p/a200299a0a10)).
 
 ## Informazioni
 - I dati sui tamponi iniziano il 25 Febbraio 2020, il primo decesso risale al 02 Marzo 2020 e le prime informazioni riguardo i malati iniziano il 05 Marzo 2020.
