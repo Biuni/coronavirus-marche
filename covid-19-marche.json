@@ -24137,6 +24137,213 @@
           ]
         }
       }
+    },
+    {
+      "data": "05-16-2020",
+      "file_pdf": {
+        "locale": {
+          "blu": "./data/PDF/GORES_Blu/05-16-2020.pdf",
+          "giallo": "./data/PDF/GORES_Giallo/05-16-2020.pdf",
+          "arancio": "./data/PDF/GORES_Arancio/05-16-2020.pdf"
+        },
+        "online": {
+          "blu": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESblu16052020_9.pdf",
+          "giallo": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Report_schema_sintetico_monitoraggio_agg_16maggio_ore12.pdf",
+          "arancio": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESarancio16052020_18.pdf"
+        }
+      },
+      "tamponi": {
+        "totali": {
+          "test_effettuati": 87211,
+          "casi_diagnosticati": 54804,
+          "casi_positivi": 6642
+        },
+        "odierni": {
+          "test_effettuati": 2860,
+          "casi_diagnosticati": 991,
+          "casi_positivi": 23
+        }
+      },
+      "malati": {
+        "totali": {
+          "persone": 6642,
+          "provincia": {
+            "pesaro_urbino": 2727,
+            "ancona": 1853,
+            "macerata": 1092,
+            "fermo": 455,
+            "ascoli_piceno": 289,
+            "extra_regione": 226
+          }
+        },
+        "dimessi_guariti": 3003,
+        "attivi": {
+          "persone": 2657,
+          "isolamento_domiciliare": 2486,
+          "ricoverati": {
+            "totali": 171,
+            "terapia_intensiva": {
+              "totali": 17,
+              "strutture": {
+                "AO_Marche_Nord": 1,
+                "AO_Ancona_Torrette": 5,
+                "Senigallia": 0,
+                "Fermo": 2,
+                "Civitanova": 2,
+                "Jesi": 1,
+                "Urbino": 0,
+                "Camerino": 3,
+                "San_Benedetto_dT": 3,
+                "Macerata": 0,
+                "INRCA_Ancona": 0
+              }
+            },
+            "semi_intensiva": {
+              "totali": 47,
+              "strutture": {
+                "Civitanova": 4,
+                "Camerino": 2,
+                "San_Benedetto_dT": 0,
+                "Jesi": 0,
+                "Macerata": 0,
+                "Urbino": 0,
+                "Senigallia": 0,
+                "Fermo": 2,
+                "AO_Marche_Nord": 25,
+                "AO_Ancona_Torrette": 14,
+                "Villa_Pini": 0
+              }
+            },
+            "post_critica": {
+              "totali": 244,
+              "strutture": {
+                "Chiaravalle": 31,
+                "Galantara": 88,
+                "Fossombrone": 19,
+                "Villa_Pini": 5,
+                "RSA_Campofilone": 78,
+                "AO_Ancona_Torrette": 0,
+                "INRCA_Fermo": 23,
+                "OspedaleDaCampo_Jesi": 0
+              }
+            },
+            "non_intensiva": {
+              "totali": 55,
+              "strutture": {
+                "Fermo": 8,
+                "Jesi": 7,
+                "Urbino": 0,
+                "Macerata": 7,
+                "Senigallia": 0,
+                "Fabriano": 0,
+                "Camerino": 17,
+                "Civitanova": 6,
+                "San_Benedetto_dT": 0,
+                "INRCA_Ancona": 6,
+                "AO_Marche_Nord": 4,
+                "AO_Ancona_Torrette": 0,
+                "Villa_Pini": 0
+              }
+            }
+          }
+        },
+        "quarantena_domiciliare": {
+          "totali": 31242,
+          "attivi": {
+            "totali": 5027,
+            "operatori_sanitari": 660,
+            "sintomatici": 2096,
+            "asintomatici": 2931
+          },
+          "provincia": {
+            "pesaro_urbino": {
+              "totali": 14632,
+              "attivi": {
+                "totali": 3004,
+                "operatori_sanitari": 327,
+                "sintomatici": 1448,
+                "asintomatici": 1556
+              }
+            },
+            "ancona": {
+              "totali": 9138,
+              "attivi": {
+                "totali": 962,
+                "operatori_sanitari": 153,
+                "sintomatici": 327,
+                "asintomatici": 635
+              }
+            },
+            "macerata": {
+              "totali": 3760,
+              "attivi": {
+                "totali": 749,
+                "operatori_sanitari": 145,
+                "sintomatici": 219,
+                "asintomatici": 530
+              }
+            },
+            "fermo": {
+              "totali": 2191,
+              "attivi": {
+                "totali": 176,
+                "operatori_sanitari": 21,
+                "sintomatici": 70,
+                "asintomatici": 106
+              }
+            },
+            "ascoli_piceno": {
+              "totali": 1521,
+              "attivi": {
+                "totali": 136,
+                "operatori_sanitari": 14,
+                "sintomatici": 32,
+                "asintomatici": 104
+              }
+            }
+          }
+        }
+      },
+      "decessi": {
+        "totali": {
+          "decessi": 984,
+          "sesso": {
+            "maschio": 590,
+            "femmina": 394
+          },
+          "provincia": {
+            "pesaro_urbino": 521,
+            "ancona": 214,
+            "macerata": 162,
+            "fermo": 66,
+            "ascoli_piceno": 13,
+            "extra_regione": 8
+          }
+        },
+        "odierni": {
+          "decessi": 2,
+          "dettaglio": [
+            {
+              "id": 983,
+              "luogo_decesso": "CIVITANOVA MARCHE",
+              "sesso": "M",
+              "eta": 91,
+              "comune_domicilio": "RECANATI",
+              "provincia_domicilio": "MC",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 984,
+              "luogo_decesso": "AORMN PESARO",
+              "sesso": "F",
+              "eta": 84,
+              "comune_domicilio": "PIANDIMELETO",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
+            }
+          ]
+        }
+      }
     }
   ]
 }
