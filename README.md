@@ -84,7 +84,6 @@ Nella cartella [notebook](notebook) sono presenti 3 Jupyter Notebook nei quali s
 - I report *gialli* iniziano dal 5 Marzo 2020.
 
 ### Errori e refusi
-- Il report *giallo* del 19 Maggio 2020 corregge una imprecisione dei giorni precedenti, quando per errore erano stati inseriti pazienti appartenenti al percorso sierologico alle nuove diagnosi. Si tratta quindi di persone positive al test sierologico ma negative al tampone.
 - I report *gialli* del 08, 09, 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
 - I report *blu* del 13, 14, 15, 16, 17, 18, 19 e 23 Marzo 2020 riportano errori sul numero di casi positivi e di casi diagnosticati che si ripercuotono anche sul calcolo aggregato di questi valori. Effettuando però un controllo incrociato con i report dei giorni successivi sono stati corretti.
 - I report *gialli* del 07, 08, 15, 16, 17, 19 e 23 Marzo 2020 riportano incongruenze tra il numero di casi positivi (corretto) ed il numero dei malati. Nel dettaglio i report del 15, 16 e 17 Marzo hanno un malato in meno, quello del 07 Marzo ha 7 malati in meno mentre quello del 08, 19 e 23 Marzo ne considerano rispettivamente 6, 18 e 2 in eccesso.

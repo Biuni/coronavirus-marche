@@ -24551,20 +24551,20 @@
         "totali": {
           "test_effettuati": 89085,
           "casi_diagnosticati": 55988,
-          "casi_positivi": 6678
+          "casi_positivi": 6671
         },
         "odierni": {
           "test_effettuati": 429,
           "casi_diagnosticati": 321,
-          "casi_positivi": 11
+          "casi_positivi": 4
         }
       },
       "malati": {
         "totali": {
-          "persone": 6678,
+          "persone": 6671,
           "provincia": {
             "pesaro_urbino": 2731,
-            "ancona": 1867,
+            "ancona": 1860,
             "macerata": 1105,
             "fermo": 458,
             "ascoli_piceno": 290,
@@ -24763,7 +24763,7 @@
         "odierni": {
           "test_effettuati": 900,
           "casi_diagnosticati": 680,
-          "casi_positivi": 5
+          "casi_positivi": 4
         }
       },
       "malati": {
