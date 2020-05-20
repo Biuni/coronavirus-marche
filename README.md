@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati aggiornati al 19/05/2020</i> 📅
+📅 <i>Dati aggiornati al 20/05/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
@@ -63,6 +63,7 @@ Nella cartella [notebook](notebook) sono presenti 3 Jupyter Notebook nei quali s
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - Dal 08 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - Dal 04 Aprile 2020 vengono conteggiati insieme i pazienti dimessi dalle strutture ospedaliere ed i pazienti risultati negativi al doppio tampone (per allinearsi ai dati trasmessi dalle altre regioni). Quindi, fino al 03 Aprile 2020 il valore del campo "dimessi_guariti" corrisponde ai soli pazienti risultati negativi al doppio tampone.
+- Nel report *giallo* del 20 Maggio 2020 è stato ricalcolato il numero totale di tamponi effettuati, di conseguenza il dato sui tompani totali odierni effettuati relativo allo stesso report risulta incorretto.
 - Dal 13 Maggio 2020 nel report *giallo* è stata aggiunta Macerata LD come degenza post critica. Per non creare confusione, essendo pazienti locati nella provincia di Macerata, il dato verrà sommato a Villa dei Pini.
 - Dal 04 Maggio 2020 nel report *giallo* è stata aggiunta Villa Fastiggi come degenza post critica. Per non creare confusione, essendo pazienti locati nella zona Marche Nord, il dato verrà sommato alla RSA Galantara.
 - Dal 30 Aprile 2020 nel report *giallo* le degenze post critiche sono state divise tra: degenze post critiche acute o meno. Nel conteggio vengono comunque considerate insieme sotto la categoria post critiche.
