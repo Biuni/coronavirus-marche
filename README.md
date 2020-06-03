@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://www.regione.marche.it/Portals/0/Images/LogoSmall.png" alt="Regione Marche"/>
+  <img src="https://i.postimg.cc/MKVMMyxp/Logo-Small.png" alt="Regione Marche"/>
 </p>
 
 <p align="center">
-📅 <i>Dati aggiornati al 02/06/2020</i> 📅
+📅 <i>Dati aggiornati al 03/06/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
