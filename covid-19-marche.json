@@ -29228,6 +29228,204 @@
           "dettaglio": []
         }
       }
+    },
+    {
+      "data": "06-11-2020",
+      "file_pdf": {
+        "locale": {
+          "blu": "./data/PDF/GORES_Blu/06-11-2020.pdf",
+          "giallo": "./data/PDF/GORES_Giallo/06-11-2020.pdf",
+          "arancio": "./data/PDF/GORES_Arancio/06-11-2020.pdf"
+        },
+        "online": {
+          "blu": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Goresblu11062020.pdf",
+          "giallo": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Goresgiallo11062020.pdf",
+          "arancio": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GoresArancio11062020%20ore%2018.pdf"
+        }
+      },
+      "tamponi": {
+        "totali": {
+          "test_effettuati": 117720,
+          "casi_diagnosticati": 71531,
+          "casi_positivi": 6751
+        },
+        "odierni": {
+          "test_effettuati": 1400,
+          "casi_diagnosticati": 694,
+          "casi_positivi": 1
+        }
+      },
+      "malati": {
+        "totali": {
+          "persone": 6751,
+          "provincia": {
+            "pesaro_urbino": 2754,
+            "ancona": 1873,
+            "macerata": 1129,
+            "fermo": 470,
+            "ascoli_piceno": 290,
+            "extra_regione": 235
+          }
+        },
+        "dimessi_guariti": 4857,
+        "attivi": {
+          "persone": 902,
+          "isolamento_domiciliare": 876,
+          "ricoverati": {
+            "totali": 26,
+            "terapia_intensiva": {
+              "totali": 0,
+              "strutture": {
+                "AO_Marche_Nord": 0,
+                "AO_Ancona_Torrette": 0,
+                "Senigallia": 0,
+                "Fermo": 0,
+                "Civitanova": 0,
+                "Jesi": 0,
+                "Urbino": 0,
+                "Camerino": 0,
+                "San_Benedetto_dT": 0,
+                "Macerata": 0,
+                "INRCA_Ancona": 0
+              }
+            },
+            "semi_intensiva": {
+              "totali": 1,
+              "strutture": {
+                "Civitanova": 0,
+                "Camerino": 0,
+                "San_Benedetto_dT": 0,
+                "Jesi": 0,
+                "Macerata": 0,
+                "Urbino": 0,
+                "Senigallia": 0,
+                "Fermo": 0,
+                "AO_Marche_Nord": 0,
+                "AO_Ancona_Torrette": 1,
+                "Villa_Pini": 0
+              }
+            },
+            "post_critica": {
+              "totali": 76,
+              "strutture": {
+                "Chiaravalle": 3,
+                "Galantara": 19,
+                "Fossombrone": 0,
+                "Villa_Pini": 6,
+                "RSA_Campofilone": 40,
+                "AO_Ancona_Torrette": 0,
+                "INRCA_Fermo": 8,
+                "OspedaleDaCampo_Jesi": 0
+              }
+            },
+            "non_intensiva": {
+              "totali": 11,
+              "strutture": {
+                "Fermo": 4,
+                "Jesi": 0,
+                "Urbino": 0,
+                "Macerata": 5,
+                "Senigallia": 0,
+                "Fabriano": 0,
+                "Camerino": 0,
+                "Civitanova": 0,
+                "San_Benedetto_dT": 0,
+                "INRCA_Ancona": 0,
+                "AO_Marche_Nord": 2,
+                "AO_Ancona_Torrette": 0,
+                "Villa_Pini": 0
+              }
+            }
+          }
+        },
+        "quarantena_domiciliare": {
+          "totali": 34939,
+          "attivi": {
+            "totali": 1209,
+            "operatori_sanitari": 102,
+            "sintomatici": 404,
+            "asintomatici": 805
+          },
+          "provincia": {
+            "pesaro_urbino": {
+              "totali": 16624,
+              "attivi": {
+                "totali": 606,
+                "operatori_sanitari": 48,
+                "sintomatici": 268,
+                "asintomatici": 338
+              }
+            },
+            "ancona": {
+              "totali": 10362,
+              "attivi": {
+                "totali": 257,
+                "operatori_sanitari": 26,
+                "sintomatici": 52,
+                "asintomatici": 205
+              }
+            },
+            "macerata": {
+              "totali": 4011,
+              "attivi": {
+                "totali": 265,
+                "operatori_sanitari": 26,
+                "sintomatici": 62,
+                "asintomatici": 203
+              }
+            },
+            "fermo": {
+              "totali": 2340,
+              "attivi": {
+                "totali": 59,
+                "operatori_sanitari": 1,
+                "sintomatici": 17,
+                "asintomatici": 42
+              }
+            },
+            "ascoli_piceno": {
+              "totali": 1602,
+              "attivi": {
+                "totali": 22,
+                "operatori_sanitari": 1,
+                "sintomatici": 5,
+                "asintomatici": 17
+              }
+            }
+          }
+        }
+      },
+      "decessi": {
+        "totali": {
+          "decessi": 993,
+          "sesso": {
+            "maschio": 594,
+            "femmina": 399
+          },
+          "provincia": {
+            "pesaro_urbino": 526,
+            "ancona": 215,
+            "macerata": 166,
+            "fermo": 65,
+            "ascoli_piceno": 13,
+            "extra_regione": 8
+          }
+        },
+        "odierni": {
+          "decessi": 1,
+          "dettaglio": [
+            {
+              "id": 1004,
+              "luogo_decesso": "AORMN PESARO",
+              "sesso": "M",
+              "eta": 79,
+              "comune_domicilio": "PERGOLA",
+              "provincia_domicilio": "PU",
+              "pregresse_patologie": 1
+            }
+          ]
+        }
+      }
     }
   ]
 }
