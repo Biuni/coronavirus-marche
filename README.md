@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati aggiornati al 21/06/2020</i> 📅
+📅 <i>Dati aggiornati al 22/06/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
@@ -63,6 +63,8 @@ Nella cartella [notebook](notebook) sono presenti 3 Jupyter Notebook nei quali s
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - Dal 08 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - Dal 04 Aprile 2020 vengono conteggiati insieme i pazienti dimessi dalle strutture ospedaliere ed i pazienti risultati negativi al doppio tampone (per allinearsi ai dati trasmessi dalle altre regioni). Quindi, fino al 03 Aprile 2020 il valore del campo "dimessi_guariti" corrisponde ai soli pazienti risultati negativi al doppio tampone.
+- Nel report *giallo* del 22 Giugno 2020 c'è un errore nel calcolo dei casi odierni diagnosticati. Di conseguenza, questo valore risulta erronemanete superiore al numero di test effettuali nella stessa giornata.
+- Dal 21 Giugno 2020 è stato avviato uno screening dell'Hotel House di Porto Recanati. I dati riguardanti tamponi e malati risultanti da queste analisi, sono state aggregate sotto la provincia di Macerata.
 - Nel report *giallo* del 04 Giugno 2020 è stato ricalcolato il numero totale di tamponi effettuati, di conseguenza il dato sui tompani totali odierni effettuati relativo allo stesso report risulta incongruente.
 - Nel report *arancio* del 29 Maggio 2020 è stato ricalcolato il numero totale di decessi. Infatti, 11 persone precedentemente segnalate, da una prima revisione, non risultano classificabili come COVID-19 positivi. Non avendo però a disposizione i dettagli di tali persone, verranno aggiornati solo i valori associati ai decessi totali e quelli divisi per provincia.
 - Nel report *giallo* del 20 Maggio 2020 è stato ricalcolato il numero totale di tamponi effettuati, di conseguenza il dato sui tompani totali odierni effettuati relativo allo stesso report risulta incorretto.
