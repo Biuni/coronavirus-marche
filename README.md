@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati aggiornati al 22/06/2020</i> 📅
+📅 <i>Dati aggiornati al 23/06/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
@@ -63,7 +63,6 @@ Nella cartella [notebook](notebook) sono presenti 3 Jupyter Notebook nei quali s
 - Dal 15 Aprile 2020 vengono conteggiati anche i "test_effettuati". Questo valore corrisponde al totale dei tamponi eseguiti, compresi anche i test ripetuti più volte sulla stessa persona.
 - Dal 08 Aprile 2020 viene conteggiato anche il totale dei casi e contatti in isolamento domiciliare dall'inizio dell'epidemia.
 - Dal 04 Aprile 2020 vengono conteggiati insieme i pazienti dimessi dalle strutture ospedaliere ed i pazienti risultati negativi al doppio tampone (per allinearsi ai dati trasmessi dalle altre regioni). Quindi, fino al 03 Aprile 2020 il valore del campo "dimessi_guariti" corrisponde ai soli pazienti risultati negativi al doppio tampone.
-- Nel report *giallo* del 22 Giugno 2020 c'è un errore nel calcolo dei casi odierni diagnosticati. Di conseguenza, questo valore risulta erronemanete superiore al numero di test effettuali nella stessa giornata.
 - Dal 21 Giugno 2020 è stato avviato uno screening dell'Hotel House di Porto Recanati. I dati riguardanti tamponi e malati risultanti da queste analisi, sono state aggregate sotto la provincia di Macerata.
 - Nel report *giallo* del 04 Giugno 2020 è stato ricalcolato il numero totale di tamponi effettuati, di conseguenza il dato sui tompani totali odierni effettuati relativo allo stesso report risulta incongruente.
 - Nel report *arancio* del 29 Maggio 2020 è stato ricalcolato il numero totale di decessi. Infatti, 11 persone precedentemente segnalate, da una prima revisione, non risultano classificabili come COVID-19 positivi. Non avendo però a disposizione i dettagli di tali persone, verranno aggiornati solo i valori associati ai decessi totali e quelli divisi per provincia.
@@ -89,6 +88,7 @@ Nella cartella [notebook](notebook) sono presenti 3 Jupyter Notebook nei quali s
 - I report *gialli* iniziano dal 5 Marzo 2020.
 
 ### Errori e refusi
+- Nel report *giallo* del 22 Giugno 2020 c'è un errore nel calcolo dei casi odierni diagnosticati. Di conseguenza, questo valore risulta erronemanete superiore al numero di test effettuali nella stessa giornata.
 - I report *gialli* del 08, 09, 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
 - I report *blu* del 13, 14, 15, 16, 17, 18, 19 e 23 Marzo 2020 riportano errori sul numero di casi positivi e di casi diagnosticati che si ripercuotono anche sul calcolo aggregato di questi valori. Effettuando però un controllo incrociato con i report dei giorni successivi sono stati corretti.
 - I report *gialli* del 07, 08, 15, 16, 17, 19 e 23 Marzo 2020 riportano incongruenze tra il numero di casi positivi (corretto) ed il numero dei malati. Nel dettaglio i report del 15, 16 e 17 Marzo hanno un malato in meno, quello del 07 Marzo ha 7 malati in meno mentre quello del 08, 19 e 23 Marzo ne considerano rispettivamente 6, 18 e 2 in eccesso.
