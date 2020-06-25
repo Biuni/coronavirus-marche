@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati aggiornati al 23/06/2020</i> 📅
+📅 <i>Dati aggiornati al 24/06/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
@@ -88,6 +88,7 @@ Nella cartella [notebook](notebook) sono presenti 3 Jupyter Notebook nei quali s
 - I report *gialli* iniziano dal 5 Marzo 2020.
 
 ### Errori e refusi
+- Nel report *blu* del 24 Giugno 2020 è segnalato un caso positivo in più perché risultato negativo al retest.
 - Nel report *giallo* del 22 Giugno 2020 c'è un errore nel calcolo dei casi odierni diagnosticati. Di conseguenza, questo valore risulta erronemanete superiore al numero di test effettuali nella stessa giornata.
 - I report *gialli* del 08, 09, 10, 11, 13, 14 e 15 Aprile 2020, nella tabella "casi e contatti in isolamento domiciliare" sulla colonna "dall'inizio dell'epidemia ad oggi", invertono i valori delle provincie di Pesaro Urbino ed Ancona.
 - I report *blu* del 13, 14, 15, 16, 17, 18, 19 e 23 Marzo 2020 riportano errori sul numero di casi positivi e di casi diagnosticati che si ripercuotono anche sul calcolo aggregato di questi valori. Effettuando però un controllo incrociato con i report dei giorni successivi sono stati corretti.
