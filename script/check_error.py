@@ -192,7 +192,7 @@ def static_test():
         # La somma dei decessi odierni e del totale dei decessi di ieri deve
         # essere uguale al totale dei decessi di oggi.
         if (value['decessi']['totali']['decessi'] != prec_3 + value['decessi']
-                ['odierni']['decessi']) and (value['data'] != '05-29-2020') and (value['data'] != '06-25-2020'):
+                ['odierni']['decessi']) and (value['data'] != '05-29-2020') and (value['data'] != '06-25-2020') and (value['data'] != '07-01-2020'):
             error = True
             print('\nFile: %s.json' % value['data'], '=>', print_error(15))
         prec_3 = value['decessi']['totali']['decessi']
