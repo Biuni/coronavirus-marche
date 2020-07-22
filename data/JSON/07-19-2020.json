@@ -1,47 +1,47 @@
 {
-    "data": "07-17-2020",
+    "data": "07-19-2020",
     "file_pdf": {
         "locale": {
-            "blu": "./data/PDF/GORES_Blu/07-17-2020.pdf",
-            "giallo": "./data/PDF/GORES_Giallo/07-17-2020.pdf",
-            "arancio": "./data/PDF/GORES_Arancio/07-17-2020.pdf"
+            "blu": "./data/PDF/GORES_Blu/07-19-2020.pdf",
+            "giallo": "./data/PDF/GORES_Giallo/07-19-2020.pdf",
+            "arancio": "./data/PDF/GORES_Arancio/07-19-2020.pdf"
         },
         "online": {
-            "blu": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORES%20BLU%2017072020%20ore%209.pdf",
-            "giallo": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20gialla%2017072020%20ore%2012.pdf",
-            "arancio": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20arancio%2017072020%20ore%2018.pdf"
+            "blu": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORES%20BLU%2019072020%20ore%209.pdf",
+            "giallo": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORESgiallo19072020.pdf",
+            "arancio": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20arancio%2019072020%20ore%2018.pdf"
         }
     },
     "tamponi": {
         "totali": {
-            "test_effettuati": 153879,
-            "casi_diagnosticati": 92653,
-            "casi_positivi": 6808
+            "test_effettuati": 155851,
+            "casi_diagnosticati": 93692,
+            "casi_positivi": 6811
         },
         "odierni": {
-            "test_effettuati": 1031,
-            "casi_diagnosticati": 454,
-            "casi_positivi": 2
+            "test_effettuati": 964,
+            "casi_diagnosticati": 497,
+            "casi_positivi": 0
         }
     },
     "malati": {
         "totali": {
-            "persone": 6808,
+            "persone": 6811,
             "provincia": {
-                "pesaro_urbino": 2767,
-                "ancona": 1879,
+                "pesaro_urbino": 2768,
+                "ancona": 1880,
                 "macerata": 1158,
-                "fermo": 473,
+                "fermo": 474,
                 "ascoli_piceno": 294,
                 "extra_regione": 237
             }
         },
-        "dimessi_guariti": 5667,
+        "dimessi_guariti": 5674,
         "attivi": {
-            "persone": 155,
-            "isolamento_domiciliare": 151,
+            "persone": 150,
+            "isolamento_domiciliare": 147,
             "ricoverati": {
-                "totali": 4,
+                "totali": 3,
                 "terapia_intensiva": {
                     "totali": 1,
                     "strutture": {
@@ -88,12 +88,12 @@
                     }
                 },
                 "non_intensiva": {
-                    "totali": 3,
+                    "totali": 2,
                     "strutture": {
                         "Fermo": 0,
                         "Jesi": 0,
                         "Urbino": 0,
-                        "Macerata": 3,
+                        "Macerata": 2,
                         "Senigallia": 0,
                         "Fabriano": 0,
                         "Camerino": 0,
@@ -108,57 +108,57 @@
             }
         },
         "quarantena_domiciliare": {
-            "totali": 37744,
+            "totali": 37865,
             "attivi": {
-                "totali": 551,
-                "operatori_sanitari": 9,
-                "sintomatici": 61,
-                "asintomatici": 490
+                "totali": 582,
+                "operatori_sanitari": 26,
+                "sintomatici": 62,
+                "asintomatici": 520
             },
             "provincia": {
                 "pesaro_urbino": {
-                    "totali": 18300,
+                    "totali": 18330,
                     "attivi": {
-                        "totali": 182,
-                        "operatori_sanitari": 5,
-                        "sintomatici": 43,
-                        "asintomatici": 139
+                        "totali": 174,
+                        "operatori_sanitari": 4,
+                        "sintomatici": 46,
+                        "asintomatici": 128
                     }
                 },
                 "ancona": {
-                    "totali": 11045,
+                    "totali": 11099,
                     "attivi": {
-                        "totali": 178,
-                        "operatori_sanitari": 2,
-                        "sintomatici": 8,
-                        "asintomatici": 170
+                        "totali": 214,
+                        "operatori_sanitari": 20,
+                        "sintomatici": 9,
+                        "asintomatici": 205
                     }
                 },
                 "macerata": {
-                    "totali": 4268,
+                    "totali": 4279,
                     "attivi": {
-                        "totali": 116,
+                        "totali": 101,
                         "operatori_sanitari": 1,
-                        "sintomatici": 8,
-                        "asintomatici": 108
+                        "sintomatici": 6,
+                        "asintomatici": 95
                     }
                 },
                 "fermo": {
-                    "totali": 2425,
+                    "totali": 2441,
                     "attivi": {
-                        "totali": 32,
+                        "totali": 42,
                         "operatori_sanitari": 0,
-                        "sintomatici": 1,
-                        "asintomatici": 31
+                        "sintomatici": 0,
+                        "asintomatici": 42
                     }
                 },
                 "ascoli_piceno": {
-                    "totali": 1706,
+                    "totali": 1716,
                     "attivi": {
-                        "totali": 43,
+                        "totali": 51,
                         "operatori_sanitari": 1,
                         "sintomatici": 1,
-                        "asintomatici": 42
+                        "asintomatici": 50
                     }
                 }
             }
