@@ -14,7 +14,7 @@ def generate(out=True):
 
     with open('../covid-19-marche.json', 'w') as outfile:
         json.dump(data, outfile, indent=2)
-        print('\n\033[92m- File "covid-19-marche.csv" generato!\033[0m') if out else None
+        print('\n\033[92m- File "covid-19-marche.json" generato!\033[0m') if out else None
 
 
 if __name__ == '__main__':
