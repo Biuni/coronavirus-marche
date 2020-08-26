@@ -12,6 +12,7 @@ class bcolors:
 
 
 gores_blu = (
+    ("08-25-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORES%20BLU%2025082020%20ore%209%20revAS.pdf"),
     ("08-24-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORES%20BLU%2024082020%20ore%209%20revAS.pdf"),
     ("08-23-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORES%20BLU%2023082020%20ore%209%20revAS.pdf"),
     ("08-22-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/GORES%20BLU%2022082020%20ore%209%20revAS.pdf"),
@@ -181,6 +182,7 @@ gores_blu = (
 )
 
 gores_giallo = (
+    ("08-25-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20gialla%2025082020%20ore%2012.pdf"),
     ("08-24-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20gialla%2024082020%20ore%2012.pdf"),
     ("08-23-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20gialla%2023082020%20ore%2012.pdf"),
     ("08-22-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20gialla%2022082020%20ore%2012.pdf"),
@@ -357,6 +359,7 @@ gores_giallo = (
 )
 
 gores_arancio = (
+    ("08-25-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20arancio%2025082020%20ore%2018.pdf"),
     ("08-24-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20arancio%2024082020%20ore%2018.pdf"),
     ("08-23-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20arancio%2023082020%20ore%2018.pdf"),
     ("08-22-2020.pdf", "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gores%20arancio%2022082020%20ore%2018.pdf"),
