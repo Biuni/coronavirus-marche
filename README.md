@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-📅 <i>Dati aggiornati al 13/10/2020</i> 📅
+📅 <i>Dati aggiornati al 14/10/2020</i> 📅
 </p>
 
 # 🧪 Regione Marche - Dati COVID-19 in CSV e JSON
