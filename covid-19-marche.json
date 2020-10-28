@@ -55377,6 +55377,213 @@
           ]
         }
       }
+    },
+    {
+      "data": "10-27-2020",
+      "file_pdf": {
+        "locale": {
+          "blu": "./data/PDF/GORES_Blu/10-27-2020.pdf",
+          "giallo": "./data/PDF/GORES_Giallo/10-27-2020.pdf",
+          "arancio": "./data/PDF/GORES_Arancio/10-27-2020.pdf"
+        },
+        "online": {
+          "blu": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/BLU%2027102020%20ore%209%20revAS.pdf",
+          "giallo": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gialla%2027102020%20ore%2012.pdf",
+          "arancio": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Arancio%2027102020%20ore%2018.pdf"
+        }
+      },
+      "tamponi": {
+        "totali": {
+          "test_effettuati": 307045,
+          "casi_diagnosticati": 179841,
+          "casi_positivi": 12058
+        },
+        "odierni": {
+          "test_effettuati": 2705,
+          "casi_diagnosticati": 1528,
+          "casi_positivi": 380
+        }
+      },
+      "malati": {
+        "totali": {
+          "persone": 12058,
+          "provincia": {
+            "pesaro_urbino": 3524,
+            "ancona": 3265,
+            "macerata": 2306,
+            "fermo": 1132,
+            "ascoli_piceno": 1417,
+            "extra_regione": 414
+          }
+        },
+        "dimessi_guariti": 6827,
+        "attivi": {
+          "persone": 4225,
+          "isolamento_domiciliare": 3947,
+          "ricoverati": {
+            "totali": 278,
+            "terapia_intensiva": {
+              "totali": 28,
+              "strutture": {
+                "AO_Marche_Nord": 6,
+                "AO_Ancona_Torrette": 17,
+                "Senigallia": 0,
+                "Fermo": 0,
+                "Civitanova": 0,
+                "Jesi": 0,
+                "Urbino": 0,
+                "Camerino": 0,
+                "San_Benedetto_dT": 5,
+                "Macerata": 0,
+                "INRCA_Ancona": 0
+              }
+            },
+            "semi_intensiva": {
+              "totali": 30,
+              "strutture": {
+                "Civitanova": 0,
+                "Camerino": 0,
+                "San_Benedetto_dT": 1,
+                "Jesi": 0,
+                "Macerata": 0,
+                "Urbino": 0,
+                "Senigallia": 0,
+                "Fermo": 0,
+                "AO_Marche_Nord": 19,
+                "AO_Ancona_Torrette": 10,
+                "Villa_Pini": 0
+              }
+            },
+            "post_critica": {
+              "totali": 55,
+              "strutture": {
+                "Chiaravalle": 3,
+                "Galantara": 4,
+                "Fossombrone": 0,
+                "Villa_Pini": 0,
+                "RSA_Campofilone": 48,
+                "AO_Ancona_Torrette": 0,
+                "INRCA_Fermo": 0,
+                "OspedaleDaCampo_Jesi": 0
+              }
+            },
+            "non_intensiva": {
+              "totali": 220,
+              "strutture": {
+                "Fermo": 30,
+                "Jesi": 28,
+                "Urbino": 0,
+                "Macerata": 24,
+                "Senigallia": 6,
+                "Fabriano": 0,
+                "Camerino": 0,
+                "Civitanova": 11,
+                "San_Benedetto_dT": 30,
+                "INRCA_Ancona": 17,
+                "AO_Marche_Nord": 19,
+                "AO_Ancona_Torrette": 55,
+                "Villa_Pini": 0
+              }
+            }
+          }
+        },
+        "quarantena_domiciliare": {
+          "totali": 68571,
+          "attivi": {
+            "totali": 8428,
+            "operatori_sanitari": 295,
+            "sintomatici": 1329,
+            "asintomatici": 7099
+          },
+          "provincia": {
+            "pesaro_urbino": {
+              "totali": 28166,
+              "attivi": {
+                "totali": 1591,
+                "operatori_sanitari": 52,
+                "sintomatici": 301,
+                "asintomatici": 1290
+              }
+            },
+            "ancona": {
+              "totali": 19778,
+              "attivi": {
+                "totali": 3073,
+                "operatori_sanitari": 130,
+                "sintomatici": 302,
+                "asintomatici": 2771
+              }
+            },
+            "macerata": {
+              "totali": 9439,
+              "attivi": {
+                "totali": 1948,
+                "operatori_sanitari": 60,
+                "sintomatici": 332,
+                "asintomatici": 1616
+              }
+            },
+            "fermo": {
+              "totali": 5508,
+              "attivi": {
+                "totali": 887,
+                "operatori_sanitari": 17,
+                "sintomatici": 160,
+                "asintomatici": 727
+              }
+            },
+            "ascoli_piceno": {
+              "totali": 5680,
+              "attivi": {
+                "totali": 929,
+                "operatori_sanitari": 36,
+                "sintomatici": 234,
+                "asintomatici": 695
+              }
+            }
+          }
+        }
+      },
+      "decessi": {
+        "totali": {
+          "decessi": 1008,
+          "sesso": {
+            "maschio": 601,
+            "femmina": 407
+          },
+          "provincia": {
+            "pesaro_urbino": 524,
+            "ancona": 216,
+            "macerata": 165,
+            "fermo": 68,
+            "ascoli_piceno": 26,
+            "extra_regione": 9
+          }
+        },
+        "odierni": {
+          "decessi": 2,
+          "dettaglio": [
+            {
+              "id": 1025,
+              "luogo_decesso": "OSPEDALE ASCOLI PICENO",
+              "sesso": "M",
+              "eta": 61,
+              "comune_domicilio": "MALTIGNANO",
+              "provincia_domicilio": "AP",
+              "pregresse_patologie": 1
+            },
+            {
+              "id": 1026,
+              "luogo_decesso": "CIVITANOVA MARCHE",
+              "sesso": "M",
+              "eta": 70,
+              "comune_domicilio": "PORTO SAN GIORGIO",
+              "provincia_domicilio": "FM",
+              "pregresse_patologie": 1
+            }
+          ]
+        }
+      }
     }
   ]
 }
