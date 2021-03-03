@@ -2,6 +2,7 @@ import glob
 import json
 
 JSONfiles = glob.glob('../data/JSON/*.json')
+JSONfiles.sort()
 
 data = {}
 data['report'] = []

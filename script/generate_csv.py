@@ -5,6 +5,7 @@ import glob
 import csv
 
 JSONfiles = glob.glob('../data/JSON/*.json')
+JSONfiles.sort()
 
 
 def _object_to_rows(obj, prefix=None):
