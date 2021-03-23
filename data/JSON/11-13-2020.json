@@ -184,7 +184,7 @@
             "decessi": 8,
             "dettaglio": [
               {
-                "id": 1103,
+                "id": 1113,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 82,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1104,
+                "id": 1114,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "F",
                 "eta": 81,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1105,
+                "id": 1115,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 51,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 0
               },
 {
-                "id": 1106,
+                "id": 1116,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 71,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1107,
+                "id": 1117,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 77,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1108,
+                "id": 1118,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "F",
                 "eta": 90,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1109,
+                "id": 1119,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "M",
                 "eta": 92,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1110,
+                "id": 1120,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "F",
                 "eta": 79,

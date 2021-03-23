@@ -184,7 +184,7 @@
             "decessi": 6,
             "dettaglio": [
               {
-                "id": 1029,
+                "id": 1032,
                 "luogo_decesso": "OSP. ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 83,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
             {
-                "id": 1030,
+                "id": 1033,
                 "luogo_decesso": "OSP. ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 74,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1031,
+                "id": 1034,
                 "luogo_decesso": "OSP. SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 76,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1032,
+                "id": 1035,
                 "luogo_decesso": "OSP. SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 86,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1033,
+                "id": 1036,
                 "luogo_decesso": "OSP. SENIGALLIA",
                 "sesso": "M",
                 "eta": 87,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1033,
+                "id": 1037,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 85,

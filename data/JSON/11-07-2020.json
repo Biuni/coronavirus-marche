@@ -184,7 +184,7 @@
             "decessi": 5,
             "dettaglio": [
               {
-                "id": 1054,
+                "id": 1064,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 77,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1055,
+                "id": 1065,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 90,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1056,
+                "id": 1066,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "M",
                 "eta": 79,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1057,
+                "id": 1067,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "M",
                 "eta": 91,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1058,
+                "id": 1068,
                 "luogo_decesso": "DOMICILIO",
                 "sesso": "M",
                 "eta": 87,

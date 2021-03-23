@@ -184,7 +184,7 @@
             "decessi": 9,
             "dettaglio": [
               {
-                "id": 1298,
+                "id": 1308,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 82,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1299,
+                "id": 1309,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 87,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1300,
+                "id": 1310,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 76,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1301,
+                "id": 1311,
                 "luogo_decesso": "CAMERINO",
                 "sesso": "M",
                 "eta": 88,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1302,
+                "id": 1312,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "M",
                 "eta": 81,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1303,
+                "id": 1313,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 84,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1304,
+                "id": 1314,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 77,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1305,
+                "id": 1315,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 99,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1306,
+                "id": 1316,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 81,

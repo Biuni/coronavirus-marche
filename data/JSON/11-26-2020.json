@@ -184,7 +184,7 @@
             "decessi": 9,
             "dettaglio": [
               {
-                "id": 1230,
+                "id": 1234,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 79,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1231,
+                "id": 1241,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 83,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1232,
+                "id": 1242,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 77,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1233,
+                "id": 1243,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "F",
                 "eta": 79,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1234,
+                "id": 1244,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 90,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1235,
+                "id": 1245,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 72,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1236,
+                "id": 1246,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 92,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1237,
+                "id": 1247,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 78,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1238,
+                "id": 1248,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 64,

@@ -184,7 +184,7 @@
             "decessi": 7,
             "dettaglio": [
               {
-                "id": 1059,
+                "id": 1069,
                 "luogo_decesso": "FABRIANO",
                 "sesso": "F",
                 "eta": 87,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1060,
+                "id": 1070,
                 "luogo_decesso": "RSA GALANTARA PESARO",
                 "sesso": "M",
                 "eta": 81,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1061,
+                "id": 1071,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "F",
                 "eta": 88,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1062,
+                "id": 1072,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 79,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1063,
+                "id": 1073,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 66,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1064,
+                "id": 1074,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 87,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1065,
+                "id": 1075,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 74,

@@ -184,7 +184,7 @@
             "decessi": 10,
             "dettaglio": [
               {
-                "id": 1220,
+                "id": 1230,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 79,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1221,
+                "id": 1231,
                 "luogo_decesso": "JESI",
                 "sesso": "M",
                 "eta": 95,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1222,
+                "id": 1232,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 82,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1223,
+                "id": 1233,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 79,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1224,
+                "id": 1234,
                 "luogo_decesso": "FERMO",
                 "sesso": "F",
                 "eta": 69,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1225,
+                "id": 1235,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 80,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1226,
+                "id": 1236,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "F",
                 "eta": 69,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1227,
+                "id": 1237,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 72,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1228,
+                "id": 1238,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 88,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1229,
+                "id": 1239,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 50,

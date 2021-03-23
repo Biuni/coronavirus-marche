@@ -184,7 +184,7 @@
             "decessi": 7,
             "dettaglio": [
               {
-                "id": 1170,
+                "id": 1180,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 92,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1171,
+                "id": 1181,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 88,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1172,
+                "id": 1182,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 94,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1173,
+                "id": 1183,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 70,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1174,
+                "id": 1184,
                 "luogo_decesso": "FABRIANO",
                 "sesso": "F",
                 "eta": 87,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1175,
+                "id": 1185,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 76,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1176,
+                "id": 1186,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 80,

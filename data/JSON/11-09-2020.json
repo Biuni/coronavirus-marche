@@ -184,7 +184,7 @@
             "decessi": 10,
             "dettaglio": [
               {
-                "id": 1066,
+                "id": 1076,
                 "luogo_decesso": "FERMO",
                 "sesso": "F",
                 "eta": 81,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1067,
+                "id": 1077,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "M",
                 "eta": 80,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1068,
+                "id": 1078,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 92,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1069,
+                "id": 1079,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 84,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1070,
+                "id": 1080,
                 "luogo_decesso": "FABRIANO",
                 "sesso": "F",
                 "eta": 94,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1071,
+                "id": 1081,
                 "luogo_decesso": "FABRIANO",
                 "sesso": "F",
                 "eta": 91,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1072,
+                "id": 1082,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 81,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1073,
+                "id": 1083,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 56,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1074,
+                "id": 1084,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "F",
                 "eta": 70,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1075,
+                "id": 1085,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "M",
                 "eta": 86,

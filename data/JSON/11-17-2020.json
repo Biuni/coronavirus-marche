@@ -184,7 +184,7 @@
             "decessi": 9,
             "dettaglio": [
               {
-                "id": 1139,
+                "id": 1149,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "M",
                 "eta": 83,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 0
               },
 {
-                "id": 1140,
+                "id": 1150,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 86,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1141,
+                "id": 1151,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 85,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1142,
+                "id": 1152,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 71,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1143,
+                "id": 1153,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 75,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1144,
+                "id": 1154,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 80,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1145,
+                "id": 1155,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 75,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1146,
+                "id": 1156,
                 "luogo_decesso": "DOMICILIO",
                 "sesso": "F",
                 "eta": 93,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1147,
+                "id": 1157,
                 "luogo_decesso": "JESI",
                 "sesso": "M",
                 "eta": 85,

@@ -184,7 +184,7 @@
             "decessi": 11,
             "dettaglio": [
               {
-                "id": 1148,
+                "id": 1158,
                 "luogo_decesso": "RESIDENZA GALANTARA PESARO",
                 "sesso": "F",
                 "eta": 96,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1149,
+                "id": 1159,
                 "luogo_decesso": "RESIDENZA GALANTARA PESARO",
                 "sesso": "M",
                 "eta": 74,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1150,
+                "id": 1160,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 94,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1151,
+                "id": 1161,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 77,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1152,
+                "id": 1162,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 87,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1153,
+                "id": 1163,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 95,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 0
               },
 {
-                "id": 1154,
+                "id": 1164,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 95,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1155,
+                "id": 1165,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 81,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1156,
+                "id": 1166,
                 "luogo_decesso": "FABRIANO",
                 "sesso": "F",
                 "eta": 99,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1157,
+                "id": 1167,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "M",
                 "eta": 82,
@@ -274,7 +274,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1158,
+                "id": 1168,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "M",
                 "eta": 33,

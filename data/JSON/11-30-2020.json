@@ -184,7 +184,7 @@
             "decessi": 12,
             "dettaglio": [
               {
-                "id": 1273,
+                "id": 1283,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 78,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1274,
+                "id": 1284,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "M",
                 "eta": 92,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1275,
+                "id": 1285,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 84,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1276,
+                "id": 1286,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 92,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1277,
+                "id": 1287,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 94,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1278,
+                "id": 1288,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 81,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1279,
+                "id": 1289,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 78,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1280,
+                "id": 1290,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 87,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1281,
+                "id": 1291,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 89,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1282,
+                "id": 1292,
                 "luogo_decesso": "JESI",
                 "sesso": "M",
                 "eta": 87,
@@ -274,7 +274,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1283,
+                "id": 1293,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 87,
@@ -283,7 +283,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1284,
+                "id": 1294,
                 "luogo_decesso": "FERMO",
                 "sesso": "F",
                 "eta": 90,

@@ -184,7 +184,7 @@
             "decessi": 4,
             "dettaglio": [
               {
-                "id": 1036,
+                "id": 1040,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 87,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
             {
-                "id": 1037,
+                "id": 1041,
                 "luogo_decesso": "FABRIANO",
                 "sesso": "F",
                 "eta": 43,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1038,
+                "id": 1042,
                 "luogo_decesso": "FERMO",
                 "sesso": "F",
                 "eta": 93,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1038,
+                "id": 1043,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 86,

@@ -15,7 +15,7 @@
     "tamponi": {
         "totali": {
             "test_effettuati": 429447,
-            "casi_diagnosticati": 250652,
+            "casi_diagnosticati": 249693,
             "casi_positivi": 31950 
         },
         "odierni": {
@@ -184,7 +184,7 @@
             "decessi": 13,
             "dettaglio": [
               {
-                "id": 1323,
+                "id": 1333,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 79,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1324,
+                "id": 1334,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 80,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1325,
+                "id": 1335,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 94,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1326,
+                "id": 1336,
                 "luogo_decesso": "RESIDENZA GALANTARA PESARO",
                 "sesso": "M",
                 "eta": 73,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1327,
+                "id": 1337,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 59,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1328,
+                "id": 1338,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 83,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1329,
+                "id": 1339,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "F",
                 "eta": 85,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1330,
+                "id": 1340,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 92,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1331,
+                "id": 1341,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 70,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1332,
+                "id": 1342,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 94,
@@ -274,7 +274,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1333,
+                "id": 1343,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "M",
                 "eta": 80,
@@ -283,7 +283,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1334,
+                "id": 1344,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "M",
                 "eta": 88,
@@ -292,7 +292,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1335,
+                "id": 1345,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "F",
                 "eta": 99,

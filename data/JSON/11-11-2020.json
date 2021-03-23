@@ -184,7 +184,7 @@
             "decessi": 6,
             "dettaglio": [
               {
-                "id": 1086,
+                "id": 1096,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 83,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1087,
+                "id": 1097,
                 "luogo_decesso": "FABRIANO",
                 "sesso": "M",
                 "eta": 68,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1088,
+                "id": 1098,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 90,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1089,
+                "id": 1099,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "M",
                 "eta": 70,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1090,
+                "id": 1100,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "M",
                 "eta": 89,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1091,
+                "id": 1101,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "F",
                 "eta": 85,

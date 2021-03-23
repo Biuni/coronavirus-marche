@@ -184,7 +184,7 @@
             "decessi": 9,
             "dettaglio": [
               {
-                "id": 1373,
+                "id": 1383,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "F",
                 "eta": 76,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1374,
+                "id": 1384,
                 "luogo_decesso": "FERMO",
                 "sesso": "F",
                 "eta": 92,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1375,
+                "id": 1385,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 77,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1376,
+                "id": 1386,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 91,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1377,
+                "id": 1387,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 83,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1378,
+                "id": 1388,
                 "luogo_decesso": "RESIDENZA GALANTARA PESARO",
                 "sesso": "M",
                 "eta": 87,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1379,
+                "id": 1389,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 98,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1380,
+                "id": 1390,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 90,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1381,
+                "id": 1391,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 96,

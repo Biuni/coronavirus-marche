@@ -119,7 +119,7 @@
                 "pesaro_urbino": {
                     "totali": 29732, 
                     "attivi": {
-                        "totali": 1742,
+                        "totali": 1657,
                         "operatori_sanitari": 50,
                         "sintomatici": 405,
                         "asintomatici": 1252
@@ -184,7 +184,7 @@
             "decessi": 1,
             "dettaglio": [
               {
-                "id": 1040,
+                "id": 1050,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 85,

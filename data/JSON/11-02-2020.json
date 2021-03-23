@@ -184,7 +184,7 @@
             "decessi": 6,
             "dettaglio": [
               {
-                "id": 1039,
+                "id": 1044,
                 "luogo_decesso": "FABRIANO",
                 "sesso": "F",
                 "eta": 89,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
             {
-                "id": 1040,
+                "id": 1045,
                 "luogo_decesso": "SAN BENEDETTO DT",
                 "sesso": "F",
                 "eta": 82,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1041,
+                "id": 1046,
                 "luogo_decesso": "GALANTARA RSA",
                 "sesso": "M",
                 "eta": 68,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1042,
+                "id": 1047,
                 "luogo_decesso": "GALANTARA RSA",
                 "sesso": "F",
                 "eta": 92,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1043,
+                "id": 1048,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "F",
                 "eta": 91,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1044,
+                "id": 1049,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 88,

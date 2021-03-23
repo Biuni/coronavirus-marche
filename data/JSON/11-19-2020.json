@@ -184,7 +184,7 @@
             "decessi": 11,
             "dettaglio": [
               {
-                "id": 1159,
+                "id": 1169,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 78,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1160,
+                "id": 1170,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 86,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1161,
+                "id": 1171,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 80,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1162,
+                "id": 1172,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 91,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1163,
+                "id": 1173,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "F",
                 "eta": 66,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1164,
+                "id": 1174,
                 "luogo_decesso": "FERMO",
                 "sesso": "F",
                 "eta": 84,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1165,
+                "id": 1175,
                 "luogo_decesso": "JESI",
                 "sesso": "M",
                 "eta": 70,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1166,
+                "id": 1176,
                 "luogo_decesso": "JESI",
                 "sesso": "M",
                 "eta": 88,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1167,
+                "id": 1177,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 84,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1168,
+                "id": 1178,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "F",
                 "eta": 92,
@@ -274,7 +274,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1169,
+                "id": 1179,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 83,

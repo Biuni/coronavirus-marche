@@ -110,7 +110,7 @@
         "quarantena_domiciliare": {
             "totali": 133904,
             "attivi": {
-                "totali": 11462,
+                "totali": 12644,
                 "operatori_sanitari": 481,
                 "sintomatici": 3190,
                 "asintomatici": 9454
@@ -137,7 +137,7 @@
                 "macerata": {
                     "totali": 25303,
                     "attivi": {
-                        "totali": 1491,
+                        "totali": 2673,
                         "operatori_sanitari": 81,
                         "sintomatici": 201,
                         "asintomatici": 2472
@@ -184,7 +184,7 @@
             "decessi": 9,
             "dettaglio": [
               {
-                "id": 1446,
+                "id": 1456,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 90,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1447,
+                "id": 1457,
                 "luogo_decesso": "FERMO",
                 "sesso": "F",
                 "eta": 71,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1448,
+                "id": 1458,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "F",
                 "eta": 69,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1449,
+                "id": 1459,
                 "luogo_decesso": "RESIDENZA GALANTARA PESARO",
                 "sesso": "M",
                 "eta": 86,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1450,
+                "id": 1460,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "M",
                 "eta": 83,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1451,
+                "id": 1461,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "F",
                 "eta": 94,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1452,
+                "id": 1462,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 77,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1453,
+                "id": 1463,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 61,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1454,
+                "id": 1464,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 86,

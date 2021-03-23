@@ -184,7 +184,7 @@
             "decessi": 13,
             "dettaglio": [
               {
-                "id": 1197,
+                "id": 1207,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 86,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1198,
+                "id": 1208,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 83,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1199,
+                "id": 1209,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "F",
                 "eta": 74,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1200,
+                "id": 1210,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 95,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1201,
+                "id": 1211,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 76,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1202,
+                "id": 1212,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 90,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1203,
+                "id": 1213,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 84,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1204,
+                "id": 1214,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 79,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1205,
+                "id": 1215,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 87,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1206,
+                "id": 1216,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 94,
@@ -274,7 +274,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1207,
+                "id": 1217,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 82,
@@ -283,7 +283,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1208,
+                "id": 1218,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 77,
@@ -292,7 +292,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1209,
+                "id": 1219,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 84,

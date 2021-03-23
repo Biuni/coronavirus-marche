@@ -184,7 +184,7 @@
             "decessi": 9,
             "dettaglio": [
               {
-                "id": 1264,
+                "id": 1274,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 86,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1265,
+                "id": 1275,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 79,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1266,
+                "id": 1276,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 74,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1267,
+                "id": 1277,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 82,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1268,
+                "id": 1278,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 92,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1269,
+                "id": 1279,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 51,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1270,
+                "id": 1280,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 82,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1271,
+                "id": 1281,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 83,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1272,
+                "id": 1282,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 83,

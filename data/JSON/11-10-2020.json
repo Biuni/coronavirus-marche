@@ -184,7 +184,7 @@
             "decessi": 10,
             "dettaglio": [
               {
-                "id": 1076,
+                "id": 1086,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "F",
                 "eta": 85,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1077,
+                "id": 1087,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "F",
                 "eta": 81,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1078,
+                "id": 1088,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "F",
                 "eta": 76,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1079,
+                "id": 1089,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 82,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1080,
+                "id": 1090,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 78,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1081,
+                "id": 1091,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 97,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1082,
+                "id": 1092,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 83,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1083,
+                "id": 1093,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "M",
                 "eta": 83,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1084,
+                "id": 1094,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "M",
                 "eta": 94,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1085,
+                "id": 1095,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 94,

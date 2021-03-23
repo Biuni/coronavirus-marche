@@ -184,7 +184,7 @@
             "decessi": 8,
             "dettaglio": [
               {
-                "id": 1120,
+                "id": 1130,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 69,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1121,
+                "id": 1131,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 77,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1122,
+                "id": 1132,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 88,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1123,
+                "id": 1133,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 94,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1124,
+                "id": 1134,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 86,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1125,
+                "id": 1135,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 94,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1126,
+                "id": 1136,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 93,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1127,
+                "id": 1137,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 82,

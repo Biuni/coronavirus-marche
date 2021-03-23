@@ -110,7 +110,7 @@
         "quarantena_domiciliare": {
             "totali": 111486,
             "attivi": {
-                "totali": 18321,
+                "totali": 18338,
                 "operatori_sanitari": 638,
                 "sintomatici": 3670,
                 "asintomatici": 14668
@@ -119,7 +119,7 @@
                 "pesaro_urbino": {
                     "totali": 35103,
                     "attivi": {
-                        "totali": 2931,
+                        "totali": 3166,
                         "operatori_sanitari": 145,
                         "sintomatici": 1239,
                         "asintomatici": 1927
@@ -128,7 +128,7 @@
                 "ancona": {
                     "totali": 35135,
                     "attivi": {
-                        "totali": 6253,
+                        "totali": 6084,
                         "operatori_sanitari": 279,
                         "sintomatici": 1556,
                         "asintomatici": 4528
@@ -137,7 +137,7 @@
                 "macerata": {
                     "totali": 19914,
                     "attivi": {
-                        "totali": 4715,
+                        "totali": 4660,
                         "operatori_sanitari": 140,
                         "sintomatici": 312,
                         "asintomatici": 4348
@@ -146,7 +146,7 @@
                 "fermo": {
                     "totali": 10086,
                     "attivi": {
-                        "totali": 1855,
+                        "totali": 1822,
                         "operatori_sanitari": 28,
                         "sintomatici": 278,
                         "asintomatici": 1544
@@ -155,7 +155,7 @@
                 "ascoli_piceno": {
                     "totali": 11248,
                     "attivi": {
-                        "totali": 2567,
+                        "totali": 2606,
                         "operatori_sanitari": 46,
                         "sintomatici": 285,
                         "asintomatici": 2321
@@ -184,7 +184,7 @@
             "decessi": 10,
             "dettaglio": [
               {
-                "id": 1210,
+                "id": 1220,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 94,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1211,
+                "id": 1221,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 84,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1212,
+                "id": 1222,
                 "luogo_decesso": "FOSSOMBRONE",
                 "sesso": "F",
                 "eta": 97,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1213,
+                "id": 1223,
                 "luogo_decesso": "FOSSOMBRONE",
                 "sesso": "F",
                 "eta": 93,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1214,
+                "id": 1224,
                 "luogo_decesso": "CASA RIPOSO PETRITOLI",
                 "sesso": "F",
                 "eta": 84,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1215,
+                "id": 1225,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 81,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1216,
+                "id": 1226,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "F",
                 "eta": 77,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 0
               },
 {
-                "id": 1217,
+                "id": 1227,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 77,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1218,
+                "id": 1228,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 60,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 0
               },
 {
-                "id": 1219,
+                "id": 1229,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 83,

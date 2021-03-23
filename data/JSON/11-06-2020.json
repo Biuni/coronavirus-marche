@@ -184,7 +184,7 @@
             "decessi": 8,
             "dettaglio": [
               {
-                "id": 1046,
+                "id": 1056,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 91,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1047,
+                "id": 1057,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 89,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1048,
+                "id": 1058,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 85,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1049,
+                "id": 1059,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 88,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1050,
+                "id": 1060,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 79,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1051,
+                "id": 1061,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 89,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1052,
+                "id": 1062,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 92,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1053,
+                "id": 1063,
                 "luogo_decesso": "DOMICILIO",
                 "sesso": "M",
                 "eta": 86,

@@ -184,7 +184,7 @@
             "decessi": 8,
             "dettaglio": [
               {
-                "id": 1189,
+                "id": 1199,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 87,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1190,
+                "id": 1200,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 85,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1191,
+                "id": 1201,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 74,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1192,
+                "id": 1202,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 67,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1193,
+                "id": 1203,
                 "luogo_decesso": "JESI",
                 "sesso": "M",
                 "eta": 39,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1194,
+                "id": 1204,
                 "luogo_decesso": "JESI",
                 "sesso": "F",
                 "eta": 97,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1195,
+                "id": 1205,
                 "luogo_decesso": "JESI",
                 "sesso": "M",
                 "eta": 73,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1196,
+                "id": 1206,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 82,

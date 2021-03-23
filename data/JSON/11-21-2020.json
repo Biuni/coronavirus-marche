@@ -184,7 +184,7 @@
             "decessi": 12,
             "dettaglio": [
               {
-                "id": 1177,
+                "id": 1187,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 94,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1178,
+                "id": 1188,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 83,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1179,
+                "id": 1189,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 88,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1180,
+                "id": 1190,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 93,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1181,
+                "id": 1191,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "F",
                 "eta": 95,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1182,
+                "id": 1192,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "F",
                 "eta": 82,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1183,
+                "id": 1193,
                 "luogo_decesso": "RSA GALANTARA PESARO",
                 "sesso": "M",
                 "eta": 92,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1184,
+                "id": 1194,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 79,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1185,
+                "id": 1195,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "F",
                 "eta": 79,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1186,
+                "id": 1196,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "M",
                 "eta": 89,
@@ -274,7 +274,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1187,
+                "id": 1197,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 87,
@@ -283,7 +283,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1188,
+                "id": 1198,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "M",
                 "eta": 83,

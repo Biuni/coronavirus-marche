@@ -184,7 +184,7 @@
             "decessi": 6,
             "dettaglio": [
               {
-                "id": 1382,
+                "id": 1392,
                 "luogo_decesso": "FOSSOMBRONE",
                 "sesso": "M",
                 "eta": 64,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1383,
+                "id": 1393,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "M",
                 "eta": 92,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1384,
+                "id": 1394,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 90,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1385,
+                "id": 1395,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "M",
                 "eta": 90,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1386,
+                "id": 1396,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 97,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1387,
+                "id": 1397,
                 "luogo_decesso": "RESIDENZA GALANTARA PESARO",
                 "sesso": "F",
                 "eta": 96,

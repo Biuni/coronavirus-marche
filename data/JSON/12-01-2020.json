@@ -184,7 +184,7 @@
             "decessi": 13,
             "dettaglio": [
               {
-                "id": 1285,
+                "id": 1295,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "F",
                 "eta": 70,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1286,
+                "id": 1296,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "F",
                 "eta": 72,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1287,
+                "id": 1297,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 80,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1288,
+                "id": 1298,
                 "luogo_decesso": "FABRIANO",
                 "sesso": "F",
                 "eta": 91,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1289,
+                "id": 1299,
                 "luogo_decesso": "RESIDENZA VALDASO CAMPOFILONE",
                 "sesso": "M",
                 "eta": 87,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1290,
+                "id": 1300,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "M",
                 "eta": 82,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1291,
+                "id": 1301,
                 "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
                 "sesso": "F",
                 "eta": 83,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1292,
+                "id": 1302,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "M",
                 "eta": 84,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1293,
+                "id": 1303,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 96,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1294,
+                "id": 1304,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 84,
@@ -274,7 +274,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1295,
+                "id": 1305,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 87,
@@ -283,7 +283,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1296,
+                "id": 1306,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 86,
@@ -292,7 +292,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1297,
+                "id": 1307,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 86,

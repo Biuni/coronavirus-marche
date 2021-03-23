@@ -184,7 +184,7 @@
             "decessi": 7,
             "dettaglio": [
               {
-                "id": 1307,
+                "id": 1317,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 63,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1308,
+                "id": 1318,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 82,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1309,
+                "id": 1319,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 86,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1310,
+                "id": 1320,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 72,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1311,
+                "id": 1321,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 90,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1312,
+                "id": 1322,
                 "luogo_decesso": "JESI",
                 "sesso": "M",
                 "eta": 70,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1313,
+                "id": 1323,
                 "luogo_decesso": "SENIGALLIA",
                 "sesso": "M",
                 "eta": 94,

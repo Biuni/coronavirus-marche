@@ -110,7 +110,7 @@
         "quarantena_domiciliare": {
             "totali": 132959,
             "attivi": {
-                "totali": 11730,
+                "totali": 13053,
                 "operatori_sanitari": 494,
                 "sintomatici": 3212,
                 "asintomatici": 9841
@@ -137,7 +137,7 @@
                 "macerata": {
                     "totali": 25169,
                     "attivi": {
-                        "totali": 1491,
+                        "totali": 2814,
                         "operatori_sanitari": 88,
                         "sintomatici": 213,
                         "asintomatici": 2601
@@ -184,7 +184,7 @@
             "decessi": 9,
             "dettaglio": [
               {
-                "id": 1437,
+                "id": 1447,
                 "luogo_decesso": "URBINO",
                 "sesso": "F",
                 "eta": 100,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1438,
+                "id": 1448,
                 "luogo_decesso": "RESIDENZA GALANTARA PESARO",
                 "sesso": "M",
                 "eta": 80,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1439,
+                "id": 1449,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 81,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1440,
+                "id": 1450,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 73,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1441,
+                "id": 1451,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 93,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1442,
+                "id": 1452,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "M",
                 "eta": 60,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 0
               },
 {
-                "id": 1443,
+                "id": 1453,
                 "luogo_decesso": "AOR TORRETTE ANCONA",
                 "sesso": "F",
                 "eta": 97,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 0
               },
 {
-                "id": 1444,
+                "id": 1454,
                 "luogo_decesso": "ASCOLI PICENO",
                 "sesso": "F",
                 "eta": 80,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1445,
+                "id": 1455,
                 "luogo_decesso": "FERMO",
                 "sesso": "M",
                 "eta": 79,

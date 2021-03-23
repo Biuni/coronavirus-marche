@@ -184,7 +184,7 @@
             "decessi": 14,
             "dettaglio": [
               {
-                "id": 1399,
+                "id": 1409,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 96,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1400,
+                "id": 1410,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 87,
@@ -202,7 +202,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1401,
+                "id": 1411,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 87,
@@ -211,7 +211,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1402,
+                "id": 1412,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 82,
@@ -220,7 +220,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1403,
+                "id": 1413,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 78,
@@ -229,7 +229,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1404,
+                "id": 1414,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 80,
@@ -238,7 +238,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1405,
+                "id": 1415,
                 "luogo_decesso": "FERMO",
                 "sesso": "F",
                 "eta": 81,
@@ -247,7 +247,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1406,
+                "id": 1416,
                 "luogo_decesso": "URBINO",
                 "sesso": "F",
                 "eta": 74,
@@ -256,7 +256,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1407,
+                "id": 1417,
                 "luogo_decesso": "MACERATA",
                 "sesso": "F",
                 "eta": 90,
@@ -265,7 +265,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1408,
+                "id": 1418,
                 "luogo_decesso": "MACERATA",
                 "sesso": "M",
                 "eta": 84,
@@ -274,7 +274,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1409,
+                "id": 1419,
                 "luogo_decesso": "CIVITANOVA MARCHE",
                 "sesso": "M",
                 "eta": 66,
@@ -283,7 +283,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1410,
+                "id": 1420,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 91,
@@ -292,7 +292,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1411,
+                "id": 1421,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 83,
@@ -301,7 +301,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1412,
+                "id": 1422,
                 "luogo_decesso": "INRCA FERMO",
                 "sesso": "M",
                 "eta": 87,

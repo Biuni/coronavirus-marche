@@ -184,7 +184,7 @@
             "decessi": 2,
             "dettaglio": [
               {
-                "id": 1041,
+                "id": 1051,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "F",
                 "eta": 85,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
 {
-                "id": 1042,
+                "id": 1052,
                 "luogo_decesso": "AORMN PESARO",
                 "sesso": "M",
                 "eta": 95,

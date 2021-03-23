@@ -184,7 +184,7 @@
             "decessi": 2,
             "dettaglio": [
               {
-                "id": 1034,
+                "id": 1038,
                 "luogo_decesso": "INRCA ANCONA",
                 "sesso": "F",
                 "eta": 85,
@@ -193,7 +193,7 @@
                 "pregresse_patologie": 1
               },
             {
-                "id": 1035,
+                "id": 1039,
                 "luogo_decesso": "SAN BENEDETTO DT",
                 "sesso": "F",
                 "eta": 79,
