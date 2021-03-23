@@ -117,7 +117,7 @@
             },
             "provincia": {
                 "pesaro_urbino": {
-                    "totali": 22316,
+                    "totali": 29251,
                     "attivi": {
                         "totali": 4358,
                         "operatori_sanitari": 255,
@@ -126,7 +126,7 @@
                     }
                 },
                 "ancona": {
-                    "totali": 29251,
+                    "totali": 22316,
                     "attivi": {
                         "totali": 1557,
                         "operatori_sanitari": 46,
