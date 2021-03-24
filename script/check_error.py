@@ -3,6 +3,7 @@ import glob
 
 
 JSONfiles = glob.glob('../data/JSON/*.json')
+JSONfiles.sort()
 
 
 def print_error(id):

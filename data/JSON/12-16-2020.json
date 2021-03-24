@@ -15,7 +15,7 @@
     "tamponi": {
         "totali": {
             "test_effettuati": 467740,
-            "casi_diagnosticati": 273780,
+            "casi_diagnosticati": 272821,
             "casi_positivi": 35680 
         },
         "odierni": {
@@ -38,8 +38,8 @@
         },
         "dimessi_guariti": 23112,
         "attivi": {
-            "persone": 10608,
-            "isolamento_domiciliare": 11131,
+            "persone": 11131,
+            "isolamento_domiciliare": 10608,
             "ricoverati": {
                 "totali": 523,
                 "terapia_intensiva": {
