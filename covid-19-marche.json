@@ -63169,7 +63169,7 @@
           "decessi": 9,
           "dettaglio": [
             {
-              "id": 1234,
+              "id": 1240,
               "luogo_decesso": "MACERATA",
               "sesso": "F",
               "eta": 79,
@@ -65844,7 +65844,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 433239,
-          "casi_diagnosticati": 253076,
+          "casi_diagnosticati": 252117,
           "casi_positivi": 32393
         },
         "odierni": {
@@ -66123,7 +66123,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 434639,
-          "casi_diagnosticati": 254011,
+          "casi_diagnosticati": 253052,
           "casi_positivi": 32538
         },
         "odierni": {
@@ -66474,7 +66474,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 438149,
-          "casi_diagnosticati": 256131,
+          "casi_diagnosticati": 255172,
           "casi_positivi": 32831
         },
         "odierni": {
@@ -66744,7 +66744,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 440236,
-          "casi_diagnosticati": 257377,
+          "casi_diagnosticati": 256418,
           "casi_positivi": 33060
         },
         "odierni": {
@@ -67014,7 +67014,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 443307,
-          "casi_diagnosticati": 259267,
+          "casi_diagnosticati": 258308,
           "casi_positivi": 33383
         },
         "odierni": {
@@ -67257,7 +67257,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 448004,
-          "casi_diagnosticati": 262113,
+          "casi_diagnosticati": 261154,
           "casi_positivi": 33866
         },
         "odierni": {
@@ -67545,7 +67545,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 452143,
-          "casi_diagnosticati": 264878,
+          "casi_diagnosticati": 263919,
           "casi_positivi": 34317
         },
         "odierni": {
@@ -67860,7 +67860,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 456349,
-          "casi_diagnosticati": 267405,
+          "casi_diagnosticati": 266446,
           "casi_positivi": 34798
         },
         "odierni": {
@@ -68139,7 +68139,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 457424,
-          "casi_diagnosticati": 267987,
+          "casi_diagnosticati": 267028,
           "casi_positivi": 34972
         },
         "odierni": {
@@ -68454,7 +68454,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 460780,
-          "casi_diagnosticati": 269841,
+          "casi_diagnosticati": 268882,
           "casi_positivi": 35200
         },
         "odierni": {
@@ -68724,7 +68724,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 467740,
-          "casi_diagnosticati": 273780,
+          "casi_diagnosticati": 272821,
           "casi_positivi": 35680
         },
         "odierni": {
@@ -68747,8 +68747,8 @@
         },
         "dimessi_guariti": 23112,
         "attivi": {
-          "persone": 10608,
-          "isolamento_domiciliare": 11131,
+          "persone": 11131,
+          "isolamento_domiciliare": 10608,
           "ricoverati": {
             "totali": 523,
             "terapia_intensiva": {
@@ -68994,7 +68994,7 @@
       "tamponi": {
         "totali": {
           "test_effettuati": 472564,
-          "casi_diagnosticati": 277059,
+          "casi_diagnosticati": 276100,
           "casi_positivi": 36147
         },
         "odierni": {
