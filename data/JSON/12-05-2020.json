@@ -15,12 +15,12 @@
     "tamponi": {
         "totali": {
             "test_effettuati": 429447,
-            "casi_diagnosticati": 249693,
+            "casi_diagnosticati": 250652,
             "casi_positivi": 31950 
         },
         "odierni": {
             "test_effettuati": 4326,
-            "casi_diagnosticati": 2556,
+            "casi_diagnosticati": 3515,
             "casi_positivi": 418
         }
     },
