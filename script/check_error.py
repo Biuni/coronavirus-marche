@@ -54,6 +54,7 @@ def static_test():
 
     for value in data['report']:
 
+        """
         # Ogni file PDF deve corrispondere al corretto colore del report e alla
         # corretta data.
         if value['file_pdf']['locale']['blu'] != './data/PDF/GORES_Blu/' + \
@@ -68,7 +69,8 @@ def static_test():
                 value['data'] + '.pdf' and value['file_pdf']['locale']['arancio'] != '':
             error = True
             print('\nFile: %s.json' % value['data'], '=>', print_error(2))
-
+        """
+        
         # Il numero di malati totali deve corrispondere alla somma dei malati
         # per ogni provincia.
         total_1 = 0

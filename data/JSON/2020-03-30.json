@@ -1,0 +1,504 @@
+{
+    "data": "2020-03-30",
+    "file_pdf": {
+        "locale": {
+            "blu": "./data/PDF/GORES_Blu/03-30-2020.pdf",
+            "giallo": "./data/PDF/GORES_Giallo/03-30-2020.pdf",
+            "arancio": "./data/PDF/GORES_Arancio/03-30-2020.pdf"
+        },
+        "online": {
+            "blu": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESblu30032020_9.pdf",
+            "giallo": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Repport_schema_sintetico_monitoraggio_agg.30marzo2020.pdf",
+            "arancio": "http://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/GORESarancio30022020_18.pdf"
+        }
+    },
+    "tamponi": {
+        "totali": {
+            "test_effettuati": 0,
+            "casi_diagnosticati": 10979,
+            "casi_positivi": 3684
+        },
+        "odierni": {
+            "test_effettuati": 0,
+            "casi_diagnosticati": 548,
+            "casi_positivi": 126
+        }
+    },
+    "malati": {
+        "totali": {
+            "persone": 3684,
+            "provincia": {
+                "pesaro_urbino": 1639,
+                "ancona": 1060,
+                "macerata": 477,
+                "fermo": 246,
+                "ascoli_piceno": 197,
+                "extra_regione": 65
+            }
+        },
+        "dimessi_guariti": 16,
+        "attivi": {
+            "persone": 3251,
+            "isolamento_domiciliare": 2086,
+            "ricoverati": {
+                "totali": 1165,
+                "terapia_intensiva": {
+                    "totali": 167,
+                    "strutture": {
+                        "AO_Marche_Nord": 36,
+                        "AO_Ancona_Torrette": 42,
+                        "Senigallia": 8,
+                        "Fermo": 17,
+                        "Civitanova": 9,
+                        "Jesi": 15,
+                        "Urbino": 8,
+                        "Camerino": 12,
+                        "San_Benedetto_dT": 11,
+                        "Macerata": 2,
+                        "INRCA_Ancona": 7
+                    }
+                },
+                "semi_intensiva": {
+                    "totali": 315,
+                    "strutture": {
+                        "Civitanova": 9,
+                        "Camerino": 7,
+                        "San_Benedetto_dT": 16,
+                        "Jesi": 16,
+                        "Macerata": 3,
+                        "Urbino": 14,
+                        "Senigallia": 5,
+                        "Fermo": 14,
+                        "AO_Marche_Nord": 127,
+                        "AO_Ancona_Torrette": 96,
+                        "Villa_Pini": 8
+                    }
+                },
+                "post_critica": {
+                    "totali": 160,
+                    "strutture": {
+                        "Chiaravalle": 34,
+                        "Galantara": 18,
+                        "Fossombrone": 26,
+                        "Villa_Pini": 15,
+                        "RSA_Campofilone": 0,
+                        "AO_Ancona_Torrette": 59,
+                        "INRCA_Fermo": 8,
+                        "OspedaleDaCampo_Jesi": 0
+                    }
+                },
+                "non_intensiva": {
+                    "totali": 523,
+                    "strutture": {
+                        "Fermo": 46,
+                        "Jesi": 78,
+                        "Urbino": 47,
+                        "Macerata": 3,
+                        "Senigallia": 71,
+                        "Fabriano": 2,
+                        "Camerino": 52,
+                        "Civitanova": 76,
+                        "San_Benedetto_dT": 24,
+                        "INRCA_Ancona": 38,
+                        "AO_Marche_Nord": 35,
+                        "AO_Ancona_Torrette": 4,
+                        "Villa_Pini": 47
+                    }
+                }
+            }
+        },
+        "quarantena_domiciliare": {
+            "totali": 0,
+            "attivi": {
+                "totali": 6522,
+                "operatori_sanitari": 695,
+                "sintomatici": 1677,
+                "asintomatici": 4845
+            },
+            "provincia": {
+                "pesaro_urbino": {
+                    "totali": 0,
+                    "attivi": {
+                        "totali": 2715,
+                        "operatori_sanitari": 273,
+                        "sintomatici": 635,
+                        "asintomatici": 2080
+                    }
+                },
+                "ancona": {
+                    "totali": 0,
+                    "attivi": {
+                        "totali": 1818,
+                        "operatori_sanitari": 212,
+                        "sintomatici": 616,
+                        "asintomatici": 1202
+                    }
+                },
+                "macerata": {
+                    "totali": 0,
+                    "attivi": {
+                        "totali": 1010,
+                        "operatori_sanitari": 96,
+                        "sintomatici": 238,
+                        "asintomatici": 772
+                    }
+                },
+                "fermo": {
+                    "totali": 0,
+                    "attivi": {
+                        "totali": 682,
+                        "operatori_sanitari": 95,
+                        "sintomatici": 142,
+                        "asintomatici": 540
+                    }
+                },
+                "ascoli_piceno": {
+                    "totali": 0,
+                    "attivi": {
+                        "totali": 297,
+                        "operatori_sanitari": 19,
+                        "sintomatici": 46,
+                        "asintomatici": 251
+                    }
+                }
+            }
+        }
+    },
+    "decessi": {
+        "totali": {
+            "decessi": 452,
+            "sesso": {
+                "maschio": 305,
+                "femmina": 147
+            },
+            "provincia": {
+                "pesaro_urbino": 273,
+                "ancona": 85,
+                "macerata": 52,
+                "fermo": 34,
+                "ascoli_piceno": 3,
+                "extra_regione": 5
+            }
+        },
+        "odierni": {
+            "decessi": 35,
+            "dettaglio": [
+                {
+                    "id": 418,
+                    "luogo_decesso": "URBINO MED",
+                    "sesso": "F",
+                    "eta": 90,
+                    "comune_domicilio": "FANO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 419,
+                    "luogo_decesso": "URBINO MED",
+                    "sesso": "M",
+                    "eta": 76,
+                    "comune_domicilio": "FERMIGNANO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 420,
+                    "luogo_decesso": "URBINO DIAL",
+                    "sesso": "M",
+                    "eta": 91,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 421,
+                    "luogo_decesso": "URBINO MED",
+                    "sesso": "F",
+                    "eta": 66,
+                    "comune_domicilio": "MONTECALVO IN FOGLIA",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 422,
+                    "luogo_decesso": "URBINO MED",
+                    "sesso": "M",
+                    "eta": 70,
+                    "comune_domicilio": "CIVITANOVA M",
+                    "provincia_domicilio": "MC",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 423,
+                    "luogo_decesso": "CAMERINO",
+                    "sesso": "M",
+                    "eta": 69,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 424,
+                    "luogo_decesso": "FABRIANO",
+                    "sesso": "M",
+                    "eta": 87,
+                    "comune_domicilio": "FABRIANO",
+                    "provincia_domicilio": "AN",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 425,
+                    "luogo_decesso": "AO TORRETTE MALINF",
+                    "sesso": "M",
+                    "eta": 72,
+                    "comune_domicilio": "MONTEMARCIANO",
+                    "provincia_domicilio": "AN",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 426,
+                    "luogo_decesso": "AO TORRETTE CARDIO",
+                    "sesso": "M",
+                    "eta": 79,
+                    "comune_domicilio": "FALCONARA MARITTIMA",
+                    "provincia_domicilio": "AN",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 427,
+                    "luogo_decesso": "CIVITANOVA MURGE",
+                    "sesso": "M",
+                    "eta": 79,
+                    "comune_domicilio": "MONTE SAN GIUSTO",
+                    "provincia_domicilio": "MC",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 428,
+                    "luogo_decesso": "CIVITANOVA PS",
+                    "sesso": "F",
+                    "eta": 90,
+                    "comune_domicilio": "RECANATI",
+                    "provincia_domicilio": "MC",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 429,
+                    "luogo_decesso": "CIVITANOVA MED",
+                    "sesso": "M",
+                    "eta": 82,
+                    "comune_domicilio": "RECANATI",
+                    "provincia_domicilio": "MC",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 430,
+                    "luogo_decesso": "CIVITANOVA MED",
+                    "sesso": "M",
+                    "eta": 92,
+                    "comune_domicilio": "CIVITANOVA M",
+                    "provincia_domicilio": "MC",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 431,
+                    "luogo_decesso": "CIVITANOVA MED",
+                    "sesso": "M",
+                    "eta": 75,
+                    "comune_domicilio": "POTENZA PICENA",
+                    "provincia_domicilio": "MC",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 432,
+                    "luogo_decesso": "CIVITANOVA MURGE",
+                    "sesso": "M",
+                    "eta": 79,
+                    "comune_domicilio": "MONTE SAN GIUSTO",
+                    "provincia_domicilio": "MC",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 433,
+                    "luogo_decesso": "JESI TINT",
+                    "sesso": "M",
+                    "eta": 64,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 434,
+                    "luogo_decesso": "AORMN PESARO",
+                    "sesso": "M",
+                    "eta": 69,
+                    "comune_domicilio": "URBINO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 435,
+                    "luogo_decesso": "AORMN PESARO",
+                    "sesso": "M",
+                    "eta": 64,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 0
+                },
+                {
+                    "id": 436,
+                    "luogo_decesso": "AORMN PESARO",
+                    "sesso": "M",
+                    "eta": 74,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 437,
+                    "luogo_decesso": "AORMN PESARO",
+                    "sesso": "M",
+                    "eta": 64,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 438,
+                    "luogo_decesso": "AORMN PESARO",
+                    "sesso": "F",
+                    "eta": 87,
+                    "comune_domicilio": "FANO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 439,
+                    "luogo_decesso": "AORMN PESARO",
+                    "sesso": "M",
+                    "eta": 75,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 440,
+                    "luogo_decesso": "AORMN PESARO",
+                    "sesso": "F",
+                    "eta": 79,
+                    "comune_domicilio": "FANO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 441,
+                    "luogo_decesso": "AORMN PESARO",
+                    "sesso": "M",
+                    "eta": 56,
+                    "comune_domicilio": "FANO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 442,
+                    "luogo_decesso": "SENIGALLIA",
+                    "sesso": "M",
+                    "eta": 83,
+                    "comune_domicilio": "BARBARA",
+                    "provincia_domicilio": "AN",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 443,
+                    "luogo_decesso": "SENIGALLIA",
+                    "sesso": "M",
+                    "eta": 73,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 0
+                },
+                {
+                    "id": 444,
+                    "luogo_decesso": "SENIGALLIA",
+                    "sesso": "M",
+                    "eta": 89,
+                    "comune_domicilio": "MOMBAROCCIO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 445,
+                    "luogo_decesso": "AO TORRETTE RIA",
+                    "sesso": "M",
+                    "eta": 53,
+                    "comune_domicilio": "FANO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 0
+                },
+                {
+                    "id": 446,
+                    "luogo_decesso": "OSPEDALE FERMO",
+                    "sesso": "M",
+                    "eta": 60,
+                    "comune_domicilio": "PORTO SAN GIORGIO",
+                    "provincia_domicilio": "FM",
+                    "pregresse_patologie": 0
+                },
+                {
+                    "id": 447,
+                    "luogo_decesso": "OSPEDALE FERMO",
+                    "sesso": "M",
+                    "eta": 86,
+                    "comune_domicilio": "SANT'ELPIDIO A MARE",
+                    "provincia_domicilio": "FM",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 448,
+                    "luogo_decesso": "OSPEDALE FERMO",
+                    "sesso": "M",
+                    "eta": 82,
+                    "comune_domicilio": "SANT'ELPIDIO A MARE",
+                    "provincia_domicilio": "FM",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 449,
+                    "luogo_decesso": "OSPEDALE FERMO",
+                    "sesso": "M",
+                    "eta": 68,
+                    "comune_domicilio": "PORTO SANT'ELPIDIO",
+                    "provincia_domicilio": "FM",
+                    "pregresse_patologie": 0
+                },
+                {
+                    "id": 450,
+                    "luogo_decesso": "INRCA FERMO",
+                    "sesso": "M",
+                    "eta": 86,
+                    "comune_domicilio": "FERMO",
+                    "provincia_domicilio": "FM",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 451,
+                    "luogo_decesso": "INRCA FERMO",
+                    "sesso": "M",
+                    "eta": 93,
+                    "comune_domicilio": "CAMPOFILONE",
+                    "provincia_domicilio": "FM",
+                    "pregresse_patologie": 1
+                },
+                {
+                    "id": 452,
+                    "luogo_decesso": "INRCA ANC0NA",
+                    "sesso": "M",
+                    "eta": 85,
+                    "comune_domicilio": "PESARO",
+                    "provincia_domicilio": "PU",
+                    "pregresse_patologie": 1
+                }
+            ]
+        }
+    }
+}
