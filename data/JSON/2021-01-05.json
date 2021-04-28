@@ -1,0 +1,319 @@
+{
+    "data": "2021-01-05",
+    "file_pdf": {
+        "locale": {
+            "blu": "./data/PDF/GORES_Blu/05-01-2021.pdf",
+            "giallo": "./data/PDF/GORES_Giallo/05-01-2021.pdf",
+            "arancio": "./data/PDF/GORES_Arancio/05-01-2021.pdf"
+        },
+        "online": {
+            "blu": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/BLU%2005012021%20ore%209revASbis.pdf",
+            "giallo": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Gialla%2005012021%20ore%2012.pdf",
+            "arancio": "https://www.regione.marche.it/portals/0/Salute/CORONAVIRUS/DatiGORES/Arancio%2005012021%20ore%2018.pdf"
+        }
+    },
+    "tamponi": {
+        "totali": {
+            "test_effettuati": 550075,
+            "casi_diagnosticati": 326877,
+            "casi_positivi": 43787
+        },
+        "odierni": {
+            "test_effettuati": 4838,
+            "casi_diagnosticati": 3248,
+            "casi_positivi": 458
+   }
+    },
+    "malati": {
+        "totali": {
+            "persone": 43787,
+            "provincia": {
+                "pesaro_urbino": 10085,
+                "ancona": 12318,
+                "macerata": 9463,
+                "fermo": 5057,
+                "ascoli_piceno": 5328,
+                "extra_regione": 1536
+            }
+        },
+        "dimessi_guariti": 29447,
+        "attivi": {
+            "persone": 12706,
+            "isolamento_domiciliare": 12146,
+            "ricoverati": {
+                "totali": 560,
+                "terapia_intensiva": {
+                    "totali": 65,
+                    "strutture": {
+                        "AO_Marche_Nord": 20,
+                        "AO_Ancona_Torrette": 14,
+                        "Senigallia": 0,
+                        "Fermo": 3,
+                        "Civitanova": 11,
+                        "Jesi": 10,
+                        "Urbino": 0,
+                        "Camerino": 0,
+                        "San_Benedetto_dT": 7,
+                        "Macerata": 0,
+                        "INRCA_Ancona": 0
+                    }
+                },
+                "semi_intensiva": {
+                    "totali": 157,
+                    "strutture": {
+                        "Civitanova": 28,
+                        "Camerino": 0,
+                        "San_Benedetto_dT": 11,
+                        "Jesi": 12,
+                        "Macerata": 8,
+                        "Urbino": 0,
+                        "Senigallia": 10,
+                        "Fermo": 12,
+                        "AO_Marche_Nord": 57,
+                        "AO_Ancona_Torrette": 19,
+                        "Villa_Pini": 0
+                    }
+                },
+                "post_critica": {
+                    "totali": 229,
+                    "strutture": {
+                        "Chiaravalle": 25,
+                        "Galantara": 79,
+                        "Fossombrone": 26,
+                        "Villa_Pini": 0,
+                        "RSA_Campofilone": 64,
+                        "AO_Ancona_Torrette": 35,
+                        "INRCA_Fermo": 0,
+                        "OspedaleDaCampo_Jesi": 0
+                    }
+                },
+                "non_intensiva": {
+                    "totali": 381,
+                    "strutture": {
+                        "Fermo": 62,
+                        "Jesi": 51,
+                        "Urbino": 3,
+                        "Macerata": 47,
+                        "Senigallia": 21,
+                        "Fabriano": 5,
+                        "Camerino": 16,
+                        "Civitanova": 12,
+                        "San_Benedetto_dT": 31,
+                        "INRCA_Ancona": 31,
+                        "AO_Marche_Nord": 38,
+                        "AO_Ancona_Torrette": 64,
+                        "Villa_Pini": 0
+                    }
+                }
+            }
+        },
+        "quarantena_domiciliare": {
+            "totali": 151986,
+            "attivi": {
+                "totali": 13047,
+                "operatori_sanitari": 600,
+                "sintomatici": 4104,
+                "asintomatici": 8943
+            },
+            "provincia": {
+                "pesaro_urbino": {
+                    "totali": 45866,
+                    "attivi": {
+                        "totali": 3550,
+                        "operatori_sanitari": 198,
+                        "sintomatici": 1648,
+                        "asintomatici": 1902
+                    }
+                },
+                "ancona": {
+                    "totali": 47105,
+                    "attivi": {
+                        "totali": 4818,
+                        "operatori_sanitari": 239,
+                        "sintomatici": 1833,
+                        "asintomatici": 2985
+                    }
+                },
+                "macerata": {
+                    "totali": 28527,
+                    "attivi": {
+                        "totali": 2335,
+                        "operatori_sanitari": 99,
+                        "sintomatici": 162,
+                        "asintomatici": 2173
+                    }
+                },
+                "fermo": {
+                    "totali": 14635,
+                    "attivi": {
+                        "totali": 1234,
+                        "operatori_sanitari": 34,
+                        "sintomatici": 199,
+                        "asintomatici": 1035
+                    }
+                },
+                "ascoli_piceno": {
+                    "totali": 15853,
+                    "attivi": {
+                        "totali": 1110,
+                        "operatori_sanitari": 30,
+                        "sintomatici": 262,
+                        "asintomatici": 848
+                    }
+                }
+            }
+        }
+    },
+    "decessi": {
+        "totali": {
+            "decessi": 1647,
+            "sesso": {
+                "maschio": 942,
+                "femmina": 705
+            },
+            "provincia": {
+                "pesaro_urbino": 699,
+                "ancona": 388,
+                "macerata": 278,
+                "fermo": 129,
+                "ascoli_piceno": 139,
+                "extra_regione": 14
+            }
+        },
+        "odierni": {
+            "decessi": 13,
+            "dettaglio": [
+              {
+                "id": 1653,
+                "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
+                "sesso": "M",
+                "eta": 85,
+                "comune_domicilio": "GROTTAMMARE",
+                "provincia_domicilio": "AP",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1654,
+                "luogo_decesso": "SAN BENEDETTO DEL TRONTO",
+                "sesso": "M",
+                "eta": 57,
+                "comune_domicilio": "SAN BENEDETTO DEL TRONTO",
+                "provincia_domicilio": "AP",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1655,
+                "luogo_decesso": "AORMN PESARO",
+                "sesso": "M",
+                "eta": 92,
+                "comune_domicilio": "PESARO",
+                "provincia_domicilio": "PU",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1656,
+                "luogo_decesso": "AORMN PESARO",
+                "sesso": "F",
+                "eta": 65,
+                "comune_domicilio": "URBANIA",
+                "provincia_domicilio": "PU",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1657,
+                "luogo_decesso": "AORMN PESARO",
+                "sesso": "M",
+                "eta": 83,
+                "comune_domicilio": "SAN COSTANZO",
+                "provincia_domicilio": "PU",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1658,
+                "luogo_decesso": "AORMN PESARO",
+                "sesso": "F",
+                "eta": 90,
+                "comune_domicilio": "MONDOLFO",
+                "provincia_domicilio": "PU",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1659,
+                "luogo_decesso": "AORMN PESARO",
+                "sesso": "M",
+                "eta": 88,
+                "comune_domicilio": "FANO",
+                "provincia_domicilio": "PU",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1660,
+                "luogo_decesso": "FERMO",
+                "sesso": "F",
+                "eta": 81,
+                "comune_domicilio": "PORTO SANT'ELPIDIO",
+                "provincia_domicilio": "FM",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1661,
+                "luogo_decesso": "FOSSOMBRONE",
+                "sesso": "F",
+                "eta": 94,
+                "comune_domicilio": "FANO",
+                "provincia_domicilio": "PU",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1662,
+                "luogo_decesso": "CIVITANOVA MARCHE",
+                "sesso": "M",
+                "eta": 82,
+                "comune_domicilio": "TOLENTINO",
+                "provincia_domicilio": "MC",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1663,
+                "luogo_decesso": "INRCA ANCONA",
+                "sesso": "M",
+                "eta": 93,
+                "comune_domicilio": "ANCONA",
+                "provincia_domicilio": "AN",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1664,
+                "luogo_decesso": "RESIDENZA GALANTARA PESARO",
+                "sesso": "M",
+                "eta": 70,
+                "comune_domicilio": "TRECASTELLI",
+                "provincia_domicilio": "AN",
+                "pregresse_patologie": 1
+              },
+{
+                "id": 1665,
+                "luogo_decesso": "RESIDENZA GALANTARA PESARO",
+                "sesso": "F",
+                "eta": 85,
+                "comune_domicilio": "PESARO",
+                "provincia_domicilio": "PU",
+                "pregresse_patologie": 1
+              }
+
+
+
+
+
+
+
+          
+
+
+ 
+
+]
+        }
+
+    }
+}
